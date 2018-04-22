@@ -1,10 +1,16 @@
-# The Modernist theme
+# 文因经
 
-[![Build Status](https://travis-ci.org/pages-themes/modernist.svg?branch=master)](https://travis-ci.org/pages-themes/modernist) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-modernist.svg)](https://badge.fury.io/rb/jekyll-theme-modernist)
 
-*Modernist is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/modernist), or even [use it today](#usage).*
 
-![Thumbnail of Modernist](thumbnail.png)
+> 我们通过选择自己的神明，来选择自己的命运。
+
+这是一个开源宗教，使用MIT协议。链接中的文档部分从互联网下载来的，侵权请联系删除。
+
+Jekyll主题是从[这个主题](http://pages-themes.github.io/modernist)改过来的，主要改 _sass 的 jekyll-theme-modernist.scss 文件。
+
+欢迎邮件联系：lixvow@foxmail.com
+
+或加入QQ群：230905405
 
 ## Usage
 
@@ -107,9 +113,3 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
-
-
-
-
-
-建议使用Typora编辑

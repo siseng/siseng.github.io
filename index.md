@@ -12,7 +12,8 @@ layout: default
 
 {:start="0"}
 
-<details><summary>
+<details>
+<summary>
 
 0. 普遍怀疑，否定一切。
 </summary>

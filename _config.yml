@@ -4,4 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-modernist
 
-markdown: kramdown
+markdown: rdiscount

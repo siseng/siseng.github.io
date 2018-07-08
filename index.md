@@ -16,7 +16,6 @@ layout: default
 
 0. 普遍怀疑，否定一切。
 </summary>
-<p>
 
 > 诗0.1 我们的故事从真空开始，意识的真空
 
@@ -24,7 +23,6 @@ layout: default
 >
 > ![闭着的眼](imgs/if_eye_closed_327975.png)
 
-</p>
 </details>
 
 {:start="1"}

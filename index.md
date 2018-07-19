@@ -12,19 +12,13 @@ layout: default
 
 {:start="0"}
 
-<details>
-<summary>
-
 0. 普遍怀疑，否定一切。
-</summary>
 
 > 诗0.1 我们的故事从真空开始，意识的真空
 
 > 诗0.2 闭着的眼。
 >
 > ![闭着的眼](imgs/if_eye_closed_327975.png)
-
-</details>
 
 {:start="1"}
 

@@ -10,30 +10,26 @@ layout: default
 
 ## 昰之昰
 
-{:start="0"}
+[ΜΞΦ]. 普遍怀疑，否定一切。重估一切价值，和事实。
 
-0. 普遍怀疑，否定一切。重估一切价值，和事实。
+> [ΜΞΦ].α 我们的故事从真空开始，意识的真空。怀疑是一切认知活动的启端，没有适度、独立的怀疑，metaphysics自然无从立足，而常识、感觉经验也会变得可有可无… 通往奴役之路，不需要认知、体悟、理性和灵魂追寻，只需要服从、恭顺…
 
-> 诗0.1 我们的故事从真空开始，意识的真空。怀疑是一切认知活动的启端，没有适度、独立的怀疑，metaphysics自然无从立足，而常识、感觉经验也会变得可有可无… 通往奴役之路，不需要认知、体悟、理性和灵魂追寻，只需要服从、恭顺…
-
-> 诗0.2 闭着的眼。
+> [ΜΞΦ].ε闭着的眼。
 >
 > ![闭着的眼](imgs/if_eye_closed_327975.png)
 
-{:start="1"}
-
-1. 接受森罗万象。
+[ΔΠΠ]. 接受森罗万象。
 
 
-> 诗1.1
+> [ΔΠΠ].α
 >
 > ![睁开的眼](imgs/if_eye_327973.png)
 
-> 诗1.2 阳春召我以烟景——李白
+> [ΔΠΠ].ε 阳春召我以烟景——李白
 
 ## 昰之玄
 
-0. 认识论。我们依赖着这些先天的、后天的认知方法，有了这些认知方法，才有了其后的所有内容。
+[ΛΦΧ].认识论。我们依赖着这些先天的、后天的认知方法，有了这些认知方法，才有了其后的所有内容。
 
 1. 统计关联。赋予原子现象以结构。📜[简介](https://www.dropbox.com/s/0sh3xkv74bmyzc1/%E7%AE%80%E4%BB%8B.pdf?dl=0)， [Population coding of shape in area V4](https://www.dropbox.com/s/ynu5eou6lycarpj/PasCon02.pdf?dl=0)，[Functional neuroanatomy of intuitive physical inference](https://www.dropbox.com/s/k20ptxmum07892t/PNAS-2016-Fischer-E5072-81.pdf?dl=0)，[Premotor cortex and the recognition of motor actions](https://www.dropbox.com/s/zpoa7j0xbdzskxh/S_C3_A3_Rizzolatti_1996.pdf?dl=0)，[Decoding Sound and Imagery Content in Early Visual Cortex](https://www.dropbox.com/s/66agzdw87t1at1l/1-s2.0-S0960982214004588-main.pdf?dl=0)，[Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties](https://www.dropbox.com/s/mb46qfvblfqqqir/126.full.pdf?dl=0)，[Decoupled Neural Interfaces using Synthetic Gradients](https://www.dropbox.com/s/7jrwt2cnwol71vi/1608.05343.pdf?dl=0)，[Diverse Suppressive Influences in Area MT and Selectivity to Complex Motion Features](https://www.dropbox.com/s/enn993s8zs2h1p3/16715.full.pdf?dl=0)，[Structure and Function of Visual Area MT](https://www.dropbox.com/s/qdnl8dvinqv36w3/born-bradley-mt-arn2005.pdf?dl=0)，[Decoding complex flow-field patterns in visual working memory](https://www.dropbox.com/s/p0vjlxor27h0dny/christophel2014.pdf?dl=0)，[Visual working memory enhances neural representations of matching visual input](https://www.dropbox.com/s/6gqxjfx8mv2kuiu/f1000research-125527.pdf?dl=0)，[Cortical responses to invisible objects in the human dorsal and ventral pathways](https://www.dropbox.com/s/rsivsbqejc62x8q/Fang-He-nn1537.pdf?dl=0)，[Experience-dependent spatial expectations in mouse visual cortex](https://www.dropbox.com/s/qs520emvxd8tqdx/fiser2016.pdf?dl=0)，[A functional and perceptual signature of the second visual area in primates](https://www.dropbox.com/s/2sl6mbolkt24slt/freeman_etal_2013.pdf?dl=0)，[Decoding reveals the contents of visual working memory in early visual areas](https://www.dropbox.com/s/adbmma3wk80ypon/Harrison%20Nature%202009.pdf?dl=0)，[RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE OF MONKEY STRIATE CORTEX](https://www.dropbox.com/s/g62tormb9s7ka4j/jphysiol01104-0228.pdf?dl=0)，[The Fusiform Face Area](https://www.dropbox.com/s/6bzwtfnoaf8948x/KanwisherMcDermottChunJNeuro97.pdf?dl=0)，[Less Is More](https://www.dropbox.com/s/vboc5f6y5frgey8/KokJeheeDeLange_Neuron2012.pdf?dl=0)，[Goal-dependent dissociation of visual and prefrontal cortices during working memory](https://www.dropbox.com/s/d7xp3ef8tzwi0x1/lee2013.pdf?dl=0)，[Crowding, grouping, and object recognition](https://www.dropbox.com/s/hx90gqve9qs4loj/Manassi_JOV_2015.pdf?dl=0)，[Selectivity for the Shape, Size, and Orientation of Objects for Grasping in Neurons of Monkey Parietal Area AIP](https://www.dropbox.com/s/hfwm39qtel5tj72/Murata-Gallese%202000.pdf?dl=0)，[Dynamics of motion signaling by neurons in macaque area MT](https://www.dropbox.com/s/uozryjtfi7px7jy/Smith.Majaj.Movshon.NatNeurosc.2005.pdf?dl=0)，[Nonstimulated early visual areas carry information about surrounding context](https://www.dropbox.com/s/98iia1ngweuutrj/PNAS-2010-Smith-20099-103.pdf?dl=0)。
 

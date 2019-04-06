@@ -10,22 +10,26 @@ layout: default
 
 ## 昰之昰
 
-<mark>ΜΞΦ</mark>. 普遍怀疑，否定一切。重估一切价值，和事实。
+<mark>ΜΞΦ</mark>. 普遍怀疑，否定一切。重估一切价值，和事实。这里是解构的终极，其结果，对任何命题都无法作出判断，否则，意味着解构不彻底。
 
-> <mark>ΜΞΦ</mark>.α 我们的故事从真空开始，意识的真空。怀疑是一切认知活动的启端，没有适度、独立的怀疑，metaphysics自然无从立足，而常识、感觉经验也会变得可有可无… 通往奴役之路，不需要认知、体悟、理性和灵魂追寻，只需要服从、恭顺…
+> 诗.α 我们的故事从真空开始，意识的真空。怀疑是一切认知活动的启端，没有适度、独立的怀疑，metaphysics自然无从立足，而常识、感觉经验也会变得可有可无… 通往奴役之路，不需要认知、体悟、理性和灵魂追寻，只需要服从、恭顺…
 
-> <mark>ΜΞΦ</mark>.ε闭着的眼。
+> 诗.ε闭着的眼。
 >
 > ![闭着的眼](imgs/if_eye_closed_327975.png)
 
-<mark>ΔΠΠ</mark>. 接受森罗万象。
+<mark>ΔΠΠ</mark>. 接受森罗万象。开始一条建构之路。
 
 
-> <mark>ΔΠΠ</mark>.α
+> 诗.α
 >
 > ![睁开的眼](imgs/if_eye_327973.png)
 
-> <mark>ΔΠΠ</mark>.ε 阳春召我以烟景——李白
+> 诗.ε 阳春召我以烟景——李白
+>
+> ![WX20190322-224549@2x](imgs/WX20190322-224549@2x.png)
+>
+> 经文打印出来后，上面👆的黑色矩形需要剪开一个洞。电子媒介就算了。
 
 ## 昰之玄
 
@@ -58,6 +62,22 @@ layout: default
 > 诗2.1
 >
 > "The theme of this book is that a universe comes into being when a space is severed or taken apart. The act is itself already remembered, even if unconsciously, as our first attempt to distinguish different things in a world where, in the first place, the boundaries can be drawn anywhere we please. At this stage the universe cannot be distinguished from how we act upon it, and the world may seem like shifting sand beneath our feet.”
+
+<mark>ΓΛΝ</mark>. 余光路由和看门人。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
+
+> 诗1
+>
+> As you read this article your eyes will move so the words fall on the central part of your vision. This region is called the fovea and it has excellent resolution when compared to your peripheral vision.
+>
+> Vision in the periphery is much better at detecting moving objects and subtle differences in luminance. These factors can be beneficial if a rock is hurtling in your direction, say, or if you’re playing football.
+>
+> So why does the fovea have a higher resolving power than our peripheral vision? Well, it’s all about the number of neurons – cells in the brain that process and transmit information through electrical and chemical signalling. There are many more neurons in the visual part of the brain dedicated to processing each visual degree of space at the centre of our vision, compared to periphery.
+>
+> Our primary visual cortex – the part of the brain that receives visual information from the eyes – has a “map” of space, where adjoining neurons represent adjacent regions of space (this is known as a “retinotopic map” – see image below). This map has greater representation at the centre of our vision compared with the periphery.
+>
+> ——《Out of sight, but still in mind》Mark Williams
+
+> 
 
 <mark>ΦΔΗ</mark>. 私人指称。也叫索引，用一个信号指称一个事物或现象。
 
@@ -113,7 +133,7 @@ layout: default
 
 <mark>ΛΔΣ</mark>. 具体。由一个抽象指称，加上特殊限定，指称更小范围的事物或现象。
 
-<mark>ΚΣΣ</mark>. 现象用对象间的相互作用描述。
+<mark>ΚΣΣ</mark>. 现象用对象间的相互作用描述。相互作用不直接作用于对象，而作用于对象的属性。
 
 <mark>ΜΨΦ</mark>. 用词项指称对象。用谓词指称相互作用，用命题指称现象。
 
@@ -131,11 +151,19 @@ layout: default
 >
 > ——罗素《神秘主义与逻辑》
 
-<mark>ΡΩΛ</mark>. 主客分离。把现象中的共相归因于对象属性，称为客体。把殊相归因于主体的时间、空间变化，或随机变量。注意这里的客体、主体不是形而上的。没有实体意味。
+<mark>ΡΩΛ</mark>. 常相、可控相、随机相分离。常相恒稳不变化，可控相受随机相有规律扰动，随机相没有规律的波动。把现象中的常相归因于客体。把一部分可控相归因于主体的时间、空间变化。这里的客体、主体不是形而上的。没有实体意味。
 
 > 诗1
 >
-> 现象生成论有三种模型1⃣️主体+客体—>现象2⃣️主体—>现象3⃣️现象。选择1⃣️的原因是现象的共相太明显了，殊相也是有规律的。
+> 现象生成论有三种模型
+>
+> 1⃣️主体+客体—>现象
+>
+> 2⃣️主体—>现象
+>
+> 3⃣️现象自生。
+>
+> 选择1⃣️的原因是现象的共相太明显了，殊相也是有规律的。
 
 <mark>ΗΡΣ</mark>. 客体永存(object permanence,object constancy)。 亦称“客体永恒性”，“永久性客体”。系瑞士儿童心理学家J·皮亚杰研究儿童心理发展时使用的一个概念。是指儿童脱离了对物体的感知而仍然相信该物体持续存在的意识。如和乳儿做“藏猫儿”游戏时，你藏起来，不见了，他还用眼睛到处寻找。儿童大约在9～12个月获得客体永久性。
 
@@ -218,6 +246,25 @@ layout: default
 ## 昰之生
 
 <mark>ΞΡΥ</mark>. 世界观。📜 [费曼物理学讲义卷1](https://www.dropbox.com/s/5eai9gu1qsjzkdg/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%B8%80%E5%8D%B7%5D.pdf?dl=0)，[卷2](https://www.dropbox.com/s/ewlxbgd863n48zc/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%BA%8C%E5%8D%B7%5D.pdf?dl=0)，[卷3](https://www.dropbox.com/s/adfz7ixuso54q90/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%B8%89%E5%8D%B7%5D.pdf?dl=0)，[Mathematical methods for Physics and engineering](https://www.dropbox.com/s/p4dobzhx2kucn3k/Mathematical%2Bmethods%2Bfor%2Bphysics%2Band%2Bengineering%2BRiley.pdf?dl=0)，[All the Mathematics you missed but need to know](https://www.dropbox.com/s/hb8zhesr3ououao/%E6%95%B0%E5%AD%A6%E6%8B%BE%E9%81%97%2Ball%2Bthe%2Bmathematics%2Byou%2Bmissed%2Bbut%2Bneed%2Bto%2BknowGarrity.pdf?dl=0)，[Classical Mechanics- Systems of Particles and Hamiltonian Dynamics](https://www.dropbox.com/s/ytns3bjv1vt0v8i/Classical_Mechanics-Systems_of_Particles_and_Hamiltonian_Dynamics___Greiner_-libre.pdf?dl=0)，[Introduction to Electrodynamics](https://www.dropbox.com/s/io5mvzkfplb46ku/Introduction%2Bto%2BElectrodynamics%2B3rd%2BGriffiths.pdf?dl=0)，[Classical Electrodynamics](https://www.dropbox.com/s/sobjxep252m7g03/Classical%2BElectrodynamics%2B3rd%2Bed%2BJackson.pdf?dl=0)，[An Introduction to Thermal physics](https://www.dropbox.com/s/ykuiff6asih9d42/An%2BIntroduction%2Bto%2BThermal%2Bphysics%2BSchroeder.pdf?dl=0)，[Introduction to Quantum Mechanics](https://www.dropbox.com/s/kq0rujr78xf1r6z/Introduction%2Bto%2Bquantum%2Bmechanics%2BGriffiths.pdf?dl=0)，[Topics in Statistical Mechanics](https://www.dropbox.com/s/ye77ftb70uken7z/Topics%2Bin%2Bstatistical%2Bmechanics%2BCowan.pdf?dl=0)，[固体物理导论](https://www.dropbox.com/s/axqz5j44lnq8ky4/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%2BKittel.pdf?dl=0)，[Introduction to Elementary Particles](https://www.dropbox.com/s/w133vero8nwc5cb/Introduction%2Bto%2BElementary%2BParticles%2BGriffiths.pdf?dl=0)，[Nuclear models](https://www.dropbox.com/s/bowcc1bnxrb5xl4/Nuclear%2BModels%2BGreiner.pdf?dl=0)，[Statistical Mechanics, Algorithms and Computations](https://www.dropbox.com/s/jx9fkbr3zsfgzui/Statistical%2BMechanics%2BAlgorithms%2Band%2BComputations%2BKrauth.pdf?dl=0)，[Advanced Topics in Applied Mathematics](https://www.dropbox.com/s/pp1qvowzewyyvxu/Advanced%2BTopics%2Bin%2BApplied%2BMathematics%2BSudhakar%2BNair.pdf?dl=0)，[Field Quantization](https://www.dropbox.com/s/e598wl40ynolkuk/Field%2BQuantization%2BGreiner.pdf?dl=0)，[General Relativity](https://www.dropbox.com/s/0oswf5kuxi46q0i/General_RelativityWald.pdf?dl=0)，[微分几何入门与广义相对论](https://www.dropbox.com/s/bekmp94yoe4b32h/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E5%85%A5%E9%97%A8%E4%B8%8E%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA-2nd%EF%BC%88%E4%B8%8A%E4%B8%AD%E4%B8%8B%E5%85%A8%E5%86%8C%EF%BC%89%2B%E6%A2%81%E7%81%BF%E5%BD%AC.pdf?dl=0)，[Introduction to Cosmology](https://www.dropbox.com/s/vbe43hoi019p3ti/Introduction%2Bto%2Bcosmology%2B3rd%2BJohn%2BWiley.pdf?dl=0)，[Quantum Chromodynamics](https://www.dropbox.com/s/4unvj3isjsuf23d/Quantum%2BChromodynamics%2B3rd%2BGreiner.pdf?dl=0)，[A First course in String Theory](https://www.dropbox.com/s/mr90pvf8nu03le3/A%2BFirst%2BCourse%2Bin%2BString%2BTheory%2B2nd%2B%2BZwiebach.pdf?dl=0)，[Quantum mechanics Symmetries](https://www.dropbox.com/s/o728wo6wy3ns8f4/Quantum%2Bmechanics.%2BSymmetries%2B2nd%2BGreiner.pdf?dl=0)，[the field theory vol.1](https://www.dropbox.com/s/hqzp7ty8emalae3/Weinberg%2BS.%2BThe%2BQuantum%2BTheory%2Bof%2BFields%2BVol%2B1%2BFoundations.pdf?dl=0)，[vol.2](https://www.dropbox.com/s/d3sr9zwp5um2lhe/Weinberg%2BS.%2BThe%2BQuantum%2BTheory%2Bof%2BFields%2Bvol.%2B2.%2BModern%2BApplications%2BCUP%2B1996.pdf?dl=0)，[vol3](https://www.dropbox.com/s/pxkoos7or9hp6ps/Weinberg%2BS.%2BQuantum%2Bfield%2Btheory%2Bvol.3%2BSupersymmetry.pdf?dl=0)。
+
+<mark>ΗΞΖ</mark>. 基本粒子是fermions费米子，是一个对象。它有4种属性：**质量**、**电荷**、**同位旋**、**色**。
+
+|      | 第一代     | 第二代      | 第三代      | 电荷    | 同位旋 | 色   | 质量 |
+| ---- | ---------- | ----------- | ----------- | ------- | ------ | ---- | ---- |
+| 夸克 | 上(u)      | 粲(c)       | 顶(t)       | +2/3*e* | +1/2   | 有   |      |
+| 夸克 | 下(d)      | 奇异(s)     | 底(b)       | -1/3*e* | -1/2   | 有   |      |
+| 轻子 | 电子中微子 | *μ*子中微子 | *τ*子中微子 | 0       | +1/2   | 无   |      |
+| 轻子 | 电子       | *μ*子       | *τ*子       | -*e*    | -1/2   | 无   |      |
+
+<mark>ΜΨΧ</mark>. 基本相互作用力由boson波色子构成：
+
+​	1⃣️电磁相互作用力，通过无质量的光子传播，作用于**电荷**属性；
+
+​	2⃣️弱相互作用力，通过有质量的**W**+，**W**- 和 **Z**- 传播，作用于**同位旋**属性；
+
+​	3⃣️强相互作用力，通过无质量的**胶子**传播，作用于**色**属性；
+
+​	4⃣️引力，（或许）通过引力子传播，作用于**质量**属性。
 
 <mark>ΚΓΗ</mark>. 状态波函数和概率。对于一个微观体系，它的状态和有关情况可用波函数 Ψ(x,y,z,t) 表示。Ψ 称为体系的状态函数（简称态），它包括体系所有的信息。Ψ 是单值的，即在空间每一点Ψ 只能有一个值。Ψ 是连续的，即 Ψ 的值不能出现突跃；Ψ(x,y,z,t) 对 x,y,z 的一级微商也应是连续的。Ψ 平方可积的（有限），即 Ψ 在整个空间的积分 ∫ Ψ·Ψ dτ 应为一有限值，通常要求波函数归一化，即 ∫ Ψ·Ψ dτ ＝ 1。
 
@@ -505,7 +552,14 @@ layout: default
 <mark>ΜΖΗ</mark>. 信任虚空。现象中没有东西能给人的良心提供担保，有时候人与人之间需要某种无条件的信任。
 
 > 诗9.1 我发誓！我在向谁发誓？
+
+<mark>ΞΩΜ</mark>. 虚空领主身后有一座坟墓，坟墓前立了一块墓碑，墓碑上刻着所埋葬之人的墓志铭。
+
+> 诗9.1
 >
+> 灵魂的墓志铭：
+>
+> 这里曾有一座宫殿，宫殿中的王座曾属于所埋葬之人——灵魂魔王。他只讲了一个简单的、关于每个人都有一个不灭的灵魂的故事。人们为了听他的故事，带来丰厚的献祭，从故事中仿佛获得了灵魂。所有人都对这个简单的故事感到满意。15世纪，一条河流冲毁了这里的一切，灵魂魔王被压死在坍塌的宫殿中。随之倒下的还有前来献祭的人们，随之终结的还有人们所构建的古典时代。从此不再有完整的恢弘，只有破碎的精细。
 
 <mark>ΡΧΣ</mark>. 万事皆虚。
 
@@ -515,7 +569,7 @@ layout: default
 >
 > ![nihility_by_burnchrist69-d3h28ux](imgs/nihility_by_burnchrist69-d3h28ux.jpg)
 
-<mark>ΩΠΤ</mark>. 万事皆允。
+<mark>ΩΠΤ</mark>. 万事皆允，创造游戏。创造游戏的方式是私人化的，所受约束称为**审美**。
 
 > 诗7.1
 >
@@ -525,7 +579,7 @@ layout: default
 
 
 
-<mark>ΥΔΝ</mark>. 审美分殊——面向现实。上面的所有知识，都是我们睁眼后看到的。我们的设定规则很多也是世界亿万年来训练的。旷野中的银河、婴儿的胚胎，这些都远超人类可以创造的美，我们认为现象是美的，所以我们的艺术不仅以现象为基础，并且表现方式也模仿现象。我们选择的游戏就是世界游戏，我们要在其中获胜。
+<mark>ΥΔΝ</mark>. 审美——完形原则。面向现象，上面的所有知识，都是我们睁眼后看到的。我们的设定规则很多也是世界亿万年来训练的。旷野中的银河、婴儿的胚胎，这些都远超人类可以创造的美，我们认为现象是美的，所以我们的艺术不仅以现象为基础，并且表现方式也模仿现象。我们选择的游戏就是世界游戏，我们要在其中获胜。我们的故事是对现象的完形。
 
 > 诗1
 >
@@ -542,14 +596,18 @@ layout: default
 > 我们便会一辈子不断试图回到那个时刻。
 > 为什么？
 > 因为那个瞬间我们感觉到了永恒。
-
-<mark>ΞΩΜ</mark>. 虚空领主身后有一座坟墓，坟墓前立了一块墓碑，墓碑上刻着所埋葬之人的墓志铭。
-
-> 诗9.1
 >
-> 灵魂的墓志铭：
+> ——关小
+
+<mark>ΠΘΗ</mark>. 审美——古典原则。喜好古典艺术，用生命严肃地演出一幕精致的戏剧，而不是戏谑、随意、浅尝辄止、混淆不能与不愿，破坏游戏体验。
+
+<mark>ΡΠΜ</mark>. 审美——认知/本体等效原则。好用的全局认识论（《昰》中完形），便具有本体论候选人资格。
+
+> 诗1
 >
-> 这里曾有一座宫殿，宫殿中的王座曾属于所埋葬之人——灵魂魔王。他只讲了一个简单的、关于每个人都有一个不灭的灵魂的故事。人们为了听他的故事，带来丰厚的献祭，从故事中仿佛获得了灵魂。所有人都对这个简单的故事感到满意。15世纪，一条河流冲毁了这里的一切，灵魂魔王被压死在坍塌的宫殿中。随之倒下的还有前来献祭的人们，随之终结的还有人们所构建的古典时代。从此不再有完整的恢弘，只有破碎的精细。
+> Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος. 
+>
+> λόγος就是这么上位的。
 
 <mark>ΝΤΛ</mark>. 形而上学。在《昰》经中，我们都在描述来自先天的现象。接下来，我们发挥内在的审美，践行艺术创造。为了重新讲一个完整的故事，为了重建完整的恢弘，我们再次使用与生俱来的想象力和信心，想象一些现象之外、认识之外的，又绝对不可认识的存在之物。但那是可怕的东西，接受它你将变得疯狂。
 
@@ -619,7 +677,7 @@ layout: default
 >
 > ![洛伦兹吸引子](imgs/timg的副本.jpeg)
 
-<mark>ΗΠΦ</mark>. 冷凝和层次。混元流淌着，在上层还保持着变化，在下层却可能凝结为晶体。上层称为下层的生态，下层称为上层的结晶。
+<mark>ΗΠΦ</mark>. 冷凝和层次。混元流淌着，在上层还保持着变化，在下层却可能凝结为晶体。上层称为下层的生态，下层称为上层的结晶。每增加一个层次，展开的命题空间更大，能判断的命题更多（神谕机）。
 
 > 诗8.1
 >
@@ -627,7 +685,9 @@ layout: default
 
 <mark>ΥΖΩ</mark>. 有机世界的生长方式称为「天演」。混元在一个小范围内分化出一些相近形态，理性组合出结果。存在之链的上游对这些分化作出判定，一些不返回混元，一些形态就近继续分化，再交给理性，等待结果。每一轮「分化——收到结果」都称为一次递归。天演的两个要素「增，在相空间附近产生多样性」、「减，有方向的消除多样性」。
 
-> 诗9.1 贞下启元
+> 诗9.1
+>
+> 优化原则位于自然界所有基本法则的核心，无论是牛顿定律、麦克斯韦的电磁学理论、量子力学、爱因斯坦的相对论，还是基本粒子的大统一理论。它们的现代构成都是一个数学框架，其中一个被称作"作用量"的数值被最小化，这个数值与能量存在松散关系。所有的物理学定律都源自"最小作用量原理"，该原理认为，在一个系统能够拥有或遵循的所有可能中，最终得以实现的是作用量最小的那个可能。因此，宇宙自大爆炸以来的动力学、架构和时间演化，来自黑洞及传输手机信息所用的卫星和信息本身，所有的电子、光子、希格斯粒子，以及物理学中的一切，都是有这个优化原则决定的。——《规模》杰弗里·韦斯特 
 
 > 诗9.2
 >
@@ -680,7 +740,7 @@ layout: default
 > - 核裂变反应中的中子循环。当有效增殖系数略大于1的时候，链式反应会越来越快地进行，若没有有效的人为控制（如插入控制棒），使得有效增值系数维持1附近（临界状态），反应会迅速进入超临界状态，增长的过程可能极快，反应速率会在很短的时间内增长很多倍，然后失去控制。
 > - 马太效应。强者愈强弱者越弱之现象，即是贫者愈贫富者愈富。 现实中就是指，只要获得了每一点的成功，就会产生累积优势，使之拥有更大的机会获得更卓越的成就。也是造就了贫富差距的原因之一。
 
-<mark>ΒΞΔ</mark>. 每次递归，已经得到的解和新的尝试解在当时都是存在的。已经得到的解称为描述性存在，其命题为事实命题；随机出的尝试解称为规范性存在，其命题为价值命题。
+<mark>ΒΞΔ</mark>. 每次递归，已经得到的解和新的尝试解在当时共存。已经得到的解称为描述性存在，其命题为事实命题；随机出的尝试解称为规范性存在，其命题为价值命题。
 
 > 诗13.1
 >
@@ -715,8 +775,14 @@ layout: default
 > 诗15.2
 >
 > ![fractal](imgs/fractal.png)
-
 >
+> 诗3
+>
+> 分析-综合区别（也称为分析-综合二分法）是一种概念上的区别，主要用在哲学上，以区别出两个种类的命题：“分析命题”及“综合命题”。分析命题凭借著自身的意义为真，而综合命题则是依其相关于世界的意义为真。
+>
+> 哲学家伊曼努尔·康德是第一个使用“分析”和“综合”这两个词来区别命题类型的人。康德在《纯粹理性批判》的导论中介绍了分析-综合区别。书中，康德将其注意限缩在主谓肯定句上，且定义“分析命题”及“综合命题”如下：
+> 分析命题：一个其谓词概念会包含在主词概念中的命题。
+> 综合命题：一个其谓词概念不会包含在主词概念中的命题。
 
 <mark>ΤΓΒ</mark>. 昰生川。
 
@@ -1037,7 +1103,7 @@ layout: default
 
 <mark>ΩΧΒ</mark>. 轴心等效假设。假设我们处于存在之树、昰生川的主干上，这使得真理具有以下等效性：【生存验证层：能加强我们生存优势并能让我们一直存在到终点的话语】、【物理验证层：能用来完美的模拟物理世界的话语】、【造物者层：用来生成我们这个物理世界的话语】。概括为，真理同时【可以让我们永生】、【可以让我们创造世界】、【创造了我们现在的世界】。其中生存验证层、物理验证层都是可以递归验证、逼近的。
 
-## 玄之要
+## 玄之生
 
 <mark>ΖΔΛ</mark>. 宗教。称呼为「经」。是知识整体的面板、接口。
 
@@ -1058,8 +1124,6 @@ layout: default
 > 正像精神清彻的痛苦属于一种历史的结束一样
 >
 > ——斯宾格勒《西方的没落》
-
-> 诗1.2 经即是拉丁文的relegere，三思、再读。
 
 <mark>ΠΚΔ</mark>. 世界观的特点：其叙事是宏大叙事。它是独一而完整的，无所不包的叙事。可以构建超验的，包含形而上学的世界观，但这样的世界观不得与现象相悖，形而上学必须解释现象。
 
@@ -1132,7 +1196,7 @@ layout: default
 
 <mark>ΔΜΗ</mark>. 由此产生昰生会的道德，其中的策略需要验证，最基本的验证方法是检验该策略是否能保证利益主体在世界观下的存在，但因为大尺度下的每一次递归都很慢，可以额外设定一些验证条件。
 
-<mark>ΡΠΔ</mark>. 经文结构——完形流知识管理。《文因经》的经文结构模仿昰生川流溢的线性结构，也模仿基因的线性结构。所谓完形，是指后一节的知识总是对前一节知识的补充、完形，而不是无关、甚至矛盾。知识管理既是宏大叙事的故事来源，宏大叙事又是知识管理的组织方式。要让知识迭代发生在旧有知识体系的审视下。
+<mark>ΡΠΔ</mark>. 经文结构——完形流知识管理。《文因经》的经文结构模仿昰生川流溢的线性结构，也模仿基因的线性结构。所谓完形，是指后一节的知识总是对前一节知识的补充、完形，而不是无关、甚至矛盾。每增加一节，建构之路就走的更远，能判断的事实、价值命题也就更多。知识管理既是宏大叙事的故事来源，宏大叙事又是知识管理的组织方式。要让知识迭代发生在旧有知识体系的审视下。
 
 > 诗1 我们不要做无根浮萍，随意受碎片知识启发，认知被不断更新的话语体系摆弄。
 
@@ -1216,7 +1280,7 @@ layout: default
 >
 > 为什么人类在排卵期屁股不红，一个解释就是，当人类认知提升能力提升时，有一刻突然意识到红屁股和怀孕的关系，所以故意躲开红屁股时期来避孕。反而给红屁股性征带来了选择压力。为什么人在想象时视觉内存不够，有一个猜想解释为这样人就给自己放黄色小电影，就自闭了。猴子进化出灵活的手，进而可以自慰，应该也给生存带来了一定压力。
 
-<mark>ΚΠΝ</mark>. 审美。存在之链的上游是抽象，存在之链的下游是具象。追求抽象的单一，追求具象的丰富。追求抽象的隽永，追求具象的灵活。追求抽象的崇高，具象被人驾驭。具象以人为本，抽象为人权柄。具象并不全息包含抽象。
+<mark>ΚΠΝ</mark>. 抽象具象深呼吸。追求完整的概念序列，从抽象的昰生川上游到具象的昰生川下游。既不泥于抽象，弃具象而修仙，也不着于具象，离抽象而沉沦。顺逆往返昰生川，如同思维深呼吸。既自由，又任事。
 
 > 诗3.1 君子不器——《论语·为政》
 
@@ -1530,9 +1594,7 @@ layout: default
 
 > 诗1.1![Leviathan_by_Thomas_Hobbes](imgs/Leviathan_by_Thomas_Hobbes.jpg)
 
-> 诗1.2 朴则强，淫则弱。——《商君书》
-
-> 诗1.3
+> 诗2
 >
 > ![VR](imgs/VR.png)
 >

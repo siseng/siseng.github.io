@@ -10,7 +10,7 @@ layout: default
 
 ## 昰之昰
 
-<mark>ΜΞΦ</mark>. 普遍怀疑，否定一切。重估一切价值，和事实。这里是解构的终极，其结果，对任何命题都无法作出判断，否则，意味着解构不彻底。
+<mark>**ΜΞΦ**</mark>. 普遍怀疑，否定一切。重估一切价值，和事实。这里是解构的终极，其结果，对任何命题都无法作出判断，否则，意味着解构不彻底。
 
 > 诗.α 我们的故事从真空开始，意识的真空。怀疑是一切认知活动的启端，没有适度、独立的怀疑，metaphysics自然无从立足，而常识、感觉经验也会变得可有可无… 通往奴役之路，不需要认知、体悟、理性和灵魂追寻，只需要服从、恭顺…
 
@@ -18,7 +18,7 @@ layout: default
 >
 > ![闭着的眼](imgs/if_eye_closed_327975.png)
 
-<mark>ΔΠΠ</mark>. 接受森罗万象。开始一条建构之路。
+<mark>**ΔΠΠ**</mark>. 接受森罗万象。开始一条建构之路。
 
 
 > 诗.α
@@ -33,9 +33,9 @@ layout: default
 
 ## 昰之玄
 
-<mark>ΛΦΧ</mark>. 认识论。我们依赖着这些先天的、后天的认知方法，有了这些认知方法，才有了其后的所有内容。
+<mark>**ΛΦΧ**</mark>. 认识论。我们依赖着这些先天的、后天的认知方法，有了这些认知方法，才有了其后的所有内容。
 
-<mark>ΒΓΔ</mark>. 统计关联。赋予原子现象以结构。📜[简介](https://www.dropbox.com/s/0sh3xkv74bmyzc1/%E7%AE%80%E4%BB%8B.pdf?dl=0)， [Population coding of shape in area V4](https://www.dropbox.com/s/ynu5eou6lycarpj/PasCon02.pdf?dl=0)，[Functional neuroanatomy of intuitive physical inference](https://www.dropbox.com/s/k20ptxmum07892t/PNAS-2016-Fischer-E5072-81.pdf?dl=0)，[Premotor cortex and the recognition of motor actions](https://www.dropbox.com/s/zpoa7j0xbdzskxh/S_C3_A3_Rizzolatti_1996.pdf?dl=0)，[Decoding Sound and Imagery Content in Early Visual Cortex](https://www.dropbox.com/s/66agzdw87t1at1l/1-s2.0-S0960982214004588-main.pdf?dl=0)，[Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties](https://www.dropbox.com/s/mb46qfvblfqqqir/126.full.pdf?dl=0)，[Decoupled Neural Interfaces using Synthetic Gradients](https://www.dropbox.com/s/7jrwt2cnwol71vi/1608.05343.pdf?dl=0)，[Diverse Suppressive Influences in Area MT and Selectivity to Complex Motion Features](https://www.dropbox.com/s/enn993s8zs2h1p3/16715.full.pdf?dl=0)，[Structure and Function of Visual Area MT](https://www.dropbox.com/s/qdnl8dvinqv36w3/born-bradley-mt-arn2005.pdf?dl=0)，[Decoding complex flow-field patterns in visual working memory](https://www.dropbox.com/s/p0vjlxor27h0dny/christophel2014.pdf?dl=0)，[Visual working memory enhances neural representations of matching visual input](https://www.dropbox.com/s/6gqxjfx8mv2kuiu/f1000research-125527.pdf?dl=0)，[Cortical responses to invisible objects in the human dorsal and ventral pathways](https://www.dropbox.com/s/rsivsbqejc62x8q/Fang-He-nn1537.pdf?dl=0)，[Experience-dependent spatial expectations in mouse visual cortex](https://www.dropbox.com/s/qs520emvxd8tqdx/fiser2016.pdf?dl=0)，[A functional and perceptual signature of the second visual area in primates](https://www.dropbox.com/s/2sl6mbolkt24slt/freeman_etal_2013.pdf?dl=0)，[Decoding reveals the contents of visual working memory in early visual areas](https://www.dropbox.com/s/adbmma3wk80ypon/Harrison%20Nature%202009.pdf?dl=0)，[RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE OF MONKEY STRIATE CORTEX](https://www.dropbox.com/s/g62tormb9s7ka4j/jphysiol01104-0228.pdf?dl=0)，[The Fusiform Face Area](https://www.dropbox.com/s/6bzwtfnoaf8948x/KanwisherMcDermottChunJNeuro97.pdf?dl=0)，[Less Is More](https://www.dropbox.com/s/vboc5f6y5frgey8/KokJeheeDeLange_Neuron2012.pdf?dl=0)，[Goal-dependent dissociation of visual and prefrontal cortices during working memory](https://www.dropbox.com/s/d7xp3ef8tzwi0x1/lee2013.pdf?dl=0)，[Crowding, grouping, and object recognition](https://www.dropbox.com/s/hx90gqve9qs4loj/Manassi_JOV_2015.pdf?dl=0)，[Selectivity for the Shape, Size, and Orientation of Objects for Grasping in Neurons of Monkey Parietal Area AIP](https://www.dropbox.com/s/hfwm39qtel5tj72/Murata-Gallese%202000.pdf?dl=0)，[Dynamics of motion signaling by neurons in macaque area MT](https://www.dropbox.com/s/uozryjtfi7px7jy/Smith.Majaj.Movshon.NatNeurosc.2005.pdf?dl=0)，[Nonstimulated early visual areas carry information about surrounding context](https://www.dropbox.com/s/98iia1ngweuutrj/PNAS-2010-Smith-20099-103.pdf?dl=0)。
+<mark>**ΒΓΔ**</mark>. 统计关联。赋予原子现象以结构。📜[简介](https://www.dropbox.com/s/0sh3xkv74bmyzc1/%E7%AE%80%E4%BB%8B.pdf?dl=0)， [Population coding of shape in area V4](https://www.dropbox.com/s/ynu5eou6lycarpj/PasCon02.pdf?dl=0)，[Functional neuroanatomy of intuitive physical inference](https://www.dropbox.com/s/k20ptxmum07892t/PNAS-2016-Fischer-E5072-81.pdf?dl=0)，[Premotor cortex and the recognition of motor actions](https://www.dropbox.com/s/zpoa7j0xbdzskxh/S_C3_A3_Rizzolatti_1996.pdf?dl=0)，[Decoding Sound and Imagery Content in Early Visual Cortex](https://www.dropbox.com/s/66agzdw87t1at1l/1-s2.0-S0960982214004588-main.pdf?dl=0)，[Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties](https://www.dropbox.com/s/mb46qfvblfqqqir/126.full.pdf?dl=0)，[Decoupled Neural Interfaces using Synthetic Gradients](https://www.dropbox.com/s/7jrwt2cnwol71vi/1608.05343.pdf?dl=0)，[Diverse Suppressive Influences in Area MT and Selectivity to Complex Motion Features](https://www.dropbox.com/s/enn993s8zs2h1p3/16715.full.pdf?dl=0)，[Structure and Function of Visual Area MT](https://www.dropbox.com/s/qdnl8dvinqv36w3/born-bradley-mt-arn2005.pdf?dl=0)，[Decoding complex flow-field patterns in visual working memory](https://www.dropbox.com/s/p0vjlxor27h0dny/christophel2014.pdf?dl=0)，[Visual working memory enhances neural representations of matching visual input](https://www.dropbox.com/s/6gqxjfx8mv2kuiu/f1000research-125527.pdf?dl=0)，[Cortical responses to invisible objects in the human dorsal and ventral pathways](https://www.dropbox.com/s/rsivsbqejc62x8q/Fang-He-nn1537.pdf?dl=0)，[Experience-dependent spatial expectations in mouse visual cortex](https://www.dropbox.com/s/qs520emvxd8tqdx/fiser2016.pdf?dl=0)，[A functional and perceptual signature of the second visual area in primates](https://www.dropbox.com/s/2sl6mbolkt24slt/freeman_etal_2013.pdf?dl=0)，[Decoding reveals the contents of visual working memory in early visual areas](https://www.dropbox.com/s/adbmma3wk80ypon/Harrison%20Nature%202009.pdf?dl=0)，[RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE OF MONKEY STRIATE CORTEX](https://www.dropbox.com/s/g62tormb9s7ka4j/jphysiol01104-0228.pdf?dl=0)，[The Fusiform Face Area](https://www.dropbox.com/s/6bzwtfnoaf8948x/KanwisherMcDermottChunJNeuro97.pdf?dl=0)，[Less Is More](https://www.dropbox.com/s/vboc5f6y5frgey8/KokJeheeDeLange_Neuron2012.pdf?dl=0)，[Goal-dependent dissociation of visual and prefrontal cortices during working memory](https://www.dropbox.com/s/d7xp3ef8tzwi0x1/lee2013.pdf?dl=0)，[Crowding, grouping, and object recognition](https://www.dropbox.com/s/hx90gqve9qs4loj/Manassi_JOV_2015.pdf?dl=0)，[Selectivity for the Shape, Size, and Orientation of Objects for Grasping in Neurons of Monkey Parietal Area AIP](https://www.dropbox.com/s/hfwm39qtel5tj72/Murata-Gallese%202000.pdf?dl=0)，[Dynamics of motion signaling by neurons in macaque area MT](https://www.dropbox.com/s/uozryjtfi7px7jy/Smith.Majaj.Movshon.NatNeurosc.2005.pdf?dl=0)，[Nonstimulated early visual areas carry information about surrounding context](https://www.dropbox.com/s/98iia1ngweuutrj/PNAS-2010-Smith-20099-103.pdf?dl=0)。
 
 > 诗1.1 眼见耳闻的现象显然不是随机的，有一种美在召唤着我们去注视。
 
@@ -57,13 +57,13 @@ layout: default
 >
 > 问题在于：一个人往窗外观望，他看到的是树木、天空、建筑，还是组成这些物体的各种感觉素质，例如亮度、色调等等。如果是前者，则构造主义的大厦就会倒塌。
 
-<mark>ΜΡΣ</mark>. 对象。将现象进行统计，提取出对象的特征，这是构成对象的属性，对象是一个N元组，即笛卡尔积。
+<mark>**ΜΡΣ**</mark>. 对象。将现象进行统计，提取出对象的特征构成对象的属性，对象是一个N元组，即笛卡尔积。
 
 > 诗2.1
 >
 > "The theme of this book is that a universe comes into being when a space is severed or taken apart. The act is itself already remembered, even if unconsciously, as our first attempt to distinguish different things in a world where, in the first place, the boundaries can be drawn anywhere we please. At this stage the universe cannot be distinguished from how we act upon it, and the world may seem like shifting sand beneath our feet.”
 
-<mark>ΓΛΝ</mark>. 余光路由和看门人。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
+<mark>**ΓΛΝ**</mark>. 余光路由和看门人。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
 
 > 诗1
 >
@@ -79,7 +79,7 @@ layout: default
 
 > 
 
-<mark>ΦΔΗ</mark>. 私人指称。也叫索引，用一个信号指称一个事物或现象。
+<mark>**ΦΔΗ**</mark>. 私人指称。也叫索引，用一个信号指称一个事物或现象。
 
 > 诗3.1
 >
@@ -95,11 +95,11 @@ layout: default
 >
 > 原子现象如尘埃，是铸成它们的血肉，光芒从黑暗中散发出来，遮掩了它们永远神秘的核心。
 
-<mark>ΔΦΗ</mark>. 世界。将所有的现象称为世界。
+<mark>**ΔΦΗ**</mark>. 世界。将所有的现象称为世界。
 
-<mark>ΔΠΚ</mark>. 懒惰原理。感受到现象世界的相对无穷无尽和自身认知和精力的相对有限。
+<mark>**ΔΠΚ**</mark>. 懒惰原理。感受到现象世界的相对无穷无尽和自身认知和精力的相对有限。
 
-<mark>ΚΡΚ</mark>. 想象。根据有限信息对缺失部分进行补充
+<mark>**ΚΡΚ**</mark>. 想象。根据有限信息对缺失部分进行补充
 
 > 诗6.1
 >
@@ -109,7 +109,7 @@ layout: default
 >
 > 利用早期视觉皮层中与视野右下象限区域拓扑对应体素进行mvpa解码，也可以发现非常显著的结果，这种活动的模式是与真正呈现视觉刺激相关联的。表明即使“缺少”一部分刺激，在大脑中也可以“自动的”帮我们“补全”这一部分丢掉的信息。
 
-<mark>ΠΧΖ</mark>. 抽象。将不同看为残缺，用想象补全为同一的完整。由一个信号指称多个事物或现象。
+<mark>**ΠΧΖ**</mark>. 抽象。将不同看为残缺，用想象补全为同一的完整。由一个信号指称多个事物或现象。
 
 > 诗7.1
 >
@@ -131,13 +131,13 @@ layout: default
 >
 > 随着认知的加工，对象越来越少。
 
-<mark>ΛΔΣ</mark>. 具体。由一个抽象指称，加上特殊限定，指称更小范围的事物或现象。
+<mark>**ΛΔΣ**</mark>. 具体。由一个抽象指称，加上特殊限定，指称更小范围的事物或现象。
 
-<mark>ΚΣΣ</mark>. 现象用对象间的相互作用描述。相互作用不直接作用于对象，而作用于对象的属性。
+<mark>**ΚΣΣ**</mark>. 现象用对象间的相互作用描述。相互作用不直接作用于对象，而作用于对象的属性。
 
-<mark>ΜΨΦ</mark>. 用词项指称对象。用谓词指称相互作用，用命题指称现象。
+<mark>**ΜΨΦ**</mark>. 用词项指称对象。用谓词指称相互作用，用命题指称现象。
 
-<mark>ΓΩΩ</mark>. 归纳法。用归纳法组织统计关联，这是一个增加信息的过程。
+<mark>**ΓΩΩ**</mark>. 归纳法。用归纳法组织统计关联，这是一个增加信息的过程。
 
 > 诗11.1
 >
@@ -151,7 +151,7 @@ layout: default
 >
 > ——罗素《神秘主义与逻辑》
 
-<mark>ΡΩΛ</mark>. 常相、可控相、随机相分离。常相恒稳不变化，可控相受随机相有规律扰动，随机相没有规律的波动。把现象中的常相归因于客体。把一部分可控相归因于主体的时间、空间变化。这里的客体、主体不是形而上的。没有实体意味。
+<mark>**ΡΩΛ**</mark>. 常相、可控相、随机相分离。常相恒稳不变化，可控相受随机相有规律扰动，随机相没有规律的波动。把现象中的常相归因于客体。把一部分可控相归因于主体的时间、空间变化。这里的客体、主体不是形而上的。没有实体意味。
 
 > 诗1
 >
@@ -165,7 +165,7 @@ layout: default
 >
 > 选择1⃣️的原因是现象的共相太明显了，殊相也是有规律的。
 
-<mark>ΗΡΣ</mark>. 客体永存(object permanence,object constancy)。 亦称“客体永恒性”，“永久性客体”。系瑞士儿童心理学家J·皮亚杰研究儿童心理发展时使用的一个概念。是指儿童脱离了对物体的感知而仍然相信该物体持续存在的意识。如和乳儿做“藏猫儿”游戏时，你藏起来，不见了，他还用眼睛到处寻找。儿童大约在9～12个月获得客体永久性。
+<mark>**ΗΡΣ**</mark>. 客体永存(object permanence,object constancy)。 亦称“客体永恒性”，“永久性客体”。系瑞士儿童心理学家J·皮亚杰研究儿童心理发展时使用的一个概念。是指儿童脱离了对物体的感知而仍然相信该物体持续存在的意识。如和乳儿做“藏猫儿”游戏时，你藏起来，不见了，他还用眼睛到处寻找。儿童大约在9～12个月获得客体永久性。
 
 > 诗1
 >
@@ -175,19 +175,25 @@ layout: default
 >
 > 看来皮亚杰很可能低估了婴儿的认知能力，婴儿在感觉—运动某些方面的发展比皮亚杰所说的要发生得更早。不过，毫无疑问，客体永存性的获得是儿童早期发展的一个重要里程碑。它标志着儿童从局限于当时当地的身体动作中解放出来，认识到物体的位置转换和永久存在性。
 
-<mark>ΚΓΩ</mark>. 宾我。两方面，一方面对象识别。延引他人（发现他人身体与自己身体的相似性，发现他人的死亡伴随着他人活动的消失，猜测意识与身体的联系），自己的身体，镜中自己的形象，那个可以控制眼睛睁开、关闭的意识，发现它们紧密关联在一起，于是统合为一个对象。另一方面，性的方面，一个极短的「需求-行为-满足」反馈的闭环，但无法长久平息需求，而带来对循环的焦虑，比如婴儿吃手，婴儿注视镜子并自恋，这是发现自我“性”的过程。合并为「宾我」，这是一个停留在现象内的自我。📜 [宾我](https://www.dropbox.com/s/nloheh2wyqnn4o1/%E5%AE%BE%E6%88%91.pdf?dl=0)。
+<mark>**ΚΓΩ**</mark>. 宾我。两方面，一方面对象识别。延引他人（发现他人身体与自己身体的相似性，发现他人的死亡伴随着他人活动的消失，猜测意识与身体的联系），自己的身体，镜中自己的形象，那个可以控制眼睛睁开、关闭的意识，发现它们紧密关联在一起，于是统合为一个对象。另一方面，性的方面，一个极短的「需求-行为-满足」反馈的闭环，但无法长久平息需求，而带来对循环的焦虑，比如婴儿吃手，婴儿注视镜子并自恋，这是发现自我“性”的过程。合并为「宾我」，这是一个停留在现象内的自我。📜 [宾我](https://www.dropbox.com/s/nloheh2wyqnn4o1/%E5%AE%BE%E6%88%91.pdf?dl=0)，[统计出的自我](https://www.dropbox.com/s/e0qq9lyn2j1fzyk/%E5%A4%A7%E8%84%91%E9%80%9A%E8%BF%87%E7%BB%9F%E8%AE%A1%E6%8E%A8%E7%90%86%E8%A1%A8%E5%BE%81%E2%80%9C%E8%87%AA%E6%88%91%E2%80%9D.pdf?dl=0)。
 
-> 诗12.1 威廉·詹姆斯的经验自我（Me）。
+> 诗
+>
+> 威廉·詹姆斯的经验自我（Me）。
 
-> 诗12.2
+> 诗
 >
 > 我思故我在？思未必有主语。
 >
 > 最核心的问题是，我们的意识是什么东西发出的、承载的？这里的客我和意识的关联只是一种猜测、一种极弱的关联，因为这种猜测经不起「缸中脑」的质问，我们最可靠的假设反而是「身心二元论」，假设意识是一种纯粹意识。就像「我思」但没有主语我。就像一个缸里装着水，水怎么知道缸的存在，要知道缸的存在，就需要水和缸的接触面也是水，这个水又要和缸接触，这样就无穷无尽了。于是最可靠的假设，反而是，水不是被缸盛着的，水是悬浮在真空中，意识是自发涌现出的。这里要参考胡塞尔的现象学或者拉康。
+>
+> 诗
+>
+> 在利用身体错觉现象考察自我身体感知的研究中，前人发现我们对身体的感知并非一成不变。在特定条件下，大脑也会将外界物体感知成自身身体的一部分，或者失去对自己身体部位的感知。为了在神经元和大脑环路水平上探究自我身体表征的机制，研究人员利用自主设计搭建的、能诱导手臂感知错觉的虚拟现实呈现系统（图B），通过目标点指向任务（图C），开展了让猕猴汇报自身手臂位置而推理其身体幻觉强度的研究。在行为学任务中，被试通过伸手指向视觉目标点来确认自己手臂的位置。当被试在视频反馈系统中所见的视觉手臂和真实手臂发生偏差时，被试因为身体错觉而导致其确认的手臂位置（目标点）与实际手臂位置间产生不同程度的偏差，即本体感觉偏移（图F）。对人和猕猴行为结果的分析显示，当视觉－本体感觉偏差较小时，本体感觉偏移基本上由视觉信息主导，即被试认为视觉手臂为自己的手臂；而当偏差逐渐增大时，本体感觉偏移却不再增大或甚至减小，表明了被试更多地利用了本体感觉手臂而忽略视觉手臂信息，即失去了对视觉手臂的拥有感。![F1.large](imgs/F1.large.jpg)
 
-<mark>ΦΣΠ</mark>. 因果关系。
+<mark>**ΦΣΠ**</mark>. 因果关系。
 
-<mark>ΓΛΗ</mark>. 演绎法。📜 [Precursors  of  logical  reasoningin  preverbal  human  infants](https://www.dropbox.com/s/dlzbya596sn8xmc/10.1126%40science.aao3539.pdf?dl=0)。
+<mark>**ΓΛΗ**</mark>. 演绎法。📜 [Precursors  of  logical  reasoningin  preverbal  human  infants](https://www.dropbox.com/s/dlzbya596sn8xmc/10.1126%40science.aao3539.pdf?dl=0)。
 
 > 诗14.1
 >
@@ -199,7 +205,7 @@ layout: default
 >
 > Tolman「老鼠走迷宫」实验
 
-<mark>ΝΛΜ</mark>. 叙事结构。结构化时序体验，以压缩长期记忆负担。一个持续的体验最终只会采用“峰终定律”(peak-end rule)，也就是只记得相对预期的高峰和终点这两者，再平均作为整个体验记录。
+<mark>**ΝΛΜ**</mark>. 叙事结构。结构化时序体验，以压缩长期记忆负担。一个持续的体验最终只会采用“峰终定律”(peak-end rule)，也就是只记得相对预期的高峰和终点这两者，再平均作为整个体验记录。
 
 > 诗15.1
 >
@@ -209,13 +215,13 @@ layout: default
 >
 > 2002年诺贝尔经济学奖得主丹尼尔·卡尼曼就做过一项开创性的实验，请一组志愿受试者参加一项分成三阶段的实验。在“短”阶段的实验中，受试者将一只手放入14℃的水中一分钟，而这种水温会让人不悦甚至痛苦。60秒后，就请他们把手拿出来。而在“长”阶段的试验中，受试者的手会放入另一个容器中，水温同样是14℃。但在60秒后，会偷偷将热水导进容器，使水温略升为15℃。有些受试者会先做“短”实验，也有些从“长”实验开始。但不论哪种，都会在两部分都结束的7分钟后，开始第三（也是最重要的）阶段。研究人员告知受试者，他们必须重复前两阶段的其中之一，可以自由选择。足足有80%的人选择了“长”实验，在印象中以为这没那么痛苦。
 
-<mark>ΓΡΥ</mark>. 等效原理。在数学和自然科学理论中，那些已被证明的命题对于该理论的任意模型都可使命题为真。
+<mark>**ΓΡΥ**</mark>. 等效原理。在数学和自然科学理论中，那些已被证明的命题对于该理论的任意模型都可使命题为真。
 
-<mark>ΡΤΔ</mark>. 加入事实模型的可验证性条件。
+<mark>**ΡΤΔ**</mark>. 加入事实模型的可验证性条件。
 
-<mark>ΣΛΤ</mark>. 齐一性原理，世界总是以同样方式起作用。
+<mark>**ΣΛΤ**</mark>. 齐一性原理，世界总是以同样方式起作用。
 
-<mark>ΓΠΣ</mark>. 简单原理，世界最终是简单的。由懒惰原理得，同奥卡姆剃刀原理等效。
+<mark>**ΓΠΣ**</mark>. 简单原理，世界最终是简单的。由懒惰原理得，同奥卡姆剃刀原理等效。
 
 > 诗19.1
 >
@@ -223,9 +229,9 @@ layout: default
 >
 > 化繁杂的地心说为简明的日心说。
 
-<mark>ΦΝΝ</mark>. 统一性原理。世界有可能用一种统一的理论理解。
+<mark>**ΦΝΝ**</mark>. 统一性原理。世界有可能用一种统一的理论理解。
 
-<mark>ΧΓΡ</mark>. 公共指称。我们首先从现象中用分类、聚类的办法抽取出对象-相互关系。在一个语境下，对象-相互关系是比较特定的，比如猴子所在的稀树草原，狮子、鹰、蛇等。这些对象-相互关系构成一个网络，边是相互关系，节点是对象，整个语境的特征就是网络的拓扑性质。
+<mark>**ΧΓΡ**</mark>. 公共指称。我们首先从现象中用分类、聚类的办法抽取出对象-相互关系。在一个语境下，对象-相互关系是比较特定的，比如猴子所在的稀树草原，狮子、鹰、蛇等。这些对象-相互关系构成一个网络，边是相互关系，节点是对象，整个语境的特征就是网络的拓扑性质。
 
 然后我们用名词、动词去模拟上面这个网络的结构，鹰吃蛇、蛇吃猴这样一个语义网络，如果不限制语境，这个网络的语义是任意的。但是限制语境后，不同的人都通过相似性去找语义，两个网络能点和点一一对应、边和边一一对应地重合，便获得意义，语言也完成指称。特定语境下，两个网络能否重合是比较偶然的，所以不同的人对指称的歧义不大。公共的指称主要在结构中完成的，而不是节点中独自完成的。
 
@@ -235,7 +241,7 @@ layout: default
 >
 > 这就是个大型隐喻了。
 
-<mark>ΘΖΗ</mark>. 可信度杠杆。自我的感知有限，无法跨越特定的时间、空间，若他人、仪器与自己的观测方法一致，且可经取样抽查检验，则可以信任他人或仪器得出的观测、知识。
+<mark>**ΘΖΗ**</mark>. 可信度杠杆。自我的感知有限，无法跨越特定的时间、空间，若他人、仪器与自己的观测方法一致，且可经取样抽查检验，则可以信任他人或仪器得出的观测、知识。
 
 > 诗22.1
 >
@@ -245,9 +251,9 @@ layout: default
 
 ## 昰之生
 
-<mark>ΞΡΥ</mark>. 世界观。📜 [费曼物理学讲义卷1](https://www.dropbox.com/s/5eai9gu1qsjzkdg/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%B8%80%E5%8D%B7%5D.pdf?dl=0)，[卷2](https://www.dropbox.com/s/ewlxbgd863n48zc/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%BA%8C%E5%8D%B7%5D.pdf?dl=0)，[卷3](https://www.dropbox.com/s/adfz7ixuso54q90/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%B8%89%E5%8D%B7%5D.pdf?dl=0)，[Mathematical methods for Physics and engineering](https://www.dropbox.com/s/p4dobzhx2kucn3k/Mathematical%2Bmethods%2Bfor%2Bphysics%2Band%2Bengineering%2BRiley.pdf?dl=0)，[All the Mathematics you missed but need to know](https://www.dropbox.com/s/hb8zhesr3ououao/%E6%95%B0%E5%AD%A6%E6%8B%BE%E9%81%97%2Ball%2Bthe%2Bmathematics%2Byou%2Bmissed%2Bbut%2Bneed%2Bto%2BknowGarrity.pdf?dl=0)，[Classical Mechanics- Systems of Particles and Hamiltonian Dynamics](https://www.dropbox.com/s/ytns3bjv1vt0v8i/Classical_Mechanics-Systems_of_Particles_and_Hamiltonian_Dynamics___Greiner_-libre.pdf?dl=0)，[Introduction to Electrodynamics](https://www.dropbox.com/s/io5mvzkfplb46ku/Introduction%2Bto%2BElectrodynamics%2B3rd%2BGriffiths.pdf?dl=0)，[Classical Electrodynamics](https://www.dropbox.com/s/sobjxep252m7g03/Classical%2BElectrodynamics%2B3rd%2Bed%2BJackson.pdf?dl=0)，[An Introduction to Thermal physics](https://www.dropbox.com/s/ykuiff6asih9d42/An%2BIntroduction%2Bto%2BThermal%2Bphysics%2BSchroeder.pdf?dl=0)，[Introduction to Quantum Mechanics](https://www.dropbox.com/s/kq0rujr78xf1r6z/Introduction%2Bto%2Bquantum%2Bmechanics%2BGriffiths.pdf?dl=0)，[Topics in Statistical Mechanics](https://www.dropbox.com/s/ye77ftb70uken7z/Topics%2Bin%2Bstatistical%2Bmechanics%2BCowan.pdf?dl=0)，[固体物理导论](https://www.dropbox.com/s/axqz5j44lnq8ky4/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%2BKittel.pdf?dl=0)，[Introduction to Elementary Particles](https://www.dropbox.com/s/w133vero8nwc5cb/Introduction%2Bto%2BElementary%2BParticles%2BGriffiths.pdf?dl=0)，[Nuclear models](https://www.dropbox.com/s/bowcc1bnxrb5xl4/Nuclear%2BModels%2BGreiner.pdf?dl=0)，[Statistical Mechanics, Algorithms and Computations](https://www.dropbox.com/s/jx9fkbr3zsfgzui/Statistical%2BMechanics%2BAlgorithms%2Band%2BComputations%2BKrauth.pdf?dl=0)，[Advanced Topics in Applied Mathematics](https://www.dropbox.com/s/pp1qvowzewyyvxu/Advanced%2BTopics%2Bin%2BApplied%2BMathematics%2BSudhakar%2BNair.pdf?dl=0)，[Field Quantization](https://www.dropbox.com/s/e598wl40ynolkuk/Field%2BQuantization%2BGreiner.pdf?dl=0)，[General Relativity](https://www.dropbox.com/s/0oswf5kuxi46q0i/General_RelativityWald.pdf?dl=0)，[微分几何入门与广义相对论](https://www.dropbox.com/s/bekmp94yoe4b32h/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E5%85%A5%E9%97%A8%E4%B8%8E%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA-2nd%EF%BC%88%E4%B8%8A%E4%B8%AD%E4%B8%8B%E5%85%A8%E5%86%8C%EF%BC%89%2B%E6%A2%81%E7%81%BF%E5%BD%AC.pdf?dl=0)，[Introduction to Cosmology](https://www.dropbox.com/s/vbe43hoi019p3ti/Introduction%2Bto%2Bcosmology%2B3rd%2BJohn%2BWiley.pdf?dl=0)，[Quantum Chromodynamics](https://www.dropbox.com/s/4unvj3isjsuf23d/Quantum%2BChromodynamics%2B3rd%2BGreiner.pdf?dl=0)，[A First course in String Theory](https://www.dropbox.com/s/mr90pvf8nu03le3/A%2BFirst%2BCourse%2Bin%2BString%2BTheory%2B2nd%2B%2BZwiebach.pdf?dl=0)，[Quantum mechanics Symmetries](https://www.dropbox.com/s/o728wo6wy3ns8f4/Quantum%2Bmechanics.%2BSymmetries%2B2nd%2BGreiner.pdf?dl=0)，[the field theory vol.1](https://www.dropbox.com/s/hqzp7ty8emalae3/Weinberg%2BS.%2BThe%2BQuantum%2BTheory%2Bof%2BFields%2BVol%2B1%2BFoundations.pdf?dl=0)，[vol.2](https://www.dropbox.com/s/d3sr9zwp5um2lhe/Weinberg%2BS.%2BThe%2BQuantum%2BTheory%2Bof%2BFields%2Bvol.%2B2.%2BModern%2BApplications%2BCUP%2B1996.pdf?dl=0)，[vol3](https://www.dropbox.com/s/pxkoos7or9hp6ps/Weinberg%2BS.%2BQuantum%2Bfield%2Btheory%2Bvol.3%2BSupersymmetry.pdf?dl=0)。
+<mark>**ΞΡΥ**</mark>. 世界观。📜 [费曼物理学讲义卷1](https://www.dropbox.com/s/5eai9gu1qsjzkdg/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%B8%80%E5%8D%B7%5D.pdf?dl=0)，[卷2](https://www.dropbox.com/s/ewlxbgd863n48zc/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%BA%8C%E5%8D%B7%5D.pdf?dl=0)，[卷3](https://www.dropbox.com/s/adfz7ixuso54q90/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%5B%E6%96%B0%E7%89%88%E7%AC%AC%E4%B8%89%E5%8D%B7%5D.pdf?dl=0)，[Mathematical methods for Physics and engineering](https://www.dropbox.com/s/p4dobzhx2kucn3k/Mathematical%2Bmethods%2Bfor%2Bphysics%2Band%2Bengineering%2BRiley.pdf?dl=0)，[All the Mathematics you missed but need to know](https://www.dropbox.com/s/hb8zhesr3ououao/%E6%95%B0%E5%AD%A6%E6%8B%BE%E9%81%97%2Ball%2Bthe%2Bmathematics%2Byou%2Bmissed%2Bbut%2Bneed%2Bto%2BknowGarrity.pdf?dl=0)，[Classical Mechanics- Systems of Particles and Hamiltonian Dynamics](https://www.dropbox.com/s/ytns3bjv1vt0v8i/Classical_Mechanics-Systems_of_Particles_and_Hamiltonian_Dynamics___Greiner_-libre.pdf?dl=0)，[Introduction to Electrodynamics](https://www.dropbox.com/s/io5mvzkfplb46ku/Introduction%2Bto%2BElectrodynamics%2B3rd%2BGriffiths.pdf?dl=0)，[Classical Electrodynamics](https://www.dropbox.com/s/sobjxep252m7g03/Classical%2BElectrodynamics%2B3rd%2Bed%2BJackson.pdf?dl=0)，[An Introduction to Thermal physics](https://www.dropbox.com/s/ykuiff6asih9d42/An%2BIntroduction%2Bto%2BThermal%2Bphysics%2BSchroeder.pdf?dl=0)，[Introduction to Quantum Mechanics](https://www.dropbox.com/s/kq0rujr78xf1r6z/Introduction%2Bto%2Bquantum%2Bmechanics%2BGriffiths.pdf?dl=0)，[Topics in Statistical Mechanics](https://www.dropbox.com/s/ye77ftb70uken7z/Topics%2Bin%2Bstatistical%2Bmechanics%2BCowan.pdf?dl=0)，[固体物理导论](https://www.dropbox.com/s/axqz5j44lnq8ky4/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%2BKittel.pdf?dl=0)，[Introduction to Elementary Particles](https://www.dropbox.com/s/w133vero8nwc5cb/Introduction%2Bto%2BElementary%2BParticles%2BGriffiths.pdf?dl=0)，[Nuclear models](https://www.dropbox.com/s/bowcc1bnxrb5xl4/Nuclear%2BModels%2BGreiner.pdf?dl=0)，[Statistical Mechanics, Algorithms and Computations](https://www.dropbox.com/s/jx9fkbr3zsfgzui/Statistical%2BMechanics%2BAlgorithms%2Band%2BComputations%2BKrauth.pdf?dl=0)，[Advanced Topics in Applied Mathematics](https://www.dropbox.com/s/pp1qvowzewyyvxu/Advanced%2BTopics%2Bin%2BApplied%2BMathematics%2BSudhakar%2BNair.pdf?dl=0)，[Field Quantization](https://www.dropbox.com/s/e598wl40ynolkuk/Field%2BQuantization%2BGreiner.pdf?dl=0)，[General Relativity](https://www.dropbox.com/s/0oswf5kuxi46q0i/General_RelativityWald.pdf?dl=0)，[微分几何入门与广义相对论](https://www.dropbox.com/s/bekmp94yoe4b32h/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%E5%85%A5%E9%97%A8%E4%B8%8E%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA-2nd%EF%BC%88%E4%B8%8A%E4%B8%AD%E4%B8%8B%E5%85%A8%E5%86%8C%EF%BC%89%2B%E6%A2%81%E7%81%BF%E5%BD%AC.pdf?dl=0)，[Introduction to Cosmology](https://www.dropbox.com/s/vbe43hoi019p3ti/Introduction%2Bto%2Bcosmology%2B3rd%2BJohn%2BWiley.pdf?dl=0)，[Quantum Chromodynamics](https://www.dropbox.com/s/4unvj3isjsuf23d/Quantum%2BChromodynamics%2B3rd%2BGreiner.pdf?dl=0)，[A First course in String Theory](https://www.dropbox.com/s/mr90pvf8nu03le3/A%2BFirst%2BCourse%2Bin%2BString%2BTheory%2B2nd%2B%2BZwiebach.pdf?dl=0)，[Quantum mechanics Symmetries](https://www.dropbox.com/s/o728wo6wy3ns8f4/Quantum%2Bmechanics.%2BSymmetries%2B2nd%2BGreiner.pdf?dl=0)，[the field theory vol.1](https://www.dropbox.com/s/hqzp7ty8emalae3/Weinberg%2BS.%2BThe%2BQuantum%2BTheory%2Bof%2BFields%2BVol%2B1%2BFoundations.pdf?dl=0)，[vol.2](https://www.dropbox.com/s/d3sr9zwp5um2lhe/Weinberg%2BS.%2BThe%2BQuantum%2BTheory%2Bof%2BFields%2Bvol.%2B2.%2BModern%2BApplications%2BCUP%2B1996.pdf?dl=0)，[vol3](https://www.dropbox.com/s/pxkoos7or9hp6ps/Weinberg%2BS.%2BQuantum%2Bfield%2Btheory%2Bvol.3%2BSupersymmetry.pdf?dl=0)。
 
-<mark>ΗΞΖ</mark>. 基本粒子是fermions费米子，是一个对象。它有4种属性：**质量**、**电荷**、**同位旋**、**色**。
+<mark>**ΗΞΖ**</mark>. 基本粒子是fermions费米子，是一个对象。它有4种属性：**质量**、**电荷**、**同位旋**、**色**。
 
 |      | 第一代     | 第二代      | 第三代      | 电荷    | 同位旋 | 色   | 质量 |
 | ---- | ---------- | ----------- | ----------- | ------- | ------ | ---- | ---- |
@@ -256,7 +262,7 @@ layout: default
 | 轻子 | 电子中微子 | *μ*子中微子 | *τ*子中微子 | 0       | +1/2   | 无   |      |
 | 轻子 | 电子       | *μ*子       | *τ*子       | -*e*    | -1/2   | 无   |      |
 
-<mark>ΜΨΧ</mark>. 基本相互作用力由boson波色子构成：
+<mark>**ΜΨΧ**</mark>. 基本相互作用力由boson波色子构成：
 
 ​	1⃣️电磁相互作用力，通过无质量的光子传播，作用于**电荷**属性；
 
@@ -266,35 +272,35 @@ layout: default
 
 ​	4⃣️引力，（或许）通过引力子传播，作用于**质量**属性。
 
-<mark>ΚΓΗ</mark>. 状态波函数和概率。对于一个微观体系，它的状态和有关情况可用波函数 Ψ(x,y,z,t) 表示。Ψ 称为体系的状态函数（简称态），它包括体系所有的信息。Ψ 是单值的，即在空间每一点Ψ 只能有一个值。Ψ 是连续的，即 Ψ 的值不能出现突跃；Ψ(x,y,z,t) 对 x,y,z 的一级微商也应是连续的。Ψ 平方可积的（有限），即 Ψ 在整个空间的积分 ∫ Ψ·Ψ dτ 应为一有限值，通常要求波函数归一化，即 ∫ Ψ·Ψ dτ ＝ 1。
+<mark>**ΚΓΗ**</mark>. 状态波函数和概率。对于一个微观体系，它的状态和有关情况可用波函数 Ψ(x,y,z,t) 表示。Ψ 称为体系的状态函数（简称态），它包括体系所有的信息。Ψ 是单值的，即在空间每一点Ψ 只能有一个值。Ψ 是连续的，即 Ψ 的值不能出现突跃；Ψ(x,y,z,t) 对 x,y,z 的一级微商也应是连续的。Ψ 平方可积的（有限），即 Ψ 在整个空间的积分 ∫ Ψ·Ψ dτ 应为一有限值，通常要求波函数归一化，即 ∫ Ψ·Ψ dτ ＝ 1。
 
-<mark>ΞΠΛ</mark>. 力学量和线形厄米算符。对一个微观体系的每个可观测的力学量，都对应着一个线性厄米算符，ÂΨ = aΨ。
+<mark>**ΞΠΛ**</mark>. 力学量和线形厄米算符。对一个微观体系的每个可观测的力学量，都对应着一个线性厄米算符，ÂΨ = aΨ。
 
-<mark>ΓΦΩ</mark>. 本征方程与薛定谔方程。若某一力学量 A 对应的算符 Â 作用于某一状态函数ψ后，等于某一常数 a 乘以 ψ，即 Âψ = aψ，那么对 ψ 所描述的这个微观体系的状态，其力学量 A 具有确定的数值 a，a 称为力学量算符 Â 的本征值，ψ 称为Â的本征态或本征函数，Âψ = aψ 称为 Â 的本征方程。
+<mark>**ΓΦΩ**</mark>. 本征方程与薛定谔方程。若某一力学量 A 对应的算符 Â 作用于某一状态函数ψ后，等于某一常数 a 乘以 ψ，即 Âψ = aψ，那么对 ψ 所描述的这个微观体系的状态，其力学量 A 具有确定的数值 a，a 称为力学量算符 Â 的本征值，ψ 称为Â的本征态或本征函数，Âψ = aψ 称为 Â 的本征方程。
 
-<mark>ΠΞΩ</mark>. 叠加原理。若 ψ1，ψ2… ψn 为某一微观体系的可能状态，由它们线性组合所得的ψ = c1ψ1 + c2ψ2 + … + cnψn 也是该体系可能的状态。
+<mark>**ΠΞΩ**</mark>. 叠加原理。若 ψ1，ψ2… ψn 为某一微观体系的可能状态，由它们线性组合所得的ψ = c1ψ1 + c2ψ2 + … + cnψn 也是该体系可能的状态。
 
-<mark>ΨΡΨ</mark>. Pauli 原理。描述多电子体系空间运动和自旋运动的全波函数，交换任两个电子的全部坐标（空间坐标和自旋坐标），必然得到反对称的波函数。
+<mark>**ΨΡΨ**</mark>. Pauli 原理。描述多电子体系空间运动和自旋运动的全波函数，交换任两个电子的全部坐标（空间坐标和自旋坐标），必然得到反对称的波函数。
 
-<mark>ΒΡΗ</mark>. 爱因斯坦相对性原理。物理规律在所有惯性系中都具有相同的形式。
+<mark>**ΒΡΗ**</mark>. 爱因斯坦相对性原理。物理规律在所有惯性系中都具有相同的形式。
 
-<mark>ΤΥΖ</mark>. 光速不变原理。在所有的惯性系中，光在真空中的传播速度中具有相同的值 C。
+<mark>**ΤΥΖ**</mark>. 光速不变原理。在所有的惯性系中，光在真空中的传播速度中具有相同的值 C。
 
-<mark>ΒΛΘ</mark>. 时空均匀且各向同性。
+<mark>**ΒΛΘ**</mark>. 时空均匀且各向同性。
 
-<mark>ΒΨΞ</mark>. 所有的进化现象都可以用一个将遗传机制和观察到的现象统一起来的方式来解释。
+<mark>**ΒΨΞ**</mark>. 所有的进化现象都可以用一个将遗传机制和观察到的现象统一起来的方式来解释。
 
-<mark>ΥΦΗ</mark>. 进化是渐进的：微小的变化在自然选择的作用下，经过长时间的积累；物种（性状）的不连续性可以用进化过程中的地理隔离和物种灭绝事件来解释。
+<mark>**ΥΦΗ**</mark>. 进化是渐进的：微小的变化在自然选择的作用下，经过长时间的积累；物种（性状）的不连续性可以用进化过程中的地理隔离和物种灭绝事件来解释。
 
 > 诗10.1
 >
 > 在古生物学中，从微观进化推演到宏观进化可以用来解释历史上观测到的一些现象。渐进主义并不等于进化的速率始终不变。
 
-<mark>ΔΘΜ</mark>. 自然选择是目前为止主要导致变异的因素；微小的有利变异经过长时间积累也会导致显著的性状变化；自然选择影响物种在其生境中的表型。
+<mark>**ΔΘΜ**</mark>. 自然选择是目前为止主要导致变异的因素；微小的有利变异经过长时间积累也会导致显著的性状变化；自然选择影响物种在其生境中的表型。
 
-<mark>ΔΘΚ</mark>. 遗传漂变的作用不可忽视。
+<mark>**ΔΘΚ**</mark>. 遗传漂变的作用不可忽视。
 
-<mark>ΤΣΝ</mark>. 群体是进化的基本单位，而不是个体。自然群体的遗传多样性是进化的重要因子。在自然群体中，自然选择的作用比之前认为的更大。生态因子，比如生态位，以及基因流的作用很重要。
+<mark>**ΤΣΝ**</mark>. 群体是进化的基本单位，而不是个体。自然群体的遗传多样性是进化的重要因子。在自然群体中，自然选择的作用比之前认为的更大。生态因子，比如生态位，以及基因流的作用很重要。
 
 > 诗13.1
 >
@@ -302,15 +308,15 @@ layout: default
 >
 > ——《现代人起源于偶然事件？》
 
-<mark>ΚΦΧ</mark>. 基因。指携带有遗传信息的DNA序列，是控制性状的基本遗传单位，亦即一段具有功能性的DNA序列。基因通过指导蛋白质的合成来表现所携带的遗传信息，从而控制生物个体的性状（差异）表现。
+<mark>**ΚΦΧ**</mark>. 基因。指携带有遗传信息的DNA序列，是控制性状的基本遗传单位，亦即一段具有功能性的DNA序列。基因通过指导蛋白质的合成来表现所携带的遗传信息，从而控制生物个体的性状（差异）表现。
 
 > 诗15.1 「基因」来自希腊语，意思为“生”。![DNA_Structure+Key+Labelled.pn_NoBB](imgs/DNA_Structure+Key+Labelled.pn_NoBB.png)
 
-<mark>ΡΞΧ</mark>. 生物的行为由“复制更多自身基因”的动机支配。社会行为、利他行为可以由此解释，也可由内含适应性和亲选择解释。（在许多情形下，基于内含适应性的计算，和基于个体适应性的计算，会得出近似的结果（因此我们常常可以用“自私的个体”去近似“自私的基因”））。📜 [Sociobiology](https://www.dropbox.com/s/s3z3brh0xyfyoe6/Edward%20O.%20Wilson-Sociobiology_%20The%20Abridged%20Edition%20%20-Belknap%20Press%20of%20Harvard%20University%20Press%20%281980%29.pdf?dl=0)。
+<mark>**ΡΞΧ**</mark>. 生物的行为由“复制更多自身基因”的动机支配。社会行为、利他行为可以由此解释，也可由内含适应性和亲选择解释。（在许多情形下，基于内含适应性的计算，和基于个体适应性的计算，会得出近似的结果（因此我们常常可以用“自私的个体”去近似“自私的基因”））。📜 [Sociobiology](https://www.dropbox.com/s/s3z3brh0xyfyoe6/Edward%20O.%20Wilson-Sociobiology_%20The%20Abridged%20Edition%20%20-Belknap%20Press%20of%20Harvard%20University%20Press%20%281980%29.pdf?dl=0)。
 
-<mark>ΒΞΣ</mark>. 性的代价。相比孤雌生殖，个体需要接受性选择，也就需要额外发育出很多第二性征。相比孤雌生殖，亲本只能把自己50%的基因传给下一代。相比孤雌生殖，有性生殖给寄生基因创造机会（比如杀死没有携带它们的精子）。
+<mark>**ΒΞΣ**</mark>. 性的代价。相比孤雌生殖，个体需要接受性选择，也就需要额外发育出很多第二性征。相比孤雌生殖，亲本只能把自己50%的基因传给下一代。相比孤雌生殖，有性生殖给寄生基因创造机会（比如杀死没有携带它们的精子）。
 
-<mark>ΚΚΔ</mark>. 性的益处。因为「自私的基因」所以性必须对群体和个体都有益处。📜 [生命的跃升](https://www.dropbox.com/s/gydyuec0oj08cgu/%E7%94%9F%E5%91%BD%E7%9A%84%E8%B7%83%E5%8D%87%E2%80%94%E2%80%9440%E4%BA%BF%E5%B9%B4%E6%BC%94%E5%8C%96%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%8D%81%E5%A4%A7%E5%8F%91%E6%98%8E.pdf?dl=0)。
+<mark>**ΚΚΔ**</mark>. 性的益处。因为「自私的基因」所以性必须对群体和个体都有益处。📜 [生命的跃升](https://www.dropbox.com/s/gydyuec0oj08cgu/%E7%94%9F%E5%91%BD%E7%9A%84%E8%B7%83%E5%8D%87%E2%80%94%E2%80%9440%E4%BA%BF%E5%B9%B4%E6%BC%94%E5%8C%96%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%8D%81%E5%A4%A7%E5%8F%91%E6%98%8E.pdf?dl=0)。
 
 1）对个体的眼下益处。有性生殖可以帮助个体适应变化的环境。红色皇后假说：有性生殖可以让个体处于变化之中来应付寄生虫。
 
@@ -336,7 +342,7 @@ layout: default
 >
 > 美洲龙纹螯虾发生基因突变之后，获得了孤雌生殖的能力，它们极速繁殖、疯狂扩张，短短二十年间席卷整个欧洲。罪恶的傲慢者，经受不住结晶的诱惑，把自身的秩序与混元隔绝开来，企图据为己有，享受永恒的安稳，等待他们的只有穆勒棘轮的残酷碾压。
 
-<mark>ΝΚΞ</mark>. 缓慢的内部调控：内分泌系统。对机体生理过程起调节作用。
+<mark>**ΝΚΞ**</mark>. 缓慢的内部调控：内分泌系统。对机体生理过程起调节作用。
 
 1） 第一类为类固醇，如肾上腺皮质激素（皮质醇、醛固酮等）、性激素（雌激素、孕激素及雄激素等）；
 2） 第二类为氨基酸衍生物，有甲状腺素、肾上腺髓质激素、松果体激素等；
@@ -357,11 +363,11 @@ layout: default
 >
 > ![Illu_endocrine_system_New](imgs/Illu_endocrine_system_New.png)
 
-<mark>ΓΚΡ</mark>. 快速的内部调控：植物神经系统。是一个控制系统，很大程度上是无意识地调节身体机能，如心率，消化，呼吸速率，瞳孔反应，排尿，性冲动。 该系统主要是控制“应激”及“应急”反应。由处于相互平衡制约中、功能相反的交感和副交感神经构成。
+<mark>**ΓΚΡ**</mark>. 快速的内部调控：植物神经系统。是一个控制系统，很大程度上是无意识地调节身体机能，如心率，消化，呼吸速率，瞳孔反应，排尿，性冲动。 该系统主要是控制“应激”及“应急”反应。由处于相互平衡制约中、功能相反的交感和副交感神经构成。
 
-<mark>ΣΠΔ</mark>. 外部行为调节：反射。初生儿就可完成一些最简单的非条件反射，如吸吮反射、吞咽反射、排尿反射、排便反射和屈肌反射等。以后由于机体不断接触外界环境，经过训练可逐渐形成越来越多的条件反射。
+<mark>**ΣΠΔ**</mark>. 外部行为调节：反射。初生儿就可完成一些最简单的非条件反射，如吸吮反射、吞咽反射、排尿反射、排便反射和屈肌反射等。以后由于机体不断接触外界环境，经过训练可逐渐形成越来越多的条件反射。
 
-<mark>ΣΨΛ</mark>. 外部行为调节：情绪系统。描述为针对内部或外部的重要事件所产生的突发反应，情绪会产生动机。
+<mark>**ΣΨΛ**</mark>. 外部行为调节：情绪系统。描述为针对内部或外部的重要事件所产生的突发反应，情绪会产生动机。
 
 > 诗22.1
 >
@@ -377,15 +383,15 @@ layout: default
 >
 > ![Skinner_box_scheme_01](imgs/Skinner_box_scheme_01.png)
 
-<mark>ΦΞΤ</mark>. 最复杂的外部行为调节：叙事系统。根据叙事方式的不同调控情绪系统。
+<mark>**ΦΞΤ**</mark>. 最复杂的外部行为调节：叙事系统。根据叙事方式的不同调控情绪系统。
 
 > 诗23.1
 >
 > 前额叶皮层功能最典型的心理功能是执行功能。执行功能的能力涉及区分冲突思想、确定好与坏、更好与最佳、相同和不同、当前行为的未来后果、致力于确定目标、预测结果、基于行为的预期和社会“控制”（压抑冲动的能力，如果不被压制，会导致社会上不可接受的结果）。其中的**DLPFC**(dorsolateral prefrontal cortex 背外侧前额叶皮层)是人类和非人类灵长类大脑前额叶皮层区域。 它是人类大脑最近衍生的部分之一。 它经历了长时间的发育，持续到成年。 DLPFC不是解剖结构，而是功能性结构。它也是涉及动机规划，组织和管理的最高皮质区域。
 
-<mark>ΛΠΔ</mark>. 人的大部分行为受无意识驱动，小部分行为受意识驱动。
+<mark>**ΛΠΔ**</mark>. 人的大部分行为受无意识驱动，小部分行为受意识驱动。
 
-<mark>ΚΚΜ</mark>. 生物的培养。微生物的封闭培养（closed culture）进入衰亡期的原因一般是「养分减少，营养物比例失调，有毒代谢物产生，培养环境条件中pH和氧化还原电位等对细菌生长不利」，但将衰亡期的微生物移至新培养基（类似于连续培养），将再次进入指数期（多数芽孢细菌在此期形成芽孢)。类似的实验（universe 25）发生在社会性哺乳动物上时，培养也会进入衰亡期，但原因微生物不同，社会性哺乳动物进入衰亡期的原因是「个体的社会行为被不可逆地破坏」，而繁殖的基础也是社会行为。并且将衰亡期的社会哺乳动物迁入新环境时，也无法扭转其继续衰亡。📜 [Universe 25](https://www.dropbox.com/s/tfrvvg5a3uu4vjj/procrsmed00338-0007.pdf?dl=0)
+<mark>**ΚΚΜ**</mark>. 生物的培养。微生物的封闭培养（closed culture）进入衰亡期的原因一般是「养分减少，营养物比例失调，有毒代谢物产生，培养环境条件中pH和氧化还原电位等对细菌生长不利」，但将衰亡期的微生物移至新培养基（类似于连续培养），将再次进入指数期（多数芽孢细菌在此期形成芽孢)。类似的实验（universe 25）发生在社会性哺乳动物上时，培养也会进入衰亡期，但原因微生物不同，社会性哺乳动物进入衰亡期的原因是「个体的社会行为被不可逆地破坏」，而繁殖的基础也是社会行为。并且将衰亡期的社会哺乳动物迁入新环境时，也无法扭转其继续衰亡。📜 [Universe 25](https://www.dropbox.com/s/tfrvvg5a3uu4vjj/procrsmed00338-0007.pdf?dl=0)
 
 > 诗25.1
 >
@@ -401,18 +407,18 @@ layout: default
 
 ## 玄之昰
 
-<mark>ΩΔΓ</mark>. 奇点。虚无之境。
+<mark>**ΩΔΓ**</mark>. 奇点。虚无之境。
 
 > 诗0.1 请细细品味，并快速通过，因为每一口都是致命的，却刻骨铭心。
 
-<mark>ΗΔΨ</mark>. 在《昰》经中，我们已经有了描述的知识，这是我们所面对的现象。但这些现象不足以完全满足我们前额叶皮层PFC赋予我们的叙事本能、游戏本能。这个游戏本性是指：我们希望
+<mark>**ΗΔΨ**</mark>. 在《昰》经中，我们已经有了描述的知识，这是我们所面对的现象。但这些现象不足以完全满足我们前额叶皮层PFC赋予我们的叙事本能、游戏本能。这个游戏本性是指：我们希望
 
 |                     游戏的规律可以被认知                     |
 | :----------------------------------------------------------: |
 |                   **我们作为玩家有自主性**                   |
 |  **可以根据对游戏规律的理解发挥自主性，对后续结果产生影响**  |
-|  **游戏会有结局，有明确的胜利、失败条件，可以多样可以单一**  |
-| **游戏过程中有适当的奖惩，可以在胜利前积累正反馈，奖惩可以游戏内资源为形式，也可以玩家熟练度为形式** |
+| **游戏会有结局，有明确的胜利、失败条件，可以多样可以单一**（对应刺激-反应模式） |
+| **游戏过程中有适当的奖惩，可以在胜利前积累正反馈，奖惩可以游戏内资源为形式，也可以玩家熟练度为形式**（从刺激反应模式到趋向性、梯度） |
 
 现象有些方面符合我们的游戏本性，称为充实；有些方面不符合我们的游戏本性，称为虚空。
 
@@ -446,9 +452,9 @@ layout: default
 >
 > 把我们卷入其中！……
 
-<mark>ΚΛΛ</mark>. 认知充实。世界太有规律了，看上去可以被认知。
+<mark>**ΚΛΛ**</mark>. 认知充实。世界太有规律了，看上去可以被认知。
 
-<mark>ΤΨΥ</mark>. 自主充实。感觉上我们有自主性，但也可能是不断自我合理化自己被动行为，所带来的错觉。
+<mark>**ΤΨΥ**</mark>. 自主充实。感觉上我们有自主性，但也可能是不断自我合理化自己被动行为，所带来的错觉。
 
 > 诗3.1
 >
@@ -493,11 +499,11 @@ layout: default
 >
 > 对于习得性无助，我们应该勇敢地正视自己的内心，并且骄傲地战胜它。除了死亡本身，你的命运并非无法抵抗。伟大的诗人里尔克，曾在他的书《给青年诗人的10封信》中提到，“**我们所谓的命运是从我们内部走出来，并不是从外边向我们走进。只因为有许多人，当命运在身内生存时，他们不曾把它吸收，所以他们也认不清有什么从他们身内出现。**”习得性无助就是我们体内产生的命运，看清它，我们就能从中摆脱。
 
-<mark>ΝΜΖ</mark>. 失败充实。看上去死亡后一切都结束了，如果连子嗣都死亡了，你基因对世界的影响都彻底没有了，死亡像是一种失败条件。
+<mark>**ΝΜΖ**</mark>. 失败充实。看上去死亡后一切都结束了，如果连子嗣都死亡了，你基因对世界的影响都彻底没有了，死亡像是一种失败条件。
 
-<mark>ΧΞΣ</mark>. 积累充实。看上去可以不断积累生存优势来远离死亡，但不知道如何积累优势靠近胜利，因为没有明显的胜利条件的线索。
+<mark>**ΧΞΣ**</mark>. 积累充实。看上去可以不断积累生存优势来远离死亡，但不知道如何积累优势靠近胜利，因为没有明显的胜利条件的线索。
 
-<mark>ΒΣΒ</mark>. 胜利虚空。现象中没有人的价值、没有明确的胜利条件。有死亡的失败条件，能让人有被动生存的动机，却没有明确的胜利条件，无法让人产生主动追求胜利的动机。
+<mark>**ΒΣΒ**</mark>. 胜利虚空。现象中没有人的价值、没有明确的胜利条件。有死亡的失败条件，能让人有被动生存的动机，却没有明确的胜利条件，无法让人产生主动追求胜利的动机。
 
 > 诗6.1
 >
@@ -511,7 +517,7 @@ layout: default
 >
 > ——帕斯卡尔
 
-<mark>ΗΦΗ</mark>. 自由虚空。现象没有给人的自由留出位置。 📜 [主我](https://www.dropbox.com/s/g6v8vkzca29gx2j/%E4%B8%BB%E6%88%91.pdf?dl=0)，[Learned helplessness : a theory for the age of personal control](https://www.dropbox.com/s/zabpfhdv6lpy6ev/Learned%20helplessness%20-%20a%20theory%20for%20the%20age%20of%20personal%20control.pdf?dl=0)，[Learned Helplessness in Humans: Critique and Reformulation](https://www.dropbox.com/s/bbelvl3dhxf9299/775276f83a46162a9b364335d9ee5ee73b99.pdf?dl=0)，[LEARNED HELPLESSNESS IN GROUPS](https://www.dropbox.com/s/ug7a1gwlh2s0hsr/005799765.pdf?dl=0)，[FAILURE TO ESCAPE TRAUMATIC SHOCK](https://www.dropbox.com/s/lpzcdkopjm6wcpx/seligman.pdf?dl=0)。
+<mark>**ΗΦΗ**</mark>. 自由虚空。现象没有给人的自由留出位置。 📜 [主我](https://www.dropbox.com/s/g6v8vkzca29gx2j/%E4%B8%BB%E6%88%91.pdf?dl=0)，[Learned helplessness : a theory for the age of personal control](https://www.dropbox.com/s/zabpfhdv6lpy6ev/Learned%20helplessness%20-%20a%20theory%20for%20the%20age%20of%20personal%20control.pdf?dl=0)，[Learned Helplessness in Humans: Critique and Reformulation](https://www.dropbox.com/s/bbelvl3dhxf9299/775276f83a46162a9b364335d9ee5ee73b99.pdf?dl=0)，[LEARNED HELPLESSNESS IN GROUPS](https://www.dropbox.com/s/ug7a1gwlh2s0hsr/005799765.pdf?dl=0)，[FAILURE TO ESCAPE TRAUMATIC SHOCK](https://www.dropbox.com/s/lpzcdkopjm6wcpx/seligman.pdf?dl=0)。
 
 > 诗7.1
 >
@@ -547,13 +553,13 @@ layout: default
 >
 > ——Ted Melnechuk
 
-<mark>ΛΜΜ</mark>. 真理虚空。现象中只有原子现象，无法满足人不断抽象、抽象到完整图景的需要。
+<mark>**ΛΜΜ**</mark>. 真理虚空。现象中只有原子现象，无法满足人不断抽象、抽象到完整图景的需要。
 
-<mark>ΜΖΗ</mark>. 信任虚空。现象中没有东西能给人的良心提供担保，有时候人与人之间需要某种无条件的信任。
+<mark>**ΜΖΗ**</mark>. 信任虚空。现象中没有东西能给人的良心提供担保，有时候人与人之间需要某种无条件的信任。
 
 > 诗9.1 我发誓！我在向谁发誓？
 
-<mark>ΞΩΜ</mark>. 虚空领主身后有一座坟墓，坟墓前立了一块墓碑，墓碑上刻着所埋葬之人的墓志铭。
+<mark>**ΞΩΜ**</mark>. 虚空领主身后有一座坟墓，坟墓前立了一块墓碑，墓碑上刻着所埋葬之人的墓志铭。
 
 > 诗9.1
 >
@@ -561,7 +567,7 @@ layout: default
 >
 > 这里曾有一座宫殿，宫殿中的王座曾属于所埋葬之人——灵魂魔王。他只讲了一个简单的、关于每个人都有一个不灭的灵魂的故事。人们为了听他的故事，带来丰厚的献祭，从故事中仿佛获得了灵魂。所有人都对这个简单的故事感到满意。15世纪，一条河流冲毁了这里的一切，灵魂魔王被压死在坍塌的宫殿中。随之倒下的还有前来献祭的人们，随之终结的还有人们所构建的古典时代。从此不再有完整的恢弘，只有破碎的精细。
 
-<mark>ΡΧΣ</mark>. 万事皆虚。
+<mark>**ΡΧΣ**</mark>. 万事皆虚。
 
 > 诗10.1
 >
@@ -569,7 +575,7 @@ layout: default
 >
 > ![nihility_by_burnchrist69-d3h28ux](imgs/nihility_by_burnchrist69-d3h28ux.jpg)
 
-<mark>ΩΠΤ</mark>. 万事皆允，创造游戏。创造游戏的方式是私人化的，所受约束称为**审美**。
+<mark>**ΩΠΤ**</mark>. 万事皆允，创造游戏。创造游戏的方式是私人化的，所受约束称为**审美**。
 
 > 诗7.1
 >
@@ -579,7 +585,7 @@ layout: default
 
 
 
-<mark>ΥΔΝ</mark>. 审美——完形原则。面向现象，上面的所有知识，都是我们睁眼后看到的。我们的设定规则很多也是世界亿万年来训练的。旷野中的银河、婴儿的胚胎，这些都远超人类可以创造的美，我们认为现象是美的，所以我们的艺术不仅以现象为基础，并且表现方式也模仿现象。我们选择的游戏就是世界游戏，我们要在其中获胜。我们的故事是对现象的完形。
+<mark>**ΥΔΝ**</mark>. 审美——完形原则。面向现象，上面的所有知识，都是我们睁眼后看到的。我们的设定规则很多也是世界亿万年来训练的。旷野中的银河、婴儿的胚胎，这些都远超人类可以创造的美，我们认为现象是美的，所以我们的艺术不仅以现象为基础，并且表现方式也模仿现象。我们选择的游戏就是世界游戏，我们要在其中获胜。我们的故事是对现象的完形。
 
 > 诗1
 >
@@ -599,9 +605,9 @@ layout: default
 >
 > ——关小
 
-<mark>ΠΘΗ</mark>. 审美——古典原则。喜好古典艺术，用生命严肃地演出一幕精致的戏剧，而不是戏谑、随意、浅尝辄止、混淆不能与不愿，破坏游戏体验。
+<mark>**ΠΘΗ**</mark>. 审美——古典原则。喜好古典艺术，用生命严肃地演出一幕精致的戏剧，而不是戏谑、随意、浅尝辄止、混淆不能与不愿，破坏游戏体验。
 
-<mark>ΡΠΜ</mark>. 审美——认知/本体等效原则。好用的全局认识论（《昰》中完形），便具有本体论候选人资格。
+<mark>**ΡΠΜ**</mark>. 审美——认知/本体等效原则。好用的全局认识论（《昰》中完形），便具有本体论候选人资格。
 
 > 诗1
 >
@@ -609,7 +615,7 @@ layout: default
 >
 > λόγος就是这么上位的。
 
-<mark>ΝΤΛ</mark>. 形而上学。在《昰》经中，我们都在描述来自先天的现象。接下来，我们发挥内在的审美，践行艺术创造。为了重新讲一个完整的故事，为了重建完整的恢弘，我们再次使用与生俱来的想象力和信心，想象一些现象之外、认识之外的，又绝对不可认识的存在之物。但那是可怕的东西，接受它你将变得疯狂。
+<mark>**ΝΤΛ**</mark>. 形而上学。在《昰》经中，我们都在描述来自先天的现象。接下来，我们发挥内在的审美，践行艺术创造。为了重新讲一个完整的故事，为了重建完整的恢弘，我们再次使用与生俱来的想象力和信心，想象一些现象之外、认识之外的，又绝对不可认识的存在之物。但那是可怕的东西，接受它你将变得疯狂。
 
 > 诗10.1
 >
@@ -629,17 +635,21 @@ layout: default
 
 ## 玄之玄
 
-<mark>ΓΩΖ</mark>. 形而上学。故事的正剧开始了，游戏地图加载中。
+<mark>**ΓΩΖ**</mark>. 形而上学。故事的正剧开始了，游戏地图加载中。
 
-<mark>ΖΖΖ</mark>. 混元。初始，有一团东西，分化无数又消灭无数，变幻莫测，遍历一切可能，每一个形态都稍纵即逝。称为混元。这是存在之链的源头，万物将从它出。
+<mark>**ΖΖΖ**</mark>. 混元。初始，有一团东西，分化无数又消灭无数，变幻莫测，遍历一切可能，每一个形态都稍纵即逝。称为混元。这是存在之链的源头，万物将从它出。
 
 > 诗1.1
 >
 > 混元者，记事于混沌之前，元气之始也。元气未形，寂寥何有？至精感激而真一生焉，元气运行而天地立焉，造化施张而万物用焉。混沌者，厥中惟虚，厥外惟无，浩浩荡荡，不可名也。
 >
 > ——《云笈七籖》
+>
+> 诗
+>
+> 无法形式化地构造随机数，是一个隐喻。
 
-<mark>ΖΩΦ</mark>. 基元。随即，混元中分化出无数具此形态者：［我是X。我不再变化、消失］。其中的X也遍历一切可能，此中甚至有［我会变化、消失，我不会变化、消失］。具这种形态者称为基元，亦称感性，它们是非参考性的存在。感性只占混元无数中之一，动态的混元结晶为静态的基元。
+<mark>**ΖΩΦ**</mark>. 基元。随即，混元中分化出无数具此形态者：［我是X。我不再变化、消失］。其中的X也遍历一切可能，此中甚至有［我会变化、消失，我不会变化、消失］。具这种形态者称为基元，亦称感性，它们是非参考性的存在。感性只占混元无数中之一，动态的混元结晶为静态的基元。
 
 > 诗2.1
 >
@@ -647,11 +657,11 @@ layout: default
 >
 > 一层薄冰包裹了最初的滚热液体般的混元。
 
-<mark>ΦΗΒ</mark>. 参元。同时，混元也分化出这样形态的基元：「我选取、重复、组合别的X。我不再变化、消失」，其中有些X确定，有些X变化。具这种形态者称为参元，亦称理性。它们是参考性的。
+<mark>**ΦΗΒ**</mark>. 参元。同时，混元也分化出这样形态的基元：「我选取、重复、组合别的X。我不再变化、消失」，其中有些X确定，有些X变化。具这种形态者称为参元，亦称理性。它们是参考性的。
 
 > 诗3.1 「重复」给了万物生命。
 
-<mark>ΡΞΔ</mark>. 理性们选取的X各不相同，有些开启的世界再次返回混元，比如选择混元做为X的理性；有些开启一个静止的世界，这些理性选择感性做X，随即就组合出这些感性能组合出的所有可能，但也就此终结，这称为无机世界。有些开启一个动态的世界，这些理性选取一部分混元和一部分感性做X，开启的世界随混元的变化而变化。X称为理性们开启的世界的「元」，这第三类称作有机世界，是存在之链的第三环，万物将从它出。
+<mark>**ΡΞΔ**</mark>. 理性们选取的X各不相同，有些开启的世界再次返回混元，比如选择混元做为X的理性；有些开启一个静止的世界，这些理性选择感性做X，随即就组合出这些感性能组合出的所有可能，但也就此终结，这称为无机世界。有些开启一个动态的世界，这些理性选取一部分混元和一部分感性做X，开启的世界随混元的变化而变化。X称为理性们开启的世界的「元」，这第三类称作有机世界，是存在之链的第三环，万物将从它出。
 
 > 诗4.1
 >
@@ -659,31 +669,31 @@ layout: default
 >
 > 有机世界：热力学的世界、量子的世界。
 
-<mark>ΩΦΜ</mark>. 无机世界的存在：若A存在于S世界中，A可由S世界中的感性由理性组合出来，也即，A在S中为真。有机世界的由于混元的作用，存在更加复杂，在一些特殊情况下，一个有机世界的存在问题可以转化为一个无机世界的极值问题，该有机世界也就可以模拟该无机世界。
+<mark>**ΩΦΜ**</mark>. 无机世界的存在：若A存在于S世界中，A可由S世界中的感性由理性组合出来，也即，A在S中为真。有机世界的由于混元的作用，存在更加复杂，在一些特殊情况下，一个有机世界的存在问题可以转化为一个无机世界的极值问题，该有机世界也就可以模拟该无机世界。
 
-<mark>ΥΓΘ</mark>. 在有机世界中，混元在感性的控制下分化万千。有些与作为元的感性相悖，又返回第一环的混元。有些在作为元的感性的基础上增加新的元，而又不相悖。这样有机世界就开启了下一层存在之链。
+<mark>**ΥΓΘ**</mark>. 在有机世界中，混元在感性的控制下分化万千。有些与作为元的感性相悖，又返回第一环的混元。有些在作为元的感性的基础上增加新的元，而又不相悖。这样有机世界就开启了下一层存在之链。
 
 > 诗6.1 水上结晶的冰花，凝为冰杯，又盛起了水。
 
-<mark>ΝΠΒ</mark>. 真理与存在。"真理”是一元谓词，表示某物存在。“存在”是二元谓词，表示某物在某世界中。“真理”是“存在”的语法糖，缺省了默认“世界”。在无机世界中，存在谓词返回“真”、“假”的离散值，在有机世界中，存在谓词返回(0,1)开区间的连续值，其值表示某物在某世界的存在稳定度。存在度的判定不一定是即时发生的。
+<mark>**ΝΠΒ**</mark>. 真理与存在。"真理”是一元谓词，表示某物存在。“存在”是二元谓词，表示某物在某世界中。“真理”是“存在”的语法糖，缺省了默认“世界”。在无机世界中，存在谓词返回“真”、“假”的离散值，在有机世界中，存在谓词返回(0,1)开区间的连续值，其值表示某物在某世界的存在稳定度。存在度的判定不一定是即时发生的。
 
 > 诗1
 >
 > 一杯冷热分明的水，一个穿墙的人，不是完全不可能的。
 
-<mark>ΚΞΦ</mark>. 混元流淌的通道由混沌铺设，混沌是理性搞出的非线性动力系统，具有吸引子，具有初值敏感性。混沌选取混元为参数，就可以将混元放大，展现在不同层次的世界中。不知中间又增多少感性作为元，穿过多少环，其中一条生长出了我们的现象世界。📜 [块宇宙](https://www.dropbox.com/s/sgaep2rvfciix6y/%E6%9C%AA%E6%9D%A5%E5%B7%B2%E6%88%90%E5%AE%9A%E5%B1%80%EF%BC%9F%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%97%B6%E9%97%B4%E8%A7%82%E9%81%AD%E6%8C%91%E6%88%98.pdf?dl=0)
+<mark>**ΚΞΦ**</mark>. 混元流淌的通道由混沌铺设，混沌是理性搞出的非线性动力系统，具有吸引子，具有初值敏感性。混沌选取混元为参数，就可以将混元放大，展现在不同层次的世界中。不知中间又增多少感性作为元，穿过多少环，其中一条生长出了我们的现象世界。📜 [块宇宙](https://www.dropbox.com/s/sgaep2rvfciix6y/%E6%9C%AA%E6%9D%A5%E5%B7%B2%E6%88%90%E5%AE%9A%E5%B1%80%EF%BC%9F%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%97%B6%E9%97%B4%E8%A7%82%E9%81%AD%E6%8C%91%E6%88%98.pdf?dl=0)
 
 > 诗7.1
 >
 > ![洛伦兹吸引子](imgs/timg的副本.jpeg)
 
-<mark>ΗΠΦ</mark>. 冷凝和层次。混元流淌着，在上层还保持着变化，在下层却可能凝结为晶体。上层称为下层的生态，下层称为上层的结晶。每增加一个层次，展开的命题空间更大，能判断的命题更多（神谕机）。
+<mark>**ΗΠΦ**</mark>. 冷凝和层次。混元流淌着，在上层还保持着变化，在下层却可能凝结为晶体。上层称为下层的生态，下层称为上层的结晶。每增加一个层次，展开的命题空间更大，能判断的命题更多（神谕机）。
 
 > 诗8.1
 >
 > 大数定律的例子。有一枚正面计1、反面计0，概率各1/2的硬币，累计抛N次，求平均计数。N趋于无穷大时，随机性趋于消失。平均计数的结果1/2称为结晶，抛N次正反概率1/2的硬币称为生态。
 
-<mark>ΥΖΩ</mark>. 有机世界的生长方式称为「天演」。混元在一个小范围内分化出一些相近形态，理性组合出结果。存在之链的上游对这些分化作出判定，一些不返回混元，一些形态就近继续分化，再交给理性，等待结果。每一轮「分化——收到结果」都称为一次递归。天演的两个要素「增，在相空间附近产生多样性」、「减，有方向的消除多样性」。
+<mark>**ΥΖΩ**</mark>. 有机世界的生长方式称为「天演」。混元在一个小范围内分化出一些相近形态，理性组合出结果。存在之链的上游对这些分化作出判定，一些不返回混元，一些形态就近继续分化，再交给理性，等待结果。每一轮「分化——收到结果」都称为一次递归。天演的两个要素「增，在相空间附近产生多样性」、「减，有方向的消除多样性」。
 
 > 诗9.1
 >
@@ -717,7 +727,7 @@ layout: default
 >
 > ——混乱博物馆
 
-<mark>ΠΔΥ</mark>. 分叉、离散。一些分化在特定环境（判定）中能存在，另一些分化适应其他的环境（判定），由此产生存在之链分叉，多样性并存。如果上游相比下游有全局的坏处而消失，下游相比上游有全局的好处而存在，就会出现存在之链断裂、离散的情况，不再保留中间环节的多样性，不再保留演化过程的连续谱，脚手架的拆除、缺失的中间环节。存在的断裂不影响存在之链的流溢。
+<mark>**ΠΔΥ**</mark>. 分叉、离散。一些分化在特定环境（判定）中能存在，另一些分化适应其他的环境（判定），由此产生存在之链分叉，多样性并存。如果上游相比下游有全局的坏处而消失，下游相比上游有全局的好处而存在，就会出现存在之链断裂、离散的情况，不再保留中间环节的多样性，不再保留演化过程的连续谱，脚手架的拆除、缺失的中间环节。存在的断裂不影响存在之链的流溢。
 
 > 诗11.1
 >
@@ -727,7 +737,7 @@ layout: default
 >
 > 黑猩猩和人类的中间环节都丢失了；人类社会制度演化的很多中间环节也都不见了，这就让人以为很多东西是习以为常的，所以霍布斯会去想象中间缺失的「自然状态」。
 
-<mark>ΔΠΞ</mark>. 判定是复杂的不是单一的。一些分化有全局的好处，将全部存在，我们便对比不出它的彻底的好处。一些分化具有全局的坏处，将全部返回混元，我们便观察不到它的彻底的坏处。一些分化适应特定的判定，而不适应其他的判定，便呈现出多样性，让我们误以为凡存在有好有坏，好坏相生，辩证法是一种假象。
+<mark>**ΔΠΞ**</mark>. 判定是复杂的不是单一的。一些分化有全局的好处，将全部存在，我们便对比不出它的彻底的好处。一些分化具有全局的坏处，将全部返回混元，我们便观察不到它的彻底的坏处。一些分化适应特定的判定，而不适应其他的判定，便呈现出多样性，让我们误以为凡存在有好有坏，好坏相生，辩证法是一种假象。
 
 > 诗12.1
 >
@@ -740,7 +750,7 @@ layout: default
 > - 核裂变反应中的中子循环。当有效增殖系数略大于1的时候，链式反应会越来越快地进行，若没有有效的人为控制（如插入控制棒），使得有效增值系数维持1附近（临界状态），反应会迅速进入超临界状态，增长的过程可能极快，反应速率会在很短的时间内增长很多倍，然后失去控制。
 > - 马太效应。强者愈强弱者越弱之现象，即是贫者愈贫富者愈富。 现实中就是指，只要获得了每一点的成功，就会产生累积优势，使之拥有更大的机会获得更卓越的成就。也是造就了贫富差距的原因之一。
 
-<mark>ΒΞΔ</mark>. 每次递归，已经得到的解和新的尝试解在当时共存。已经得到的解称为描述性存在，其命题为事实命题；随机出的尝试解称为规范性存在，其命题为价值命题。
+<mark>**ΒΞΔ**</mark>. 每次递归，已经得到的解和新的尝试解在当时共存。已经得到的解称为描述性存在，其命题为事实命题；随机出的尝试解称为规范性存在，其命题为价值命题。
 
 > 诗13.1
 >
@@ -752,7 +762,7 @@ layout: default
 >
 > ![Lucifer_Liege_Luc_Viatour](imgs/Lucifer_Liege_Luc_Viatour.jpg)
 
-<mark>ΓΠΚ</mark>. 一个有机世界只有部分区域在不断产生尝试解，进行递归，这些局部称为有机世界中的「芽命题」；暂时不产生尝试解而像无机世界的部分称为「桩命题」；桩和芽可以相互转化。被淘汰的尝试解称为「孽命题」。
+<mark>**ΓΠΚ**</mark>. 一个有机世界只有部分区域在不断产生尝试解，进行递归，这些局部称为有机世界中的「芽命题」；暂时不产生尝试解而像无机世界的部分称为「桩命题」；桩和芽可以相互转化。被淘汰的尝试解称为「孽命题」。
 
 > 诗14.1 对于芽和桩的认识，一个是讲统计的，一个是讲逻辑的。
 >
@@ -764,7 +774,7 @@ layout: default
 >
 > 桩：Chomsky 的句法理论的最初版本发表于1956年的一篇名为“描述语言的三个模型（Three Models for the Description of Language）”的文章中。Chomsky 的努力几乎在一夜之间改变了语言研究。深刻地昭示出学习理论——即联想主义——根本不能解释语言是如何习得的。
 
-<mark>ΛΤΚ</mark>. 分形。经过若干层世界的流溢，将出现第n层与第m层关系相同，元素可对应的情况（即同构），这时这两个世界可以形成对应。上层低头看下层，下层本质一览无余，称下层为「分析命题」；下层抬头看上层，上层现象隐隐约约，称上层为「综合命题」。也就是说，承载信息的载体仍然是信息，承载的方式是抽取部分理性。
+<mark>**ΛΤΚ**</mark>. 分形。经过若干层世界的流溢，将出现第n层与第m层关系相同，元素可对应的情况（即同构），这时这两个世界可以形成对应。上层低头看下层，下层本质一览无余，称下层为「分析命题」；下层抬头看上层，上层现象隐隐约约，称上层为「综合命题」。也就是说，承载信息的载体仍然是信息，承载的方式是抽取部分理性。
 
 > 诗15.1
 >
@@ -784,7 +794,7 @@ layout: default
 > 分析命题：一个其谓词概念会包含在主词概念中的命题。
 > 综合命题：一个其谓词概念不会包含在主词概念中的命题。
 
-<mark>ΤΓΒ</mark>. 昰生川。
+<mark>**ΤΓΒ**</mark>. 昰生川。
 
 > 诗16.1
 >
@@ -794,7 +804,7 @@ layout: default
 >
 > ![psb](imgs/psb.png)
 
-<mark>ΛΛΩ</mark>. 判定的传递性 及 跨层次的延迟判定。存在物a接受来自本层世界A的判定，本层世界A接受上层世界B的判定。而判定具有传递性，存在物a最终也要接受B的判定，但一般跨层的判定会延迟。
+<mark>**ΛΛΩ**</mark>. 判定的传递性 及 跨层次的延迟判定。存在物a接受来自本层世界A的判定，本层世界A接受上层世界B的判定。而判定具有传递性，存在物a最终也要接受B的判定，但一般跨层的判定会延迟。
 
 > 诗1
 >
@@ -802,7 +812,7 @@ layout: default
 >
 > 一个理论接受学术规范的判定，学术作为一种人类文化，带着人类一起，接受世界的生存判定。
 
-<mark>ΨΒΘ</mark>. 物自体。我们这个看到的世界的本体。混元流淌进来，形成真空涨落，上游的判定是环境的拉格朗日量。
+<mark>**ΨΒΘ**</mark>. 物自体。我们这个看到的世界的本体。混元流淌进来，形成真空涨落，上游的判定是环境的拉格朗日量。
 
 > 诗17.1
 >
@@ -816,20 +826,20 @@ layout: default
 >
 > 自然理性的例子。利用气泡解最短路径问题。最短路径问题(steiner's problem)：给定平面上（或空间中）若干个点，把这些点连起来，要求连线总长最短。从数学角度直接解好像是挺麻烦的。有个巧妙的思路就是用肥皂泡，因为张力还是什么的缘故，肥皂泡会自动收缩到最短距离。
 
-<mark>ΡΘΚ</mark>. 生物个体。混元演生为更多桩（一些限定了生存环境（温度、水、阳光），一些限定了生物的生化反应、本能（求生本能、生殖本能））增加在现象世界的基础上，留下一部分混元参与天演的变异。变异违背生物世界的元，生物就死亡。
+<mark>**ΡΘΚ**</mark>. 生物个体。混元演生为更多桩（一些限定了生存环境（温度、水、阳光），一些限定了生物的生化反应、本能（求生本能、生殖本能））增加在现象世界的基础上，留下一部分混元参与天演的变异。变异违背生物世界的元，生物就死亡。
 
 > 诗18.1
 >
 > DNA分子是大量碱基对连接的双螺旋结构。你也可以把它想象成一个螺旋状的梯子，而每一级阶梯就是两个匹配的碱基构成的碱基对。DNA的变异有很多种，比如一段DNA被复制，删除或者替换等等。其中最简单的就是**点突变（**point mutation**）**，也就是单个碱基对的突变。当高频电磁波（如X射线）照射到一个碱基上，光子携带的能量足以把一个电子从这个碱基上轰走。这样，原来这个电子的位置就产生了一个电子空穴。根据这种经典物理理论，电子空穴是局域性的——它只能作用于它当前存在的单个碱基。然而，实验结果却表现出电子空穴并非局域性的。这时候，量子力学带着新的解释闪亮登场了：电子空穴和电子（以及其他微观粒子）一样，并没有一个确定的位置，而是同时以不同概率出现在不同的位置。根据这个理论，一个电子空穴覆盖的范围就大大扩展了。一个空穴可以同时对至少4个碱基产生影响。而实验结果完美地验证了这一预测。
 
-<mark>ΥΗΝ</mark>. 生物群体。生物群体在相空间（基因型）如同一团气体，服从天演，进化就是这团气体在相空间的整体性的移动。增：内生多样性由群体的繁殖提供，外生多样性为其他个体迁入。不施加环境选择、性选择时，个体在相空间不断生成，整体在相空间是扩散的（方差变大？）。减：施加环境选择、性选择后，整体在相空间有方向地移动。
+<mark>**ΥΗΝ**</mark>. 生物群体。生物群体在相空间（基因型）如同一团气体，服从天演，进化就是这团气体在相空间的整体性的移动。增：内生多样性由群体的繁殖提供，外生多样性为其他个体迁入。不施加环境选择、性选择时，个体在相空间不断生成，整体在相空间是扩散的（方差变大？）。减：施加环境选择、性选择后，整体在相空间有方向地移动。
 
 > 诗19.1
 >
 > ![qunti](imgs/qunti.jpeg)
 >
 
-<mark>ΝΞΜ</mark>. 生物的生态。是物种不同群体之间分离又沟通的天演方式，兼顾对环境的寻优效率和全局寻优的潜力。最具适应性的1个群体占总群体的1/a，并占据最好的环境；适应性次之的a-1个群体各占总群体的1/a^2，并占据条件稍差一些的环境，以此类推。不同层次的群体产生互动。变异个体可以向上下层迁移，被吸纳。如果环境变动或上层次群体种群退化，则会有临近层级逐层填补空缺，这里下层群体即体现保留寻优、演化潜能的作用。这种分形结构不是必然的，需要地缘对应支持，不同层次之间的体量比例也会根据实际地缘条件调整。
+<mark>**ΝΞΜ**</mark>. 生物的生态。是物种不同群体之间分离又沟通的天演方式，兼顾对环境的寻优效率和全局寻优的潜力。最具适应性的1个群体占总群体的1/a，并占据最好的环境；适应性次之的a-1个群体各占总群体的1/a^2，并占据条件稍差一些的环境，以此类推。不同层次的群体产生互动。变异个体可以向上下层迁移，被吸纳。如果环境变动或上层次群体种群退化，则会有临近层级逐层填补空缺，这里下层群体即体现保留寻优、演化潜能的作用。这种分形结构不是必然的，需要地缘对应支持，不同层次之间的体量比例也会根据实际地缘条件调整。
 
 > 诗20.1
 >
@@ -837,7 +847,7 @@ layout: default
 >
 > ![生物生态](imgs/生物生态.png)
 
-<mark>ΦΚΥ</mark>. 人类的进化策略。人类一路进化来，从来没有为了食物的安全，选择固着于一处，为了防御掠食者，选择沉重的铠甲。不同于病毒，一直选择一条K对策路线，不断提高个体复杂度。不同于植物、乌龟，从海洋、陆地、树冠、城市、太空，不断拓展自身生存空间。进化之路越走越宽。
+<mark>**ΦΚΥ**</mark>. 人类的进化策略。人类一路进化来，从来没有为了食物的安全，选择固着于一处，为了防御掠食者，选择沉重的铠甲。不同于病毒，一直选择一条K对策路线，不断提高个体复杂度。不同于植物、乌龟，从海洋、陆地、树冠、城市、太空，不断拓展自身生存空间。进化之路越走越宽。
 
 > 诗21.1
 >
@@ -849,9 +859,9 @@ layout: default
 >
 > 飞翔的鸟落入安逸的岛，不再展翼，变为陆行鸟。同样是活着，路越走越宽还是越走越窄，命运已被选择锁定。
 
-<mark>ΗΥΡ</mark>. 人类世界，混元衍生为自由意志，衍生为更多感性（可使用想象力产生抽象名词指称变动的事物（狮子）、可使用想象力产生综合命题来描摹无穷的现象（太阳从东方升起）等）增加在生物世界的基础上。留下一部分混元参与文化（模因）的天演的变异。
+<mark>**ΗΥΡ**</mark>. 人类世界，混元衍生为自由意志，衍生为更多感性（可使用想象力产生抽象名词指称变动的事物（狮子）、可使用想象力产生综合命题来描摹无穷的现象（太阳从东方升起）等）增加在生物世界的基础上。留下一部分混元参与文化（模因）的天演的变异。
 
-<mark>ΔΝΔ</mark>. 主我。特点是具有叙事性，可以将宾我认同为一个叙事中的角色。主我是物自体的一部分，由前额叶皮质承载，体现为故事中的一个角色。混元穿过层层存在之链，流淌至自我，化作自由意志，使自我负有道德责任和价值。纯碎自我和物自体相互作用产生我们感知到的现象。主我和宾我是一体的，区别只是是否出现在现象中。📜 [宾主同一](https://www.dropbox.com/s/paux38jnobdkfqr/%E5%AE%BE%E4%B8%BB%E5%90%8C%E4%B8%80.pdf?dl=0)，[《敘事心理學：人類行為的故事性》](https://www.dropbox.com/s/z4rkb7cele4ow4g/Theodore%20R.%20Sarbin-Narrative%20Psychology_%20The%20Storied%20Nature%20of%20Human%20Conduct%20%20-Praeger%20Publishers%20%281986%29.pdf?dl=0)。
+<mark>**ΔΝΔ**</mark>. 主我。特点是具有叙事性，可以将宾我认同为一个叙事中的角色。主我是物自体的一部分，由前额叶皮质承载，体现为故事中的一个角色。混元穿过层层存在之链，流淌至自我，化作自由意志，使自我负有道德责任和价值。纯碎自我和物自体相互作用产生我们感知到的现象。主我和宾我是一体的，区别只是是否出现在现象中。📜 [宾主同一](https://www.dropbox.com/s/paux38jnobdkfqr/%E5%AE%BE%E4%B8%BB%E5%90%8C%E4%B8%80.pdf?dl=0)，[《敘事心理學：人類行為的故事性》](https://www.dropbox.com/s/z4rkb7cele4ow4g/Theodore%20R.%20Sarbin-Narrative%20Psychology_%20The%20Storied%20Nature%20of%20Human%20Conduct%20%20-Praeger%20Publishers%20%281986%29.pdf?dl=0)。
 
 > 诗23.1
 >
@@ -865,11 +875,11 @@ layout: default
 >
 > ——Yuval Noah Harari《未来简史》
 
-<mark>ΖΓΛ</mark>. 我们作为主体，在存在之链的一条支流中，称为昰生川。
+<mark>**ΖΓΛ**</mark>. 我们作为主体，在存在之链的一条支流中，称为昰生川。
 
 > 诗24.1 大中至正。
 
-<mark>ΓΣΒ</mark>. 混元诅咒——路径依赖。存在的递归演进总是被之前的存在形式影响着，这是因为尝试解总是临近已存解。接近的程度称为寻优半径。有时人类理性的寻优半径大于自然理性，部分情况自然理性的寻优半径大于人类理性。
+<mark>**ΓΣΒ**</mark>. 混元诅咒——路径依赖。存在的递归演进总是被之前的存在形式影响着，这是因为尝试解总是临近已存解。接近的程度称为寻优半径。有时人类理性的寻优半径大于自然理性，部分情况自然理性的寻优半径大于人类理性。
 
 > 诗25.1
 >
@@ -883,9 +893,9 @@ layout: default
 >
 > 鱼类和人类各自颅内迷走神经及动脉弓对比示意图。胎盘哺乳动物只保留了鱼类的第三、第四，以及一部分的第六迷走神经分支。其中，哺乳动物的颅内第四迷走神经分支，也就是喉返神经，依然像鱼类时期那样，位于第六动脉弓后面。鉴于第六动脉弓已退移至胸部，哺乳动物的喉返神经就绕了一大圈。最初，鱼类的喉返神经走向与血管一致，都分布在鳃的部位。随着生物不断进化，鳃部的血管位置逐渐后移。喉返神经跟血管是一派的，因此也只能跟着往后移；而原来另一端连着的鳃弓则进化成了咽喉。
 
-<mark>ΤΡΚ</mark>. 混元诅咒——逆向淘汰。超出了自然理性的寻优半径的优化也会被自然无情淘汰。
+<mark>**ΤΡΚ**</mark>. 混元诅咒——逆向淘汰。超出了自然理性的寻优半径的优化也会被自然无情淘汰。
 
-<mark>ΜΡΗ</mark>. 混元诅咒——囚徒困境。在社会领域，即使人类意识到了更优方向，也会因为社会动力学——自私的基因更短的寻优半径无法改进。
+<mark>**ΜΡΗ**</mark>. 混元诅咒——囚徒困境。在社会领域，即使人类意识到了更优方向，也会因为社会动力学——自私的基因更短的寻优半径无法改进。
 
 > 诗27.1
 >
@@ -899,19 +909,19 @@ layout: default
 >
 > ——Albert Tucker
 
-<mark>ΣΓΔ</mark>. 意识奇点。世界以分型为形式、混元为奇点，投射在人的意识中，成为综合命题。逻辑以分型为形式、混元为奇点，投射在人的意识中，成为分析命题。这个投射始终是不完整的。在这个奇点之前的存在都是描述性的（昰），在这个奇点之后的存在都是规范性的（生）。
+<mark>**ΣΓΔ**</mark>. 意识奇点。世界以分型为形式、混元为奇点，投射在人的意识中，成为综合命题。逻辑以分型为形式、混元为奇点，投射在人的意识中，成为分析命题。这个投射始终是不完整的。在这个奇点之前的存在都是描述性的（昰），在这个奇点之后的存在都是规范性的（生）。
 
 > 诗28.1 柏拉图的洞穴。
 >
 > ![Platon_Cave_Sanraedam_1604](imgs/Platon_Cave_Sanraedam_1604.jpg)
 
-<mark>ΥΠΧ</mark>. 无意识到意识的倒影。无意识以分型为形式、混元为奇点，投射在人的意识中。这个投射不完全。
+<mark>**ΥΠΧ**</mark>. 无意识到意识的倒影。无意识以分型为形式、混元为奇点，投射在人的意识中。这个投射不完全。
 
 > 诗24.1 未经审视的生活不值得过。——苏格拉底
 
 > 诗24.2 重估一切价值。——尼采
 
-<mark>ΘΠΦ</mark>. 亚当斯密之手。混元诅咒妨碍了事物穿破势垒，但势垒本身移动，其中的事物将跟随移动，便可以操作事物。
+<mark>**ΘΠΦ**</mark>. 亚当斯密之手。混元诅咒妨碍了事物穿破势垒，但势垒本身移动，其中的事物将跟随移动，便可以操作事物。
 
 > 诗30.1
 >
@@ -923,7 +933,7 @@ layout: default
 >
 > ——《庄子·逍遥游》
 
-<mark>ΚΖΖ</mark>. 自私的基因。人像所有生物一样，由“尽可能复制自身基因”的基本动机驱动，社会行为、利他行为均可由此动机解释。📜 [自私的基因](https://www.dropbox.com/s/o51l3c2ztbbu66w/%E9%87%8C%E6%9F%A5%E5%BE%B7%C2%B7%E9%81%93%E9%87%91%E6%96%AF%E3%80%8A%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%E3%80%8B%EF%BC%88%E7%B2%BE%E6%A0%A1%E7%89%88%EF%BC%89.pdf?dl=0)。
+<mark>**ΚΖΖ**</mark>. 自私的基因。人像所有生物一样，由“尽可能复制自身基因”的基本动机驱动，社会行为、利他行为均可由此动机解释。📜 [自私的基因](https://www.dropbox.com/s/o51l3c2ztbbu66w/%E9%87%8C%E6%9F%A5%E5%BE%B7%C2%B7%E9%81%93%E9%87%91%E6%96%AF%E3%80%8A%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%E3%80%8B%EF%BC%88%E7%B2%BE%E6%A0%A1%E7%89%88%EF%BC%89.pdf?dl=0)。
 
 > 诗31.1
 >
@@ -935,13 +945,51 @@ layout: default
 >
 > 不承昰启生，就无法区别婚姻与嫖娼。
 
-<mark>ΓΘΔ</mark>. 立刻带来好处的行为是即时满足行为，稍后带来好处的行为是延迟满足行为。一些延迟满足行为被本能所驱动，另一些延迟满足行为被期望所驱动。
+<mark>**ΓΘΔ**</mark>. 立刻带来好处的行为是即时满足行为，稍后带来好处的行为是延迟满足行为。一些延迟满足行为被本能所驱动，另一些延迟满足行为被期望所驱动。
 
-<mark>ΖΞΓ</mark>. 美丽。美丽作为一种性选择优势，意味着可能的生存优势，它被强壮、智慧的人追逐过，留下了印记。美丽的根本价值是，它是一个锦标，一个集结令，号召所有强壮智慧的雄性（的基因）一代一代向此处集结。
+<mark>**ΧΨΖ**</mark>. 从自私到合作，甚至到宽恕。📜 Theoretical Ecology 3ed
 
-<mark>ΥΒΔ</mark>. 使用语言、工具、社会化是人类的特点和优势。
+> 诗1
+>
+> 如果令两个囚徒都合作的收益为R (reward)，都背叛的收益为P (punishment)，一方合作一方背叛则合作方得到 S (sucker)、背叛方得到T (temptation)，那么一个经典囚徒困境必须是T > R > P > S. 不满足这个的就不是囚徒困境。
+>
+> 如果是单次博弈，那么显然背叛永远优于合作。但是如果这个博弈要重复多次，那么合作就有了出头的机会。
+>
+>  Axelrod 做了一个名垂青史的实验：向全世界同行征集重复囚徒困境的策略，然后在计算机里让它们相互搏斗。第一次他征集到14个参赛者，最后获胜的出乎所有人意料是最简单的策略——Rapoport 提交的【“一报还一报” （TFT, tit for tat）】。它只有两条规则：开场先合作，然后重复对方上一次的策略。它单独出现时没用，但一群TFT相遇时，它们相互之间会合作获益、而对外则背叛不让别人占便宜。
+>
+> 做出来之后 Axelrod 把结果写成了一篇文章，附上了详细的分析，并邀请人们在研究过第一轮的经验教训后参加第二轮。第二轮他获得了63个参赛者，只有一个人原样提交了TFT策略——就是Rapoport本人。结果TFT又取得了胜利。
+>
+> Axelrod 的实验里每个策略都是定死的，而对方的行为也是明确无误的，但自然界有突变、有噪音。如果把这些因素引入进来会如何？
+>
+> 所以 Nowak 做了一套新的实验，不是邀请全世界专家提交策略了，而是设一个大小合理的策略空间，允许每个个体在里面随机突变来选择策略，成功的个体产生更多后代。此外每次行为有一定概率产生噪音，比如对方明明应该出合作，但实际打出来变成了背叛。
+>
+> 起始值的策略是随机的。不出意外，这个一锅粥很快被【ALLD （永远背叛）】占据了。
+>
+> 但一段时间后会出现一小群抱团的个体，它们采用十分类似于TFT的策略，站住了脚跟。TFT永远是合作出现最好的催化剂，如果这个TFT群体足够大，那么合作会很快横扫整个群体。
+>
+> 可是TFT不是最后的胜利者，因为它无法应付噪音——两个本来合作得很好的TFT如果不小心遭遇一次误判，就会陷入一连串的背叛当中而失去优势。事实证明在TFT占主体的基础上，会产生一种新策略将TFT取代——也即【 GTFT（慷慨的一报还一报）】。它的特点是，即使对方出了背叛，下一轮也有一定的概率选择合作，这样就可以挽救陷入无穷背叛的可能。此所谓“自然选择发现了宽恕”。
+>
+> 还没完。在GTFT 一统天下之后，【ALLC （永远合作）】就会出现。在一个所有人都是好人的社会里，反击坏人的能力会变得失去意义。随机漂变的作用使得ALLC比例上升。而且ALLC比GTFT更能应对噪音——GTFT还要等几回合才会宽容，ALLC当即就能拉回合作的“正轨”。
+>
+> 前提是正轨必须存在。当GTFT让位于ALLC之后，就为永远背叛的 ALLD  入侵敞开了大门。ALLD 一旦出现就会掌握巨大的优势，凭借它的背叛将所有ALLC打趴下，迅速占据了主导地位。于是新一轮的循环开始。
+>
+> 这个ALLD - TFT - GTFT - ALLC - ALLD 的循环是极其普遍的，而且它的普遍不止存在于博弈论模型里——好人合作打败了坏人，多年以后好人放松了警惕、坏人于是东山再起，这个叙事模型在各种故事传说里都太普遍了（《魔戒》就是个好例子）。至于这能否作为现实人类历史上战争和平循环的抽象表述，那就见仁见智了。
+>
+> 但是有一种办法可以打破这个循环，那就是引入“反思”机制。在扩大了策略空间之后， Nowak 等人意外发现了一个新的策略可以长期稳定存在——【“输则改之，赢则加勉” ( WSLS, win-stay, lose-shift )】。这个策略也很简单，如果我上一轮赚了便宜、获得了T或者R的结果（不记得这两个字母请回开头复习） ，那么这一轮我继续刚才的策略。如果我上一轮吃了亏、获得了S或者P，那么这一轮我就换成另一种策略。
+>
+> 如果两个 WSLS 相遇，它们大部分时间都合作。万一遭遇了噪音，那么下一轮双方都背叛；再下一轮双方又合作了。纠错延迟只有1回合。这一点比GTFT更强，只比ALLC 弱一点点。
+>
+> 但是WSLS有个王牌，使得它不怕ALLC。那就是在和ALLC交手一段时间后，它会发现ALLC完全不懂得背叛。WSLS只要发生一次偶然背叛，之后就是永久背叛，使得老好人 ALLC 遭受惨无人道的剥削。 这样一个WSLS不会随着时间推移而“放松警惕”变成ALLC，当然也就不会遭受ALLD的后续必然入侵。
+>
+> 唯一略微纠结的是面对ALLD。如果R > (T+P) / 2 ，那么WSLS不怕ALLD。如果不满足，那么实验表明最后稳定的是WSLS的一个变体——遭遇双方背叛 P 的时候不必然改变策略，而只是以一定概率改变策略。无论如何，这个反思策略一旦出现，就很难会落入前面提到的那个恶性循环了。
+>
+> —— Ent
 
-<mark>ΩΩΡ</mark>. 影响力。一些延迟满足行为被期望驱动，期望被历史经验和统计方法、叙事决定。影响力的载体是从一系列事件中归纳出的共性，可以是人，可以是一个团体，甚至是一个符号、图腾。我们用影响力判断一个「个体」的可信度，再根据延迟满足的结果（得到满足否？）重新调整对「个体」的影响力评估。
+<mark>**ΖΞΓ**</mark>. 美丽。美丽作为一种性选择优势，意味着可能的生存优势，它被强壮、智慧的人追逐过，留下了印记。美丽的根本价值是，它是一个锦标，一个集结令，号召所有强壮智慧的雄性（的基因）一代一代向此处集结。
+
+<mark>**ΥΒΔ**</mark>. 使用语言、工具、社会化是人类的特点和优势。
+
+<mark>**ΩΩΡ**</mark>. 影响力。一些延迟满足行为被期望驱动，期望被历史经验和统计方法、叙事决定。影响力的载体是从一系列事件中归纳出的共性，可以是人，可以是一个团体，甚至是一个符号、图腾。我们用影响力判断一个「个体」的可信度，再根据延迟满足的结果（得到满足否？）重新调整对「个体」的影响力评估。
 
 > 诗35.1
 >
@@ -957,7 +1005,7 @@ layout: default
 >
 > ——大仲马
 
-<mark>ΦΧΠ</mark>. 影响力加权网络。在一个社会结构中，根据影响力对不同个体加权，决定我们的置信、决策方式。这仍然是天演算法的一部分，给目前的局部最优解加以权重（权重的权就是权力的权），使其他尝试向局部最优解靠近，在目前局部最优解的基础上继续展开寻优，这是更高效的算法，也是群体交流的价值所在。
+<mark>**ΦΧΠ**</mark>. 影响力加权网络。在一个社会结构中，根据影响力对不同个体加权，决定我们的置信、决策方式。这仍然是天演算法的一部分，给目前的局部最优解加以权重（权重的权就是权力的权），使其他尝试向局部最优解靠近，在目前局部最优解的基础上继续展开寻优，这是更高效的算法，也是群体交流的价值所在。
 
 > 诗36.1
 >
@@ -965,19 +1013,37 @@ layout: default
 
 > 诗36.2 认识到权力的核心是信任，才能理解继承性对合法性的重要意义。
 
-<mark>ΞΞΨ</mark>. 割韭菜。权力也会被用来博弈，利用积累的影响力的信用优势，在一次预期中选择背叛。
+<mark>**ΞΞΨ**</mark>. 割韭菜。权力也被用来博弈，利用积累的影响力的信用优势，在一次预期中选择背叛。
 
 > 诗37.1
 >
 > 平民派是在罗马共和晚期极其严重的贫富差距下产生的，他们诉求提升公民大众的参政权力和解决贫富差距的问题，平民派具体施行的政策，包括让罗马公民在行省建立新的殖民地，以缓解意大利半岛已严重不足的土地分配问题；另外也主张将公民权颁发给予罗马的意大利盟邦居民，令他们可以享有与罗马人一样的政治权力；还有推动粮食赈济政策以即限制粮食价格等措施。平民派的声势，在他们拥护的领导人恺撒的独裁时达到了顶点。在凯撒的继承人组成的后三头同盟(前43年-前33年)掌权之后，他们即开始压制平民派的活动，至此平民派已不再是独立的政治势力。
 
-<mark>ΘΝΞ</mark>. 第一阶段社会化——梳毛社会。靠亲密关系维系的共同体最多能容纳100个个体，这种亲密关系靠个体之间的亲密接触、梳理毛发维持，核心是情绪识别、表情。
+<mark>**ΨΒΓ**</mark>. 小群体对维持合作的作用。
+
+> 诗1
+>
+> 阿克塞尔罗德在《合作的进化》一书中，对这个能让小集体成功存活的最小成员规模进行了测算。首先假定在一轮典型的囚徒困境博弈中，博弈双方选择合作，每个人可以得3分；一方合作一方背叛，背叛者拿5分，合作者只能拿0分；双方均选择背叛，每个人只能拿1分。那么根据上面的分值来计算，如果一个外来的针锋相对型策略小集体想要在永久背叛的大群体里站稳脚跟，小集体的人数最少只需要在入侵后占整个大群体人数的5%就可以。
+>
+> 不仅如此，这个5%的比例还可以继续下降。我们知道，预期对于博弈结果会产生重大影响。最初双方从合作中的收益往往是最高的，随着博弈接近结束，博弈双方对于合作的预期也会越来越低，这一方面造成了相互背叛可能性的升高，另一方面会让每一轮合作的收益下降，这就让重复博弈的收益也出现了经济学上常见的边际递减效应。边际递减的速度取决于“未来”有多远。博弈次数越多，博弈的结束越显得遥不可及，双方继续维持合作的意愿也就越高，博弈收益的边际递减速度就会越慢，这也越有利于合作策略的生存。阿克塞尔罗德发现，如果将博弈次数增加到200次，那么针锋相对策略小集体的最小成员人数在永久背叛大群体中的占比甚至可以从5%下降到1‰。
+>
+> 这些研究给我们带来了什么启示呢？
+>
+> 首先，一个永远背叛成为进化稳定策略的群体，想要自发地跳出这个困境是很难的，这一方面是因为个人势单力薄的反抗等于自取灭亡，另一方面也是由于长期相互背叛的个体之间实在是难以建立起信任：如果没有过合作的先例，你根本不知道某个宣称要和你一起对抗大环境的人是真想和你合作，还是只想通过单方背叛拿到更高的收益而哄骗你。
+>
+> 反过来说，如果永远背叛的群体想要维持现状，那它需要做的事情就是避免被外部有合作习惯的小集体入侵，同时防止群体内部的某些个体抱团。换句话说，必须让群体长期处于一盘散沙的状态，不允许成员自发组成小集团。
+>
+> 紧接上一条，打破地理隔离、实现大规模的成员流动也是永远背叛策略集体维持现状的必要条件。这是因为封闭的地理单元里博弈个体数量较少，很容易由于自然突变等原因迅速出现一批互信的成员建立起合作关系并发展壮大，只有大规模的外来成员迁入，才能淹没小地理单元里自发出现的合作关系。旅鼠之所以一直处于永远背叛状态，一个很大的原因就在于这个物种过于强大的迁徙能力：每当一个地区被挤得水泄不通，多出的旅鼠们就会马上迁徙到邻近区域，把邻近区域也拖进拼命生育的军备竞赛中，这样就很难留出足够的时间和空间让一小群旅鼠演化出节制生育的基因。
+>
+> 最后，永远背叛的群体看似强大，但实际上是很容易被入侵的。一个非常低比例的合作策略小集体就能够在这样的群体里扎根下来，只要时间足够，它们就能通过自然选择之手逐步壮大，最终将合作的秩序扩张到这个原本黑暗的角落里。
+
+<mark>**ΘΝΞ**</mark>. 第一阶段社会化——梳毛社会。靠亲密关系维系的共同体最多能容纳100个个体，这种亲密关系靠个体之间的亲密接触、梳理毛发维持，核心是情绪识别、表情。
 
 > 诗38.1
 >
 > 灵长类中最大的群体黑猩猩，平均规模约为55头。
 
-<mark>ΚΞΤ</mark>. 第二阶段社会化——熟人社会。靠威望维系的共同体最多容纳150个个体。威望关系靠人与人之间的闲聊、八卦别人家的是非长短维持，核心是语言，语言变成了新的梳毛方式，这样就可以不见面地对其他人产生好印象、坏印象，积累为威望。可以靠威望关系维系的群体叫「熟人社会」。📜 [RobinDunbar-GroomingGossipandtheEvolutionofLanguage](https://www.dropbox.com/s/u6somlil94giy3t/RobinDunbar-GroomingGossipandtheEvolutionofLanguage.pdf?dl=0)。
+<mark>**ΚΞΤ**</mark>. 第二阶段社会化——熟人社会。靠威望维系的共同体最多容纳150个个体。威望关系靠人与人之间的闲聊、八卦别人家的是非长短维持，核心是语言，语言变成了新的梳毛方式，这样就可以不见面地对其他人产生好印象、坏印象，积累为威望。可以靠威望关系维系的群体叫「熟人社会」。📜 [RobinDunbar-GroomingGossipandtheEvolutionofLanguage](https://www.dropbox.com/s/u6somlil94giy3t/RobinDunbar-GroomingGossipandtheEvolutionofLanguage.pdf?dl=0)。
 
 > 诗39.1
 >
@@ -997,21 +1063,21 @@ layout: default
 >
 > 可能还有一个算法层面的原因：当群体人数过多，就无法通过循环博弈来形成信任了。为什么呢？设想：群体人口过多，把每个人背叛一次就够混一辈子了。（再加上现实中有跑路的机会）
 
-<mark>ΛΗΠ</mark>. 第三阶段社会化——陌生人社会。靠宗教、货币、户籍管理、数目字管理维持的社会叫「陌生人社会」，纽带核心是文字。陌生人社会是一种大型社会。
+<mark>**ΛΗΠ**</mark>. 第三阶段社会化——陌生人社会。靠宗教、货币、户籍管理、数目字管理维持的社会叫「陌生人社会」，纽带核心是文字。陌生人社会是一种大型社会。
 
-<mark>ΧΨΦ</mark>. 文因。人类具体的社会化形态，可以像基因一样在群体中继承、突变、多样，然后被环境筛选。称之为文因。
+<mark>**ΧΨΦ**</mark>. 文因。人类具体的社会化形态，可以像基因一样在群体中继承、突变、多样，然后被环境筛选。称之为文因。
 
-<mark>ΠΓΩ</mark>. 人类群体的新陈代谢。同样是一增一减。增的方式有内生（民族）、外生（社团、公司）。减的方式也分为内化（对异己的思想行为控制）、外化（放逐）。
+<mark>**ΠΓΩ**</mark>. 人类群体的新陈代谢。同样是一增一减。增的方式有内生（民族）、外生（社团、公司）。减的方式也分为内化（对异己的思想行为控制）、外化（放逐）。
 
-<mark>ΩΛΓ</mark>. 对待亲人，我们像黑猩猩那样有更多肢体接触、亲昵；对待熟人，我们和他们聊天，把他当作血肉丰满的特定个体对待，会关注他的秉性喜好，观察他的喜怒哀乐，揣摩他的动机和意图，并据此决定如何与她交往相处；对待陌生人，我们会简单地做类型化处理：归类、贴标签，凭借刻板印象迅速决定如何相待。
+<mark>**ΩΛΓ**</mark>. 对待亲人，我们像黑猩猩那样有更多肢体接触、亲昵；对待熟人，我们和他们聊天，把他当作血肉丰满的特定个体对待，会关注他的秉性喜好，观察他的喜怒哀乐，揣摩他的动机和意图，并据此决定如何与她交往相处；对待陌生人，我们会简单地做类型化处理：归类、贴标签，凭借刻板印象迅速决定如何相待。
 
-<mark>ΓΜΡ</mark>. 大型社会的好处。
+<mark>**ΓΜΡ**</mark>. 大型社会的好处。
 
 - 可以分工、专业化；
 - 生产出于交换目的的物品，允许市场出现；
 - 由专业化产生的复杂知识，大型社会可以储存。
 
-<mark>ΨΚΔ</mark>. 人类的一些特征被社会化抑制，一些特征被强化。人类的社会化进程仍在持续。📜 [既然现代人类如此聪明，为什么我们的大脑正在缩小?](https://www.dropbox.com/s/5adtcunslqvgeu5/%E6%97%A2%E7%84%B6%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%B1%BB%E5%A6%82%E6%AD%A4%E8%81%AA%E6%98%8E%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E8%84%91%E6%AD%A3%E5%9C%A8%E7%BC%A9%E5%B0%8F%EF%BC%9F.pdf?dl=0)
+<mark>**ΨΚΔ**</mark>. 人类的一些特征被社会化抑制，一些特征被强化。人类的社会化进程仍在持续。📜 [既然现代人类如此聪明，为什么我们的大脑正在缩小?](https://www.dropbox.com/s/5adtcunslqvgeu5/%E6%97%A2%E7%84%B6%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%B1%BB%E5%A6%82%E6%AD%A4%E8%81%AA%E6%98%8E%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E8%84%91%E6%AD%A3%E5%9C%A8%E7%BC%A9%E5%B0%8F%EF%BC%9F.pdf?dl=0)
 
 > 诗46.1
 >
@@ -1025,11 +1091,11 @@ layout: default
 >
 > 自由奔放、能歌善舞的维族人、黑人；板正的中国人、日本人。
 
-<mark>ΨΔΨ</mark>. 理性自愿合作形成的合作规模是有限的，相当于对所有个体的认知取交集，大家都认可合作有利于每个人，「权利-义务」对应的是公共知识的「桩命题」；信仰自愿合作形成的合作规模是无限的，不需要大家对后果有一致预期，对应的是公共知识的「芽命题」。权力产生是大规模社会合作产生的核心。
+<mark>**ΨΔΨ**</mark>. 理性自愿合作形成的合作规模是有限的，相当于对所有个体的认知取交集，大家都认可合作有利于每个人，「权利-义务」对应的是公共知识的「桩命题」；信仰自愿合作形成的合作规模是无限的，不需要大家对后果有一致预期，对应的是公共知识的「芽命题」。权力产生是大规模社会合作产生的核心。
 
-<mark>ΝΣΔ</mark>. 权力核心。权力核心不会感受到除了自然法之外的约束，他们理解了大规模社会合作的益处和原理，从而推动大规模社会合作的实现。他们信靠神来战胜混元诅咒。
+<mark>**ΝΣΔ**</mark>. 权力核心。权力核心不会感受到除了自然法之外的约束，他们理解了大规模社会合作的益处和原理，从而推动大规模社会合作的实现。他们信靠神来战胜混元诅咒。
 
-<mark>ΚΔΥ</mark>. 三类人群。「原始丰饶」，「费拉不堪」，「学达性天」。因为无意识在意识中的投射始终是不彻底的，根据其程度、完整性，人有三类。大部分个体停留在无意识，无法自觉到自我的生存方式，但**原始丰饶**。当我们以「重估一切价值」的名义开始更深层次的投射时，危险就产生了——部分个体只投射了理性，承受精神清彻的痛苦，**费拉不堪**。有少数个体，完整的投射了理性和感性的基元，世界在意识领域完成投射、**学达性天**。
+<mark>**ΚΔΥ**</mark>. 三类人群。「原始丰饶」，「费拉不堪」，「学达性天」。因为无意识在意识中的投射始终是不彻底的，根据其程度、完整性，人有三类。大部分个体停留在无意识，无法自觉到自我的生存方式，但**原始丰饶**。当我们以「重估一切价值」的名义开始更深层次的投射时，危险就产生了——部分个体只投射了理性，承受精神清彻的痛苦，**费拉不堪**。有少数个体，完整的投射了理性和感性的基元，世界在意识领域完成投射、**学达性天**。
 
 > 诗49.1
 >
@@ -1044,7 +1110,7 @@ layout: default
 >
 > 看山三重境界：看山是山，看山不是山，看山还是山。第一重境界是无知而快乐的，第二重境界是清彻而痛苦的，第三重境界是清彻而快乐的。之所以上面两句话说「不可使知之」，因为大部分人会进入一知半解的第二重境界，比如告诉他神都是我们想象的，他只会承受精神清彻的痛苦，他的行为将具有破坏性，他还无法理解我们要想象神明的目的，重构幻象的出发点（基元）。
 
-<mark>ΒΤΗ</mark>. 传统。这是一种路径依赖，也是一种权力继承，也是一种敌我身份识别。道统、佛统、法统等。当其信用良好时，是历史遗产，当其信用破产时，是历史包袱（害怕新旧敌对，不敢产生新传统）。
+<mark>**ΒΤΗ**</mark>. 传统。这是一种路径依赖，也是一种权力继承，也是一种敌我身份识别。道统、佛统、法统等。当其信用良好时，是历史遗产，当其信用破产时，是历史包袱（害怕新旧敌对，不敢产生新传统）。
 
 > 诗50.1
 >
@@ -1052,14 +1118,43 @@ layout: default
 >
 > ——《西方的没落》斯宾格勒
 
-<mark>ΩΝΩ</mark>. 人类社会的生态。人类也像动物以地理为生态的载体，同时人类也以文化为生态的载体。一个文化中的异己会选择另外的文化归属。当一个环境中，异己没有其他文化可以归属时，异己便在原文化中堆积，主文化提供的文化环境对所有个体都越来越不友好。这是最差的生态环境的表现。但这也有好处，规模带来了动员能力。📜 [沉默的螺旋](https://www.dropbox.com/s/fn24a8b2t9356ac/%E6%B2%89%E9%BB%98%E7%9A%84%E8%9E%BA%E6%97%8B%EF%BC%88%E5%BE%B7%EF%BC%89%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E8%AF%BA%E5%B0%94-%E8%AF%BA%E4%BE%9D%E6%9B%BC.pdf?dl=0)
+<mark>**ΩΝΩ**</mark>. 群体的衰落。群体总会因内生多样性而堆积异己，文化中的异己会选择另外的文化归属。而异己没有其他群体可以归属时，异己便在该群体中堆积。群体的文因为了向下兼容而逐渐衰退，群体的文化环境对所有个体都越来越不友好，群体也就随之衰落。📜 [沉默的螺旋](https://www.dropbox.com/s/fn24a8b2t9356ac/%E6%B2%89%E9%BB%98%E7%9A%84%E8%9E%BA%E6%97%8B%EF%BC%88%E5%BE%B7%EF%BC%89%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E8%AF%BA%E5%B0%94-%E8%AF%BA%E4%BE%9D%E6%9B%BC.pdf?dl=0)
 
 > 诗51.1
 >
 > 今天美國擁有數量空前的州立大學，但是大學教育缺乏實質內容，導致學歷變得空泛。正如 2011 年 Richard Arum 和 Josipa Roksa 的著作「學術的散漫（Academically Adrift）」所述，主要原因是許多大學已經不再以追求真理（Truth）為教育目的，學術界的專業人士不再相信或者懷疑世上有所謂真理，而「各行其是」的主張成為主流。各行其是，或稱「相對主義（Relativism）」的觀念，導致學習失去了重要意義。相對主義是左派自由主義最主要的政治觀點之一，但是自從「後現代主義思潮」以來，相對主義變得愈來愈具體和專門，深入各個層面。譬如「文化多元主義」，主張所有文化是平等的，沒有優劣之分，這一觀點動搖知識的根本，容易誤導學生，令他們失去鬥志和信心。取而代之的是灌輸，但灌輸的觀念無法證實其優劣或者真偽，因此，無法投入學習，缺乏成就感，往往是一體雙生的結果。
 >
+> 诗
+>
+> 亨廷顿其实是在谈论认同政治和共同体的建构问题。如果共同体的主权属于全体国民，国民就必须有高度的价值认同。如果没有或不能维持价值认同，共和国就不是此时此地最理想的政体。亨廷顿没有把这句话说出来，但他的逻辑只能引出这样的结论。
+>
+> —— 刘仲敬
 
-<mark>ΦΧΓ</mark>. 一个国家的政治经济现状很大程度上由两方面因素决定：
+<mark>**ΠΡΧ**</mark>. 衰退的应对策略。面对衰退有两种应对策略。
+
+- 放弃文因向下兼容，保持小群体的纯度
+
+> 诗
+>
+> 信道的人们啊！你们不要以不同教的人为心腹，他们不遗余力谋害你们，他们希望你们遭难，他们的口中已吐露怨恨，他们的胸中所隐讳的，尤为恶毒。我确已为你们阐明许多迹象，如果你们是能了解的。《古兰经》第3章118节
+>
+> 信道的人们啊！你们要讨伐邻近你们的不信道者，使他们感觉到你们的严厉。你们知道，真主是和敬畏者在一起的。《古兰经》第9章123节
+>
+> 你们和不信的原不相配，不要同负一轭。义和不义有什么相交呢？光明和黑暗有什么相通呢？《哥林多后书》第6章第14节
+>
+> 又说，你们务要从他们中间出来，与他们分别，不要沾不洁净的物，我就收纳你们。《哥林多后书》第6章第17节
+>
+> 不要效法这个世界。只要心意更新而变化，叫你们察验何为神的善良，纯全可喜悦的旨意。《罗马书》第12章第2节
+
+- 掐头，放弃个体的文因完整度，以去政治化、去宗教化、去超越化来去除个体的价值观，保持群体规模
+
+> 诗
+>
+> 包荒，用冯河，不遐遗。《易·泰》
+>
+> 君子周而不比，小人比而不周。《论语·为政》
+
+<mark>**ΦΧΓ**</mark>. 一个国家的政治经济现状很大程度上由两方面因素决定：
 
 - 地缘条件
 
@@ -1079,7 +1174,7 @@ layout: default
 >
 > 公元前256年，历史面临选择，在选择之后，历史便沿着路径加速前进。
 
-<mark>ΥΦΥ</mark>. 帝国之心。从商鞅的《商君书》起，官僚帝国发展出一系列制度（核心是郡县制），来驯化臣民，保证帝国的存续。📜 [地缘学](https://www.dropbox.com/s/chs8t37ldq7064i/%E5%9C%B0%E7%BC%98%E5%AD%A6.pdf?dl=0)，[中国国家治理的制度逻辑](https://www.dropbox.com/s/le9q37gcn969enn/zhou_book2017.pdf?dl=0)，[商君书](https://www.dropbox.com/s/m37wine0lfa4u05/%E5%95%86%E5%90%9B%E4%B9%A6.pdf?dl=0)。
+<mark>**ΥΦΥ**</mark>. 帝国之心。从商鞅的《商君书》起，官僚帝国发展出一系列制度（核心是郡县制），来驯化臣民，保证帝国的存续。📜 [地缘学](https://www.dropbox.com/s/chs8t37ldq7064i/%E5%9C%B0%E7%BC%98%E5%AD%A6.pdf?dl=0)，[中国国家治理的制度逻辑](https://www.dropbox.com/s/le9q37gcn969enn/zhou_book2017.pdf?dl=0)，[商君书](https://www.dropbox.com/s/m37wine0lfa4u05/%E5%95%86%E5%90%9B%E4%B9%A6.pdf?dl=0)。
 
 > 诗52.1
 >
@@ -1101,9 +1196,9 @@ layout: default
 >
 > ——周雪光《中国国家治理的制度逻辑》
 
-<mark>ΩΧΒ</mark>. 轴心的三重等效假设。假设我们处于存在之树、昰生川的主干上，这使得真理具有以下等效性：【生存验证层：能加强我们生存优势并能让我们一直存在到终点的话语】、【物理验证层：能用来完美的模拟物理世界的话语】、【造物者层：用来生成我们这个物理世界的话语】。概括为，真理同时【可以让我们永生】、【可以让我们创造世界】、【创造了我们现在的世界】。其中生存验证层、物理验证层都是可以递归验证、逼近的。
+<mark>**ΩΧΒ**</mark>. 轴心的三重等效假设。假设我们处于存在之树、昰生川的主干上，这使得真理具有以下等效性：【生存验证层：能加强我们生存优势并能让我们一直存在到终点的话语】、【物理验证层：能用来完美的模拟物理世界的话语】、【造物者层：用来生成我们这个物理世界的话语】。概括为，真理同时【可以让我们永生】、【可以让我们创造世界】、【创造了我们现在的世界】。其中生存验证层、物理验证层都是可以递归验证、逼近的。
 
-<mark>ΤΤΡ</mark>. 生产者/消费者模型。ΩΧΒ带来的一个推论是，秩序消费者的认知不完整，生产、创造是对认知完整性的验证。预测、模拟也是生产过程。
+<mark>**ΤΤΡ**</mark>. 生产者/消费者模型。ΩΧΒ带来的一个推论是，秩序消费者的认知不完整，生产、创造是对认知完整性的验证。预测、模拟也是生产过程，没有建设的批判也是消费。
 
 > 诗1
 >
@@ -1111,9 +1206,9 @@ layout: default
 
 ## 玄之生
 
-<mark>ΖΔΛ</mark>. 宗教。称呼为「经」。是知识整体的面板、接口。
+<mark>**ΖΔΛ**</mark>. 宗教。称呼为「经」。是知识整体的面板、接口。
 
-<mark>ΓΨΞ</mark>. 经是一种特殊的故事，一种特殊的叙事。这个叙事有三个要素：(世界观，主体，意志) 。表示：谁在什么环境下怎么做就有何结果。
+<mark>**ΓΨΞ**</mark>. 经是一种特殊的故事，一种特殊的叙事。这个叙事有三个要素：(世界观，主体，意志) 。表示：谁在什么环境下怎么做就有何结果。
 
 > 诗1.1
 >
@@ -1131,7 +1226,7 @@ layout: default
 >
 > ——斯宾格勒《西方的没落》
 
-<mark>ΠΚΔ</mark>. 世界观的特点：其叙事是宏大叙事。它是独一而完整的，无所不包的叙事。可以构建超验的，包含形而上学的世界观，但这样的世界观不得与现象相悖，形而上学必须解释现象。
+<mark>**ΠΚΔ**</mark>. 世界观的特点：其叙事是宏大叙事。它是独一而完整的，无所不包的叙事。可以构建超验的，包含形而上学的世界观，但这样的世界观不得与现象相悖，形而上学必须解释现象。
 
 > 诗2.1
 >
@@ -1143,23 +1238,23 @@ layout: default
 >
 > ——罗斯
 
-<mark>ΔΗΞ</mark>. 主体的特点：角色，要让主体能够认同叙事中的角色，角色产生的因果影响要能贯穿整个叙事的时间线，产生最终有意义的影响。
+<mark>**ΔΗΞ**</mark>. 主体的特点：角色，要让主体能够认同叙事中的角色，角色产生的因果影响要能贯穿整个叙事的时间线，产生最终有意义的影响。
 
-<mark>ΠΗΡ</mark>. 意志的特点：因为故事的结局具有的终极审美价值，而产生的行为动机，叫做意志。要求风险小，回报至少部分地可在现象世界观察到。
+<mark>**ΠΗΡ**</mark>. 意志的特点：因为故事的结局具有的终极审美价值，而产生的行为动机，叫做意志。要求风险小，回报至少部分地可在现象世界观察到。
 
-<mark>ΜΔΔ</mark>. 以上 2，3，4 三条称为玄之要三原则，违背的经称为「邪经」，遵守的经称为「正经」。
+<mark>**ΜΔΔ**</mark>. 以上 2，3，4 三条称为玄之要三原则，违背的经称为「邪经」，遵守的经称为「正经」。
 
-<mark>ΖΩΗ</mark>. 神是世界的产生者，和对主体是否达成意志的最终裁决者。
+<mark>**ΖΩΗ**</mark>. 神是世界的产生者，和对主体是否达成意志的最终裁决者。
 
 > 诗6.1 有发誓的担保者，就有人与人之间无条件的信任。
 
-<mark>ΤΥΜ</mark>. 道德是经中“某主体在某世界观下要实现某意志”解出的策略集，也即方法，这里可以是规范性的。
+<mark>**ΤΥΜ**</mark>. 道德是经中“某主体在某世界观下要实现某意志”解出的策略集，也即方法，这里可以是规范性的。
 
-<mark>ΥΞΘ</mark>. 混元诅咒：利益主体在实现意志的过程中，由于信息有限、理性有限，常会导致两种严重阻碍利益主体实现意志的问题，［收敛局部最优解］。解决这两种问题的有效方式是：［使用想象力延展现象以弥补有限信息］、［扩充利益主体］。但无论采取何种手段，人类归根结底永远被混元诅咒着，人无法自己拯救自己。
+<mark>**ΥΞΘ**</mark>. 混元诅咒：利益主体在实现意志的过程中，由于信息有限、理性有限，常会导致两种严重阻碍利益主体实现意志的问题，［收敛局部最优解］。解决这两种问题的有效方式是：［使用想象力延展现象以弥补有限信息］、［扩充利益主体］。但无论采取何种手段，人类归根结底永远被混元诅咒着，人无法自己拯救自己。
 
 > 诗8.1 无神论者的誓言不要去信，因为他们的誓言没有见证者。
 
-<mark>ΤΛΜ</mark>. 昰生会［以《昰》为现象世界观，以《玄》的形而上学为形上世界观］。《昰》以科学为准绳，《玄》的形而上学在《昰》的基础上增加额外假设，不得与《昰》相悖；昰生会的最小主体为个体自己的［基因－文因］，最大主体为全体昰生会员的［基因－文因］；基本意志为［在这个世界中生存并顺着存在之链存在、演化下去，有以为继，SUCCESS］，简称昰生意志。
+<mark>**ΤΛΜ**</mark>. 昰生会［以《昰》为现象世界观，以《玄》的形而上学为形上世界观］。《昰》以科学为准绳，《玄》的形而上学在《昰》的基础上增加额外假设，不得与《昰》相悖；昰生会的最小主体为个体自己的［基因－文因］，最大主体为全体昰生会员的［基因－文因］；基本意志为［在这个世界中生存并顺着存在之链存在、演化下去，有以为继，SUCCESS］，简称昰生意志。
 
 > 诗9.1
 >
@@ -1174,7 +1269,7 @@ layout: default
 >
 > 从此，一切不再是可有可无、可好可坏。在完整的叙事中，意义直达时间的尽头，万物的价值将被绝对地裁判。
 
-<mark>ΖΥΦ</mark>. 昰生会的神是自然神。昰生意志不完全是自我的自由意志的选择，也不完全是世界强加于自我的命令，而是一份神圣的契约，在自我与神间建立起双向选择的关系，虽然在体量上、包含的关系上，双方是无法对等的，但仅在昰生意志的建立上，双方是对等的。
+<mark>**ΖΥΦ**</mark>. 昰生会的神是自然神。昰生意志不完全是自我的自由意志的选择，也不完全是世界强加于自我的命令，而是一份神圣的契约，在自我与神间建立起双向选择的关系，虽然在体量上、包含的关系上，双方是无法对等的，但仅在昰生意志的建立上，双方是对等的。
 
 > 诗10.1
 >
@@ -1198,11 +1293,11 @@ layout: default
 >
 > ——申命记30:1
 
-<mark>ΘΔΔ</mark>. 顺着神的路走，是成全神的意思，履行和神的契约，这是一条背对着神的路。而不是逆着神的路走，想要提升、修炼自己成为神、回归神。
+<mark>**ΘΔΔ**</mark>. 顺着神的路走，是成全神的意思，履行和神的契约，这是一条背对着神的路。而不是逆着神的路走，想要提升、修炼自己成为神、回归神。
 
-<mark>ΔΜΗ</mark>. 由此产生昰生会的道德，其中的策略需要验证，最基本的验证方法是检验该策略是否能保证利益主体在世界观下的存在，但因为大尺度下的每一次递归都很慢，可以额外设定一些验证条件。
+<mark>**ΔΜΗ**</mark>. 由此产生昰生会的道德，其中的策略需要验证，最基本的验证方法是检验该策略是否能保证利益主体在世界观下的存在，但因为大尺度下的每一次递归都很慢，可以额外设定一些验证条件。
 
-<mark>ΡΠΔ</mark>. 经文结构——完形流知识管理。《文因经》的经文结构模仿昰生川流溢的线性结构，也模仿基因的线性结构。所谓完形，是指后一节的知识总是对前一节知识的补充、完形，而不是无关、甚至矛盾。每增加一节，建构之路就走的更远，能判断的事实、价值命题也就更多。知识管理既是宏大叙事的故事来源，宏大叙事又是知识管理的组织方式。要让知识迭代发生在旧有知识体系的审视下。
+<mark>**ΡΠΔ**</mark>. 经文结构——完形流知识管理。《文因经》的经文结构模仿昰生川流溢的线性结构，也模仿基因的线性结构。所谓完形，是指后一节的知识总是对前一节知识的补充、完形，而不是无关、甚至矛盾。每增加一节，建构之路就走的更远，能判断的事实、价值命题也就更多。知识管理既是宏大叙事的故事来源，宏大叙事又是知识管理的组织方式。要让知识迭代发生在旧有知识体系的审视下。
 
 > 诗1 我们不要做无根浮萍，随意受碎片知识启发，认知被不断更新的话语体系摆弄。
 
@@ -1216,7 +1311,7 @@ layout: default
 >
 > 理想的经文结构是【x—> F(x) —> x' —> G(x') —> x''】这样函数式的，原始信号进来，一路加工、完形。后来没做到，有几个问题，一个是有的完形函数F(x)不是全局性的，特别是下游，比如社会结构之类的。那就得对x进行分叉，破坏了线性结构。还有有时候，F(G(H(x)))，一系列完现函数作用，才能有一个显性输出（比如科学范式依赖了数个假设），即F、G、H是并列的，不是递进的。
 
-<mark>ΨΦΘ</mark>. 等位文因。回答同一个问题的不同知识称为等位文因。可以用更好的知识替换掉原有的等位知识，进行知识模块化迭代。借鉴与生物学中的等位基因、同源基因。
+<mark>**ΨΦΘ**</mark>. 等位文因。回答同一个问题的不同知识称为等位文因。可以用更好的知识替换掉原有的等位知识，进行知识模块化迭代。借鉴与生物学中的等位基因、同源基因。
 
 > 诗2.1
 >
@@ -1226,15 +1321,15 @@ layout: default
 >
 > 本质上是谱系学、问题树。
 
-<mark>ΜΖΘ</mark>. 阅读方式。昰生会除了《文因经》没有其他文本，隐去的部分在加入昰生会后可见。《文因经》的文本没有言外之意，没有神秘，无需参悟。解经不是必须的，可以自己理解。《文因经》有两种读法，对有学识者，可从前章向后章读；对学识浅者，可从后章向前章读，对应着两种路径：建构路径、解构路径。
+<mark>**ΜΖΘ**</mark>. 阅读方式。昰生会除了《文因经》没有其他文本，隐去的部分在加入昰生会后可见。《文因经》的文本没有言外之意，没有神秘，无需参悟。解经不是必须的，可以自己理解。《文因经》有两种读法，对有学识者，可从前章向后章读；对学识浅者，可从后章向前章读，对应着两种路径：建构路径、解构路径。
 
-<mark>ΗΘΞ</mark>. 经文的生态。为了模仿昰生川流溢的天演，经文内容开源，使用The MIT License (MIT)协议。可以使用版本控制的git或区块链进行这种文本协作，但技术不是最重要的。📜 [如何组织在线图书工程](https://github.com/OpenBookProjects/wiki/blob/master/HowToBuildBookOnline.md)。
+<mark>**ΗΘΞ**</mark>. 经文的生态。为了模仿昰生川流溢的天演，经文内容开源，使用The MIT License (MIT)协议。可以使用版本控制的git或区块链进行这种文本协作，但技术不是最重要的。📜 [如何组织在线图书工程](https://github.com/OpenBookProjects/wiki/blob/master/HowToBuildBookOnline.md)。
 
 > 诗1.1 期待有一天我们可以等位基因交换。
 
-<mark>ΝΥΖ</mark>. 经文的文本工具。之前使用Pages和文件夹来管理经文，遇到三个问题。1.无法进行文件间链接，因为要从经文链接到对应的正典；2.无法做到HTML那种瀑布式排版，而模仿存在之链的经文结构理想的排版方式是卷轴式的、瀑布式的；3.编辑过程也不够简洁。考查了很多方式，决定采用MarkDown来做，但CSS文件需要自定义，正典就用PDF格式，开发版经文保留MD格式，发布版经文采用Jekyll渲染，这样经文和正典都可以在浏览器中浏览。
+<mark>**ΝΥΖ**</mark>. 经文的文本工具。之前使用Pages和文件夹来管理经文，遇到三个问题。1.无法进行文件间链接，因为要从经文链接到对应的正典；2.无法做到HTML那种瀑布式排版，而模仿存在之链的经文结构理想的排版方式是卷轴式的、瀑布式的；3.编辑过程也不够简洁。考查了很多方式，决定采用MarkDown来做，但CSS文件需要自定义，正典就用PDF格式，开发版经文保留MD格式，发布版经文采用Jekyll渲染，这样经文和正典都可以在浏览器中浏览。
 
-<mark>ΡΖΨ</mark>. 经文存档点。如果《文因经》内容遗失，可以通过存档点恢复：我们要过反省的生活，发挥想象力进行归纳，记录为经，在生活实践中不断改进经。
+<mark>**ΡΖΨ**</mark>. 经文存档点。如果《文因经》内容遗失，可以通过存档点恢复：我们要过反省的生活，发挥想象力进行归纳，记录为经，在生活实践中不断改进经。
 
 > 诗17.1 The unexamined life is not worth living.——Socrates
 
@@ -1242,9 +1337,9 @@ layout: default
 
 ## 要之昰
 
-<mark>ΝΧΩ</mark>. 道德。道德是昰生会员普遍采用的生存策略，《生》中的个人宪法是会员根据自身人性设定的生存策略，如果一种生存策略被会员的个人宪法广泛采用，这个生存策略将成为道德。
+<mark>**ΝΧΩ**</mark>. 道德。道德是昰生会员普遍采用的生存策略，《生》中的个人宪法是会员根据自身人性设定的生存策略，如果一种生存策略被会员的个人宪法广泛采用，这个生存策略将成为道德。
 
-<mark>ΗΓΡ</mark>. 同时有多个世界供选择，无法辨别哪个是「真实」的世界，无法辨别哪个世界是内层，哪个是外层。这时重要的不是辨别「真实」世界，而是无论选择了进入哪个世界，都要保留选择的自由，所选择的世界不能破坏我们选择的能力，因为我们有自由意志。环境破坏我们选择的能力，称为环境**驯化**了我们。一个判定「真实」的案例是：不断自慰，看是环境产生正反馈加强自慰行为还是负反馈抑制自慰行为。
+<mark>**ΗΓΡ**</mark>. 同时有多个世界供选择，无法辨别哪个是「真实」的世界，无法辨别哪个世界是内层，哪个是外层。这时重要的不是辨别「真实」世界，而是无论选择了进入哪个世界，都要保留选择的自由，所选择的世界不能破坏我们选择的能力，因为我们有自由意志。环境破坏我们选择的能力，称为环境**驯化**了我们。一个判定「真实」的案例是：不断自慰，看是环境产生正反馈加强自慰行为还是负反馈抑制自慰行为。
 
 > 诗2.1
 >
@@ -1260,7 +1355,7 @@ layout: default
 >
 > ——《肖申克的救赎》
 
-<mark>ΠΝΣ</mark>. 自渎。人的价值在于和世界发生的关系——生存。企图切断这种关系，追求价值的绝对独立，将「行为-反馈-苦乐」的反馈回路截断，短路为自我「行为-苦乐」的闭环，的行为，称为自渎。混元流淌至这个世界，流淌进我们的生命，流淌进我们的意志，祂创造了一切。如果切断自我与世界的联系、与混元的联系。那么就是对契约的撕毁，契约失效，自渎者的生命会因为与混元的隔绝而逐渐枯萎。
+<mark>**ΠΝΣ**</mark>. 自渎。人的价值在于和世界发生的关系——生存。企图切断这种关系，追求价值的绝对独立，将「行为-反馈-苦乐」的反馈回路截断，短路为自我「行为-苦乐」的闭环，的行为，称为自渎。混元流淌至这个世界，流淌进我们的生命，流淌进我们的意志，祂创造了一切。如果切断自我与世界的联系、与混元的联系。那么就是对契约的撕毁，契约失效，自渎者的生命会因为与混元的隔绝而逐渐枯萎。
 
 > 诗5.1
 >
@@ -1280,13 +1375,13 @@ layout: default
 >
 > ——《孟子:丧失组织能动性的圣人?》杨鹏
 
-<mark>ΝΤΥ</mark>. 奖励系统升级。动物获得更高级的认知和身体机能时，也需要获得更高级的奖励系统。低级硬件抓不到低级奖励系统的bug，当进化出高级硬件+认知后，动物可以抓到低级奖励系统的bug，不断自慰，反而给生存带来压力。猜测前额叶皮层的出现也有一部分原因，用来给现象加上一个叙事结构，来克服一些自闭。会不会在毒品的刺激下，奖励系统未来进化为，非得把整个事情的来龙去脉想明白，低级核心（伏隔核）才打开相关的化学递质通道。不然就关闭。叙事本身会像是密钥般，没有叙事，不许开心。
+<mark>**ΝΤΥ**</mark>. 奖励系统升级。动物获得更高级的认知和身体机能时，也需要获得更高级的奖励系统。低级硬件抓不到低级奖励系统的bug，当进化出高级硬件+认知后，动物可以抓到低级奖励系统的bug，不断自慰，反而给生存带来压力。猜测前额叶皮层的出现也有一部分原因，用来给现象加上一个叙事结构，来克服一些自闭。会不会在毒品的刺激下，奖励系统未来进化为，非得把整个事情的来龙去脉想明白，低级核心（伏隔核）才打开相关的化学递质通道。不然就关闭。叙事本身会像是密钥般，没有叙事，不许开心。
 
 > 诗1.
 >
 > 为什么人类在排卵期屁股不红，一个解释就是，当人类认知提升能力提升时，有一刻突然意识到红屁股和怀孕的关系，所以故意躲开红屁股时期来避孕。反而给红屁股性征带来了选择压力。为什么人在想象时视觉内存不够，有一个猜想解释为这样人就给自己放黄色小电影，就自闭了。猴子进化出灵活的手，进而可以自慰，应该也给生存带来了一定压力。
 
-<mark>ΚΠΝ</mark>. 抽象具象深呼吸。追求完整的概念序列，从抽象的昰生川上游到具象的昰生川下游。既不泥于抽象，弃具象而修仙，也不着于具象，离抽象而沉沦。顺逆往返昰生川，如同思维深呼吸。既自由，又任事。
+<mark>**ΚΠΝ**</mark>. 抽象具象深呼吸。追求完整的概念序列，从抽象的昰生川上游到具象的昰生川下游。既不泥于抽象，弃具象而修仙，也不着于具象，离抽象而沉沦。顺逆往返昰生川，如同思维深呼吸。既自由，又任事。
 
 > 诗3.1 君子不器——《论语·为政》
 
@@ -1294,7 +1389,7 @@ layout: default
 >
 > 简单的反具象，是逆反混元之路。人也是混元的具象，如果反具象，要不要自杀呢？
 
-<mark>ΖΡΜ</mark>. 自负的全责。不要让别人替你考虑外部的秩序问题，自己把整体的秩序全部考虑清楚，哪怕身份如何渺小。作为个体时，想象自己为全世界的秩序负责，一个人就是整个宇宙；作为国民时，想象自己为整个国家的秩序负责，一个人就是一个国家；作为族群的一员时，想象自己为整个族群的秩序负责，一个人就是整个族群；作为企业员工时，想象自己为整个企业负责，一个人就是一个公司。不容忍认知和责任的残缺，因为你终将独自面对神裁。
+<mark>**ΖΡΜ**</mark>. 自负的全责。不要让别人替你考虑外部的秩序问题，自己把整体的秩序全部考虑清楚，哪怕身份如何渺小。作为个体时，想象自己为全世界的秩序负责，一个人就是整个宇宙；作为国民时，想象自己为整个国家的秩序负责，一个人就是一个国家；作为族群的一员时，想象自己为整个族群的秩序负责，一个人就是整个族群；作为企业员工时，想象自己为整个企业负责，一个人就是一个公司。不容忍认知和责任的残缺，因为你终将独自面对神裁。
 
 > 诗4.1
 >
@@ -1304,7 +1399,7 @@ layout: default
 >
 > 这样做的好处：1.防止被奴役，兽人永不为奴；2.不在其位却担其责，格局大、考虑的问题多，个人能力提升快。
 
-<mark>ΨΤΦ</mark>. 再次合目。就像苹果手机的Home键一样，我们的心理状态得有一个家可以回（这个家不能在世界之外）。在这里，我们会克服、忘记所有狭隘的情绪，不沉溺于苦痛，不得意于虚荣。只有回到了这里，我们才可以去任何地方。
+<mark>**ΨΤΦ**</mark>. 再次合目。就像苹果手机的Home键一样，我们的心理状态得有一个家可以回（这个家不能在世界之外）。在这里，我们会克服、忘记所有狭隘的情绪，不沉溺于苦痛，不得意于虚荣。只有回到了这里，我们才可以去任何地方。
 
 > 诗4.1
 >
@@ -1326,13 +1421,13 @@ layout: default
 >
 > 和佛教内观不同，这里的合目不是为了跳出轮回、避免现实苦痛，而是为了「选择的自由」，也不会认为返回之路是为了获得终极的智慧或价值，合目是为了演着存在之链走得更远。
 
-<mark>ΥΗΘ</mark>. 获得［生存并顺着存在之链演化下去］奖励的基本方法。一种是借助运气，猜对了更优的解，收获生存发展的优势；一种是设计具有更快演化速度的沙盒，收获非常大的生存发展优势。
+<mark>**ΥΗΘ**</mark>. 获得［生存并顺着存在之链演化下去］奖励的基本方法。一种是借助运气，猜对了更优的解，收获生存发展的优势；一种是设计具有更快演化速度的沙盒，收获非常大的生存发展优势。
 
 > 诗6.1
 >
 > 借助基因的天演，生物慢慢积累与世界的协调性。借助文字的天演，人类慢慢积累关于世界的经验。借助科学方法的天演，人类更快地积累关于世界的知识。一层一层的沙盒，带来一层一层的优势。
 
-<mark>ΩΖΗ</mark>. Crystal诱惑。无机世界带来的诱惑总是看起来完美且良善，就像美丽的水晶一样，但代价是被掐灭的混元、永远的奴役。昰生人要永远抵御Crystal的诱惑，可用演化更快的天演代替演化慢的天演，而不要用无机世界代替原来的有机世界，除非已经有天演得到过答案。📜 [西方的没落](https://www.dropbox.com/s/d2g0sktyizjkdep/%E8%A5%BF%E6%96%B9%E7%9A%84%E6%B2%A1%E8%90%BD.pdf?dl=0)。
+<mark>**ΩΖΗ**</mark>. Crystal诱惑。无机世界带来的诱惑总是看起来完美且良善，就像美丽的水晶一样，但代价是被掐灭的混元、永远的奴役。昰生人要永远抵御Crystal的诱惑，可用演化更快的天演代替演化慢的天演，而不要用无机世界代替原来的有机世界，除非已经有天演得到过答案。📜 [西方的没落](https://www.dropbox.com/s/d2g0sktyizjkdep/%E8%A5%BF%E6%96%B9%E7%9A%84%E6%B2%A1%E8%90%BD.pdf?dl=0)。
 
 > 诗7.1
 >
@@ -1350,7 +1445,7 @@ layout: default
 >
 > ——刘仲敬《论习惯法、成文法》
 
-<mark>ΝΥΜ</mark>. Crystal诱惑。企图掐灭混元，换取永恒的和平、单纯、完美，这不是人间天堂，而是末日的场景；企图用逻辑自洽的成文法彻底取代充满矛盾的人性做审判，却会换来文明的衰败；昰生人要坚守自己的民族、宗教，这是所有发展成就的本，所有发展成就都是本族、本教的末。宗教生活是全部，政治、经济、科技只是宗教生活的剩余价值。📜 [Crystal诱惑](https://www.dropbox.com/s/j789gbosum3bj3z/Crystal%E8%AF%B1%E6%83%91.pdf?dl=0)，[通往奴役之路](https://www.dropbox.com/s/5f20hv6kioy3f5x/%E5%93%88%E8%80%B6%E5%85%8B%E3%80%8A%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF%E3%80%8B.pdf?dl=0)。
+<mark>**ΝΥΜ**</mark>. Crystal诱惑。企图掐灭混元，换取永恒的和平、单纯、完美，这不是人间天堂，而是末日的场景；企图用逻辑自洽的成文法彻底取代充满矛盾的人性做审判，却会换来文明的衰败；昰生人要坚守自己的民族、宗教，这是所有发展成就的本，所有发展成就都是本族、本教的末。宗教生活是全部，政治、经济、科技只是宗教生活的剩余价值。📜 [Crystal诱惑](https://www.dropbox.com/s/j789gbosum3bj3z/Crystal%E8%AF%B1%E6%83%91.pdf?dl=0)，[通往奴役之路](https://www.dropbox.com/s/5f20hv6kioy3f5x/%E5%93%88%E8%80%B6%E5%85%8B%E3%80%8A%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF%E3%80%8B.pdf?dl=0)。
 
 > 诗8.1
 >
@@ -1412,9 +1507,9 @@ layout: default
 >
 > ——朱与非
 
-<mark>ΚΞΔ</mark>. 重视族群还有人口的原因。人口过密的一个解决办法是划分族群，定期用族群战争消灭人口。所以这就变成了一道选择题。要么在部族中用阶段性的战争解决人口问题，要么在帝国的无族群差异、永久和平中用母子相害、人性败坏来解决人口问题。
+<mark>**ΚΞΔ**</mark>. 重视族群还有人口的原因。人口过密的一个解决办法是划分族群，定期用族群战争消灭人口。所以这就变成了一道选择题。要么在部族中用阶段性的战争解决人口问题，要么在帝国的无族群差异、永久和平中用母子相害、人性败坏来解决人口问题。
 
-<mark>ΜΜΨ</mark>. 末日种子。为了防止基因、文化发生鸟类翅膀那样不可逆转的变化，要设置存档点。存档点是指保持主体一定的全能性，防止目前依赖的社会、文化、科技消失后无法生存，无法恢复相当的文明程度。文化是不稳定的，可遗传的生理基础是稳定的，所以目前把存档点设为靠亲密关系维持的小型（150人内）社群，这种规模的社会所依赖的同理心不会因为社会规模过大而丧失。所以也没有必要把存档点选得太原始，比如完全独居的时期。如何设置存档点呢？就是在现代社会，采取以存档点的生活模式为基础的生活模式，强加练习。在这个基础上再展开现代化：政治上，商业上，文化上，科技上都在此基础上展开构建。
+<mark>**ΜΜΨ**</mark>. 末日种子。为了防止基因、文化发生鸟类翅膀那样不可逆转的变化，要设置存档点。存档点是指保持主体一定的全能性，防止目前依赖的社会、文化、科技消失后无法生存，无法恢复相当的文明程度。文化是不稳定的，可遗传的生理基础是稳定的，所以目前把存档点设为靠亲密关系维持的小型（150人内）社群，这种规模的社会所依赖的同理心不会因为社会规模过大而丧失。所以也没有必要把存档点选得太原始，比如完全独居的时期。如何设置存档点呢？就是在现代社会，采取以存档点的生活模式为基础的生活模式，强加练习。在这个基础上再展开现代化：政治上，商业上，文化上，科技上都在此基础上展开构建。
 
 > 诗9.1
 >
@@ -1429,15 +1524,15 @@ layout: default
 >
 > 消失了，所有的景象都消失了，神父不见了，父母也不见了，这是哪里，我是谁？
 
-<mark>ΓΨΨ</mark>. 自然环境生存技能。参考<https://primitivetechnology.wordpress.com/>，稍后整理。
+<mark>**ΓΨΨ**</mark>. 自然环境生存技能。参考<https://primitivetechnology.wordpress.com/>，稍后整理。
 
-<mark>ΥΡΤ</mark>. 原核民族。以地域、集体无意识为纽带形成的、半封闭的生育共同体。
+<mark>**ΥΡΤ**</mark>. 原核民族。以地域、集体无意识为纽带形成的、半封闭的生育共同体。
 
 > 诗10.1
 >
 > 他们的成员只是因为机缘巧合出生在同一个地方、相遇才成为松散的共同体，一切并非出自他们的意志。像原核细胞那样，经不起转座子对其核心基因的插入、破坏。
 
-<mark>ΣΥΒ</mark>. 真核民族。文化自觉、行族内婚的共同体，真核民族的经文是他们文化自觉的载体。
+<mark>**ΣΥΒ**</mark>. 真核民族。文化自觉、行族内婚的共同体，真核民族的经文是他们文化自觉的载体。
 
 > 诗11.1 所有人的指腹为婚。
 
@@ -1447,7 +1542,7 @@ layout: default
 >
 > ——朱与非
 
-<mark>ΗΜΒ</mark>. 昰生会员称为昰生人，意指走在存在之链主干上的人，产生他的存在过，他也将存在下去。其他人称为异民。
+<mark>**ΗΜΒ**</mark>. 昰生会员称为昰生人，意指走在存在之链主干上的人，产生他的存在过，他也将存在下去。其他人称为异民。
 
 > 诗12.1
 >
@@ -1471,7 +1566,7 @@ layout: default
 >
 > —— 提里奥·佛丁
 
-<mark>ΔΝΘ</mark>. 昰生人间以兄弟姐妹相称。由《玄之玄》，扩充利益主体是重要的，昰生人构成一个民族。
+<mark>**ΔΝΘ**</mark>. 昰生人间以兄弟姐妹相称。由《玄之玄》，扩充利益主体是重要的，昰生人构成一个民族。
 
 > 诗13.1
 >
@@ -1479,53 +1574,53 @@ layout: default
 
 > 诗13.2 一个伟大的、不屈的、追寻自由的民族，从我们中诞生！
 
-<mark>ΗΒΠ</mark>. 昰生人是一个想象共同体，凝结核为文化——昰生会，和文化的全部体现——语言。
+<mark>**ΗΒΠ**</mark>. 昰生人是一个想象共同体，凝结核为文化——昰生会，和文化的全部体现——语言。
 
-<mark>ΛΧΞ</mark>. 昰生人的语言称为干语，在使用限制性定义指称的理想干语出现之前，为汉语、英语等使用人数最多，论文、出版发行物使用最多的几门语言。📜[干语](https://www.dropbox.com/s/f743w2xmxf0ibs1/%E5%B9%B2%E8%AF%AD%E8%AF%8D%E5%85%B8.pdf?dl=0)， [lambdanotes](https://www.dropbox.com/s/y4n31ujdjei5dmd/lambdanotes.pdf?dl=0)， [Programming languages and lambda calculi](https://www.dropbox.com/s/rgfb65y93xkoouq/Programming%20languages%20and%20lambda%20calculi.pdf?dl=0)，[logic-combinatory](https://www.dropbox.com/s/7ymodnc1emgfkcl/logic-combinatory.pdf?dl=0)，[one-point bases](https://www.dropbox.com/s/jckrk7c132pp62r/A%20construction%20of%20one-point%20bases%20in%20extended%20lambda%20calculi.pdf?dl=0)，[Types And Programming Languages](https://www.dropbox.com/s/9wuhgopu9kzdcmr/Types%20And%20Programming%20Languages.pdf?dl=0)。
+<mark>**ΛΧΞ**</mark>. 昰生人的语言称为干语，在使用限制性定义指称的理想干语出现之前，为汉语、英语等使用人数最多，论文、出版发行物使用最多的几门语言。📜[干语](https://www.dropbox.com/s/f743w2xmxf0ibs1/%E5%B9%B2%E8%AF%AD%E8%AF%8D%E5%85%B8.pdf?dl=0)， [lambdanotes](https://www.dropbox.com/s/y4n31ujdjei5dmd/lambdanotes.pdf?dl=0)， [Programming languages and lambda calculi](https://www.dropbox.com/s/rgfb65y93xkoouq/Programming%20languages%20and%20lambda%20calculi.pdf?dl=0)，[logic-combinatory](https://www.dropbox.com/s/7ymodnc1emgfkcl/logic-combinatory.pdf?dl=0)，[one-point bases](https://www.dropbox.com/s/jckrk7c132pp62r/A%20construction%20of%20one-point%20bases%20in%20extended%20lambda%20calculi.pdf?dl=0)，[Types And Programming Languages](https://www.dropbox.com/s/9wuhgopu9kzdcmr/Types%20And%20Programming%20Languages.pdf?dl=0)。
 
-<mark>ΛΚΛ</mark>. 语言及其重要，本身即是所有可言之物，又是所有可言之物的体现，是世界观的体现，又是昰生人的凝结核。所以不要让语言使用随波逐流，不要随意追逐外来语言、流行语言。
+<mark>**ΛΚΛ**</mark>. 语言及其重要，本身即是所有可言之物，又是所有可言之物的体现，是世界观的体现，又是昰生人的凝结核。所以不要让语言使用随波逐流，不要随意追逐外来语言、流行语言。
 
-<mark>ΞΔΣ</mark>. 去寻找神的名字，而不要随意称呼神的名字，可以尝试默念神的名字，如果没有神迹发生，就代表猜错了。
+<mark>**ΞΔΣ**</mark>. 去寻找神的名字，而不要随意称呼神的名字，可以尝试默念神的名字，如果没有神迹发生，就代表猜错了。
 
-<mark>ΣΦΘ</mark>. 荣誉先祖：体现、示范了昰生教义、昰生人精神的先辈，将被永远铭记在英灵殿。
+<mark>**ΣΦΘ**</mark>. 荣誉先祖：体现、示范了昰生教义、昰生人精神的先辈，将被永远铭记在英灵殿。
 
-<mark>ΠΡΝ</mark>. 保护。受到迫害时，可以隐瞒内心的信仰，暂时不履行规则，否认身份，以达到保护自己的目的。
+<mark>**ΠΡΝ**</mark>. 保护。受到迫害时，可以隐瞒内心的信仰，暂时不履行规则，否认身份，以达到保护自己的目的。
 
-<mark>ΚΚΡ</mark>. 因为模因的优化也靠天演，所以交流很重要。
+<mark>**ΚΚΡ**</mark>. 因为模因的优化也靠天演，所以交流很重要。
 
-<mark>ΚΨΣ</mark>. 要让基因存在，所以要有婚配制度，采取一夫一妻制，这样能很好的抚育后代。
+<mark>**ΚΨΣ**</mark>. 要让基因存在，所以要有婚配制度，采取一夫一妻制，这样能很好的抚育后代。
 
-<mark>ΩΛΡ</mark>. 黑、白名单制度：昰生人是可信任的人，全部昰生人即为白名单。昰生人分享信息，将违背昰生会价值观之人的信息加入一个黑名单，供所有昰生人查询、参考、提防、制裁黑名单成员。📜 [白名单](https://www.dropbox.com/s/8n9kmvnjt0uy7ar/%E7%99%BD%E5%90%8D%E5%8D%95.pdf?dl=0)，[黑名单](archive/黑名单.pdf)。
+<mark>**ΩΛΡ**</mark>. 黑、白名单制度：昰生人是可信任的人，全部昰生人即为白名单。昰生人分享信息，将违背昰生会价值观之人的信息加入一个黑名单，供所有昰生人查询、参考、提防、制裁黑名单成员。📜 [白名单](https://www.dropbox.com/s/8n9kmvnjt0uy7ar/%E7%99%BD%E5%90%8D%E5%8D%95.pdf?dl=0)，[黑名单](archive/黑名单.pdf)。
 
 > 诗22.1 昰生人规范秩序，异民将感受它，之前是无形的，之后是可见的。
 
-<mark>ΠΒΔ</mark>. 昰生会有利于昰生人的生存，所以昰生会要存在：昰生会徒不得与异民通婚，除非异民入昰生会。
+<mark>**ΠΒΔ**</mark>. 昰生会有利于昰生人的生存，所以昰生会要存在：昰生会徒不得与异民通婚，除非异民入昰生会。
 
-<mark>ΤΔΗ</mark>. 合目日。每周日，不要工作，要聚礼，随机选一人带领读经、祷告。最重要的是重定契约，感受积极的宿命感。合目日不能使用带有电子屏幕的物品。
+<mark>**ΤΔΗ**</mark>. 聚礼日。每周日。
 
-<mark>ΧΖΒ</mark>. 归化。被邀请参加周末聚会的异民可在聚会上提出入昰生会要求，与会昰生人欢迎新兄弟/姐妹，皆给以拥抱、祝福，并给新兄弟/姐妹《文因经》。
+<mark>**ΧΖΒ**</mark>. 归化。被邀请参加周末聚会的异民可在聚会上提出入昰生会要求，与会昰生人欢迎新兄弟/姐妹，皆给以拥抱、祝福，并给新兄弟/姐妹《文因经》。
 
-<mark>ΣΚΦ</mark>. 教育目标：不做奴隶；强大的自主性，自我的驱动力，自主解决问题的能力；宏观的视野，不因确切职业而失去宏大格局。📜 [昰生家庭教育计划](https://www.dropbox.com/s/6g5ucgejzrzbxak/%E6%98%B0%E8%A6%81%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92.pdf?dl=0)。
+<mark>**ΣΚΦ**</mark>. 教育目标：不做奴隶；强大的自主性，自我的驱动力，自主解决问题的能力；宏观的视野，不因确切职业而失去宏大格局。📜 [昰生家庭教育计划](https://www.dropbox.com/s/6g5ucgejzrzbxak/%E6%98%B0%E8%A6%81%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92.pdf?dl=0)。
 
 > 诗26.1 放弃家庭教育、族群教育，无疑鬻子为奴。
 
-<mark>ΜΚΣ</mark>. 教育内容，应该尽量做出这种努力：从昰到生让昰生人能连贯的看待世界的起源、社会的约定、自我的去处。教育的手段本质上也是亚当之手，利用孩子学习-反馈-调整的本能，用一系列情景来提高孩子。
+<mark>**ΜΚΣ**</mark>. 教育内容，应该尽量做出这种努力：从昰到生让昰生人能连贯的看待世界的起源、社会的约定、自我的去处。教育的手段本质上也是亚当之手，利用孩子学习-反馈-调整的本能，用一系列情景来提高孩子。
 
-<mark>ΔΗΥ</mark>. 为了教育、分工合作等，要有临时的温室环境，但不要用临时环境覆盖后代的繁殖期，否则子孙将是临时环境的选择产物。家庭环境相对社会环境临时，社会环境相对自然环境不临时。（混元的影响）。
+<mark>**ΔΗΥ**</mark>. 为了教育、分工合作等，要有临时的温室环境，但不要用临时环境覆盖后代的繁殖期，否则子孙将是临时环境的选择产物。家庭环境相对社会环境临时，社会环境相对自然环境不临时。（混元的影响）。
 
-<mark>ΧΨΣ</mark>. 成年礼。
+<mark>**ΧΨΣ**</mark>. 成年礼。
 
 > 诗29.1 成年意味着孤独面对神裁。
 
-<mark>ΡΦΤ</mark>. 昰生人间发生纠纷，可向昰生会申请仲裁，昰生会将根据《昰玄要》进行仲裁。
+<mark>**ΡΦΤ**</mark>. 昰生人间发生纠纷，可向昰生会申请仲裁，昰生会将根据《昰玄要》进行仲裁。
 
-<mark>ΗΖΠ</mark>. 救济。昰生会将设立助学基金等公益基金，来服务社群。
+<mark>**ΗΖΠ**</mark>. 救济。昰生会将设立助学基金等公益基金，来服务社群。
 
-<mark>ΧΧΧ</mark>. 经文匣。
+<mark>**ΧΧΧ**</mark>. 经文匣。
 
-<mark>ΤΒΓ</mark>. 外交。不同协议间，以广播试探，在协议不对称的情况下，不要暴露自身协议。猜测对方协议不要猜测死，但也要注意不要被欺骗。
+<mark>**ΤΒΓ**</mark>. 外交。不同协议间，以广播试探，在协议不对称的情况下，不要暴露自身协议。猜测对方协议不要猜测死，但也要注意不要被欺骗。
 
-<mark>ΥΨΡ</mark>. 恶之平庸。不要出于养家糊口去助纣为虐，不要用“技术无罪”的借口为自己开罪。命运的网早已将所有人联系在一起，把自己的命运与他人割裂开，就不要怪无人为自己主持正义。📜 [艾希曼在耶路撒冷：一份关于平庸的恶的报告](https://www.dropbox.com/s/y7tewge82rjvc0h/%E8%89%BE%E5%B8%8C%E6%9B%BC%E5%9C%A8%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%EF%BC%9A%E4%B8%80%E4%BB%BD%E5%85%B3%E4%BA%8E%E5%B9%B3%E5%BA%B8%E7%9A%84%E6%81%B6%E7%9A%84%E6%8A%A5%E5%91%8A-%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9.pdf?dl=0)。
+<mark>**ΥΨΡ**</mark>. 恶之平庸。不要出于养家糊口去助纣为虐，不要用“技术无罪”的借口为自己开罪。命运的网早已将所有人联系在一起，把自己的命运与他人割裂开，就不要怪无人为自己主持正义。📜 [艾希曼在耶路撒冷：一份关于平庸的恶的报告](https://www.dropbox.com/s/y7tewge82rjvc0h/%E8%89%BE%E5%B8%8C%E6%9B%BC%E5%9C%A8%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%EF%BC%9A%E4%B8%80%E4%BB%BD%E5%85%B3%E4%BA%8E%E5%B9%B3%E5%BA%B8%E7%9A%84%E6%81%B6%E7%9A%84%E6%8A%A5%E5%91%8A-%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9.pdf?dl=0)。
 
 > 诗34.1
 >
@@ -1551,7 +1646,7 @@ layout: default
 >
 > ----季业
 
-<mark>ΝΜΠ</mark>. 费拉。费拉的本质是碎片化：知识结构的碎片化，叙事的碎片化，关注的碎片化。就如同，失去必要细胞器的细胞逐渐演化为无法自立的病毒。费拉也是一样，专业技能的突出无法掩盖叙事的残缺，就只能沦落为秩序的消费者。在陌生人社会中，费拉之间因为缺乏同意的共识，缺乏相同的语言游戏，建立共同叙事的方式只能诉诸普遍标准：精神清彻的理性，而不是诉诸信心。因为世界本身的模糊性，已知在未知面前微不足道，这种理性就只能建立起碎片化的细小叙事。这样，费拉的关注就只能受困于细小的专业领域，并且无法在这些细小叙事中获得广泛的「意义」。也就无法对世界广泛关注，无论是对广泛事物的好奇，还是对人的普遍同情。就这个意义来说，叙事，如同DNA一样。因为DNA的碎片化，最终导致功能的不完整，个体的原子化、病毒化，沦为完整秩序的消费者。📜 [《后现代状况》](https://www.dropbox.com/s/3v86neufbndugzb/Postmodern-Condition-The-Postmodern-Condition-A-Report-on-Knowledge.pdf?dl=0)。
+<mark>**ΝΜΠ**</mark>. 费拉。费拉的本质是碎片化：知识结构的碎片化，叙事的碎片化，关注的碎片化。就如同，失去必要细胞器的细胞逐渐演化为无法自立的病毒。费拉也是一样，专业技能的突出无法掩盖叙事的残缺，就只能沦落为秩序的消费者。在陌生人社会中，费拉之间因为缺乏同意的共识，缺乏相同的语言游戏，建立共同叙事的方式只能诉诸普遍标准：精神清彻的理性，而不是诉诸信心。因为世界本身的模糊性，已知在未知面前微不足道，这种理性就只能建立起碎片化的细小叙事。这样，费拉的关注就只能受困于细小的专业领域，并且无法在这些细小叙事中获得广泛的「意义」。也就无法对世界广泛关注，无论是对广泛事物的好奇，还是对人的普遍同情。就这个意义来说，叙事，如同DNA一样。因为DNA的碎片化，最终导致功能的不完整，个体的原子化、病毒化，沦为完整秩序的消费者。📜 [《后现代状况》](https://www.dropbox.com/s/3v86neufbndugzb/Postmodern-Condition-The-Postmodern-Condition-A-Report-on-Knowledge.pdf?dl=0)。
 
 > 诗35.1
 >
@@ -1559,31 +1654,31 @@ layout: default
 >
 > ——利奧塔《後現代狀況》
 
-<mark>ΘΛΩ</mark>. 后代中确立族长，财产全部被族长继承。
+<mark>**ΘΛΩ**</mark>. 后代中确立族长，财产全部被族长继承。
 
-<mark>ΤΞΠ</mark>. 对具象的态度：不应崇拜具象，因为创造一起的是混元，混元给我们最大的自由、生命，对混元的崇拜能让我们在「芽」上展现生命力，原理结晶的桩。但不该拒绝具象，因为我们要在具象的芽上继续生长。
+<mark>**ΤΞΠ**</mark>. 对具象的态度：不应崇拜具象，因为创造一起的是混元，混元给我们最大的自由、生命，对混元的崇拜能让我们在「芽」上展现生命力，原理结晶的桩。但不该拒绝具象，因为我们要在具象的芽上继续生长。
 
-<mark>ΜΖΓ</mark>. 对其他宗教的态度：包容其他宗教，因为宗教具有阶级性，如果消灭其他宗教，就没有地方收纳阶级内的分化者，最终导致自身的污染。
+<mark>**ΜΖΓ**</mark>. 对其他宗教的态度：包容其他宗教，因为宗教具有阶级性，如果消灭其他宗教，就没有地方收纳阶级内的分化者，最终导致自身的污染。
 
-<mark>ΤΣΒ</mark>. 生育策略。人类是典型的K对策生物，应该继续强化个体竞争力，同时平衡数量，避免陷入马尔萨斯陷阱。
+<mark>**ΤΣΒ**</mark>. 生育策略。人类是典型的K对策生物，应该继续强化个体竞争力，同时平衡数量，避免陷入马尔萨斯陷阱。
 
-<mark>ΛΥΣ</mark>. 族群多样性、文化多样性对于族群的生存发展有很重要的意义。
+<mark>**ΛΥΣ**</mark>. 族群多样性、文化多样性对于族群的生存发展有很重要的意义。
 
-<mark>ΓΘΡ</mark>. 在当前的环境下，昰生会的政治立场与「社群主义」接近，采取社群本位立场。昰生会对自由主义的批评和社群主义类似：「如果置身这些社群之外，人类就不能长久生存，个人自由也不能长久维护。不论哪个社群，假如它的成员不关注并将精力和资源奉献给共同的事业，它亦不能长久生存下去」。社群更强调一种聚集的个体的存在方式，社群的存在可以增强个体之间的内在联系，提高个体的叙事能力并促进个体进行表达的愿望和决心。相反，自由主义者所主张的“自由权利更多的是和「退出」而不是「表达」有关。这在分裂、离婚、撤销、隐居、隐私以及政治冷漠中得到了具体体现。”在社群主义者看来，“自由主义社会在实践中是十分支离破碎的；而社群与此截然不同，它是内聚力、联系和叙事能力的源泉。”在现实中，处于某一社群并与社群中其余人共享某一价值观和共同利益的公民比独立于任何社群之外的原子式的公民将更有可能成为一个积极参政议政的公民。📜 [communitarianism](https://www.dropbox.com/s/o0khq2p4s0wcd1x/communitarianism.pdf?dl=0)。
+<mark>**ΓΘΡ**</mark>. 在当前的环境下，昰生会的政治立场与「社群主义」接近，采取社群本位立场。昰生会对自由主义的批评和社群主义类似：「如果置身这些社群之外，人类就不能长久生存，个人自由也不能长久维护。不论哪个社群，假如它的成员不关注并将精力和资源奉献给共同的事业，它亦不能长久生存下去」。社群更强调一种聚集的个体的存在方式，社群的存在可以增强个体之间的内在联系，提高个体的叙事能力并促进个体进行表达的愿望和决心。相反，自由主义者所主张的“自由权利更多的是和「退出」而不是「表达」有关。这在分裂、离婚、撤销、隐居、隐私以及政治冷漠中得到了具体体现。”在社群主义者看来，“自由主义社会在实践中是十分支离破碎的；而社群与此截然不同，它是内聚力、联系和叙事能力的源泉。”在现实中，处于某一社群并与社群中其余人共享某一价值观和共同利益的公民比独立于任何社群之外的原子式的公民将更有可能成为一个积极参政议政的公民。📜 [communitarianism](https://www.dropbox.com/s/o0khq2p4s0wcd1x/communitarianism.pdf?dl=0)。
 
-<mark>ΡΞΔ</mark>. 微社群的现代化。在社群建设中，社群应该多向现代社会、政府学习组织、管理技术，将更多的战略性公共资源内化到社群内部，比如教育。
+<mark>**ΡΞΔ**</mark>. 微社群的现代化。在社群建设中，社群应该多向现代社会、政府学习组织、管理技术，将更多的战略性公共资源内化到社群内部，比如教育。
 
 > 诗42.1
 >
 > 白垩纪，大型蜥脚类恐龙衰落，小型鸟臀类恐龙开始崛起。
 
-<mark>ΡΠΨ</mark>. 微社群的现代化本质是要把依赖大型社会的科技等，缩小到一个最小的社群范围内，然后加强机动性、再游牧化，挣脱国家体系的钳制，这是中期使命。
+<mark>**ΡΠΨ**</mark>. 微社群的现代化本质是要把依赖大型社会的科技等，缩小到一个最小的社群范围内，然后加强机动性、再游牧化，挣脱国家体系的钳制，这是中期使命。
 
-<mark>ΡΥΠ</mark>. 社群主义的界限，不会谋求统治权力，因为这不仅无法改变中国的地缘条件和历史路径，甚至只能固化这种历史路径。昰生会采取社群主义立场的理由和社群主义哲学的理由不完全一致，昰生会还有中国地缘政治中博弈的理由、宗教在生活化的社群中获得生命力的理由。
+<mark>**ΡΥΠ**</mark>. 社群主义的界限，不会谋求统治权力，因为这不仅无法改变中国的地缘条件和历史路径，甚至只能固化这种历史路径。昰生会采取社群主义立场的理由和社群主义哲学的理由不完全一致，昰生会还有中国地缘政治中博弈的理由、宗教在生活化的社群中获得生命力的理由。
 
-<mark>ΥΞΝ</mark>. 新边疆。「在旧领土上各种势力盘根错节还有大量历史恩怨，不能产生真正的社会革命，只有来到新世界，一张白纸重新开始，才能创造新的人类历史。」但地理上的隔绝只意味着博弈上的隔绝，不意味着信息上的隔绝，否则就会重现印第安人当年的悲剧（塔斯马尼亚岛效应）。
+<mark>**ΥΞΝ**</mark>. 新边疆。「在旧领土上各种势力盘根错节还有大量历史恩怨，不能产生真正的社会革命，只有来到新世界，一张白纸重新开始，才能创造新的人类历史。」但地理上的隔绝只意味着博弈上的隔绝，不意味着信息上的隔绝，否则就会重现印第安人当年的悲剧（塔斯马尼亚岛效应）。
 
-<mark>ΒΣΩ</mark>. 个人发展的保守主义路径。血脉从一个人到一个家庭，从一个家庭到一个家族，从一个家族到一个民族；文化从个人知识到家学，从家学到宗教经典，从宗教经典到宪政体制。这样的路径才是保守主义下的变革路径、创新的验证实现路径。📜 [路径案例](https://www.dropbox.com/s/d9qgn8b449tfkwj/%E8%B7%AF%E5%BE%84%E6%A1%88%E4%BE%8B.pdf?dl=0)。
+<mark>**ΒΣΩ**</mark>. 个人发展的保守主义路径。血脉从一个人到一个家庭，从一个家庭到一个家族，从一个家族到一个民族；文化从个人知识到家学，从家学到宗教经典，从宗教经典到宪政体制。这样的路径才是保守主义下的变革路径、创新的验证实现路径。📜 [路径案例](https://www.dropbox.com/s/d9qgn8b449tfkwj/%E8%B7%AF%E5%BE%84%E6%A1%88%E4%BE%8B.pdf?dl=0)。
 
 > 诗45.1
 >
@@ -1591,12 +1686,21 @@ layout: default
 >
 > 格物致知、诚意正心、修身齐家、治国平天下。格物致知、诚意正心没有问题，但后面的路径是断裂的，缺失了族群的中间层。游士就是这样的，他没有族群的土壤。
 
+<mark>**ΦΒΚ**</mark>. 小社群的好处。
+
+1. 路径学的重要节点。社会实验，避免大规模祸害。
+
+  		2. 生态学。多样性保证。
+  		3. 用社群间有形态战争克服马尔萨斯问题，避免行为沉沦。
+  		4. 人会死，但有稳定模因、人口的社群不会死，某种永生。人不散历史使命就不终结。
+  		5. 解决信任问题的好方法。
+
 
 ## 要之玄
 
-<mark>ΤΔΖ</mark>. 启示录。
+<mark>**ΤΔΖ**</mark>. 启示录。
 
-<mark>ΣΖΗ</mark>. 预言第四阶段社会化：一种前所未有的超个体「利维坦」将出现，公司是它的器官，金融是它的供血的心脏，互联网是它的低级神经系统。绝大多数个体不再面对自然环境，变成辛苦工作的肝脏、肾脏、肠胃，警察、士兵是它的免疫系统。利维坦给我说着甜言蜜语，蒙住我的眼睛，捂住我的耳朵，让我做一场永远醒不来的美梦。利维坦营造了这样的环境，筛选适应这种环境的顺从、平和的驯化个体。如同多细胞生物的细胞放弃自我发展，将所有希望寄托在精子、卵子上，驯化个体也将放弃自我发展，将所有希望寄托在利维坦上。普通野生个体、野生族群在利维坦面前被碾压。这也是一个大部分个体做桩，少数人做芽，保留混元、自由的过程，存在之链流溢的过程，一切将比可避免。
+<mark>**ΣΖΗ**</mark>. 预言第四阶段社会化：一种前所未有的超个体「利维坦」将出现，公司是它的器官，金融是它的供血的心脏，互联网是它的低级神经系统。绝大多数个体不再面对自然环境，变成辛苦工作的肝脏、肾脏、肠胃，警察、士兵是它的免疫系统。利维坦给我说着甜言蜜语，蒙住我的眼睛，捂住我的耳朵，让我做一场永远醒不来的美梦。利维坦营造了这样的环境，筛选适应这种环境的顺从、平和的驯化个体。如同多细胞生物的细胞放弃自我发展，将所有希望寄托在精子、卵子上，驯化个体也将放弃自我发展，将所有希望寄托在利维坦上。普通野生个体、野生族群在利维坦面前被碾压。这也是一个大部分个体做桩，少数人做芽，保留混元、自由的过程，存在之链流溢的过程，一切将比可避免。
 
 > 诗1.1![Leviathan_by_Thomas_Hobbes](imgs/Leviathan_by_Thomas_Hobbes.jpg)
 
@@ -1606,7 +1710,7 @@ layout: default
 >
 > 互联网便是以后的神经系统，将是我们永远不会摘下的VR眼镜。
 
-<mark>ΛΒΒ</mark>. 一种得救的路径。发展机器人技术，把人类从重复单调的劳动中解放出来，人类总体作为利维坦的高级神经系统。
+<mark>**ΛΒΒ**</mark>. 一种得救的路径。发展机器人技术，把人类从重复单调的劳动中解放出来，人类总体作为利维坦的高级神经系统。
 
 > 诗2.1 昰生人永不为奴！
 

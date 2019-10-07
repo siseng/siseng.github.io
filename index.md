@@ -18,7 +18,7 @@ layout: default
 >
 > ![闭着的眼](imgs/if_eye_closed_327975.png)
 
-<mark>**ΔΠΠ**</mark>. 接受森罗万象。开始一条建构之路。
+<mark>**ΔΠΠ**</mark>. 拒绝了拒绝，怀疑了怀疑，否定了否定，而走出拒绝、怀疑、否定。接受森罗万象。开始一条建构之路。
 
 
 > 诗.α
@@ -63,9 +63,19 @@ layout: default
 >
 > "The theme of this book is that a universe comes into being when a space is severed or taken apart. The act is itself already remembered, even if unconsciously, as our first attempt to distinguish different things in a world where, in the first place, the boundaries can be drawn anywhere we please. At this stage the universe cannot be distinguished from how we act upon it, and the world may seem like shifting sand beneath our feet.”
 
+<mark>**ΔΚΓ**</mark>. 同一对象。时序上出现相似对象，视为同一对象。
+
+> 诗
+>
+> ![WX20191007-221516@2x](imgs/WX20191007-221516@2x.png)
+>
+> 如果没有这个假设，则「人不能两次踏进同一条河流。——赫拉克利特」
+
 <mark>**ΓΛΝ**</mark>. 余光路由和看门人。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
 
 > 诗1
+>
+> ![1200px-Peripheral_vision.svg](imgs/1200px-Peripheral_vision.svg.png)
 >
 > As you read this article your eyes will move so the words fall on the central part of your vision. This region is called the fovea and it has excellent resolution when compared to your peripheral vision.
 >
@@ -77,17 +87,9 @@ layout: default
 >
 > ——《Out of sight, but still in mind》Mark Williams
 
-> 
-
 <mark>**ΦΔΗ**</mark>. 私人指称。也叫索引，用一个信号指称一个事物或现象。
 
-> 诗3.1
->
-> 人不能两次踏进同一条河流。
->
-> ——赫拉克利特
-
-> 诗3.2
+> 诗
 >
 > ![物星](imgs/物星.png)
 >
@@ -314,6 +316,8 @@ layout: default
 
 <mark>**ΡΞΧ**</mark>. 生物的行为由“复制更多自身基因”的动机支配。社会行为、利他行为可以由此解释，也可由内含适应性和亲选择解释。（在许多情形下，基于内含适应性的计算，和基于个体适应性的计算，会得出近似的结果（因此我们常常可以用“自私的个体”去近似“自私的基因”））。📜 [Sociobiology](https://www.dropbox.com/s/s3z3brh0xyfyoe6/Edward%20O.%20Wilson-Sociobiology_%20The%20Abridged%20Edition%20%20-Belknap%20Press%20of%20Harvard%20University%20Press%20%281980%29.pdf?dl=0)。
 
+<mark>**ΡΣΤ**</mark>. 多细胞生物。多细胞生物在生命之树(Tree of life)不同的分支上独立地演化 出来四十多次，另外，在很多单细胞生物分支上，这个性状一度演化出来过，然而在后续的 历史中很快就丢失了。这大概是由于多细胞机制非常典型的两面性。一方面，多细胞生物的优势一目了然:众人拾 柴火焰高。细胞之间的通力合作，往往能够实现单个细胞所不能实现的功能，特别是在严峻 的环境压力下，多细胞联合体往往续命有方。一个典型的栗子，是细菌在抗生素压力下往往 会自发聚集形成菌膜(biofilm)。菌膜由大批细菌产生的多聚物所包裹，对严苛环境有极强 的抗性。菌膜内部还有方便细菌交换物质和信息的通道，保证细胞群体能够针对外部环境的 扰动做出迅速的应对。这种现象可视为一种原始的多细胞性(Multicellularity)。📜[多细胞起源](https://www.dropbox.com/s/lzz4uan8l3tibgg/%E5%A4%9A%E7%BB%86%E8%83%9E%E8%B5%B7%E6%BA%90.pdf?dl=0)
+
 <mark>**ΒΞΣ**</mark>. 性的代价。相比孤雌生殖，个体需要接受性选择，也就需要额外发育出很多第二性征。相比孤雌生殖，亲本只能把自己50%的基因传给下一代。相比孤雌生殖，有性生殖给寄生基因创造机会（比如杀死没有携带它们的精子）。
 
 <mark>**ΚΚΔ**</mark>. 性的益处。因为「自私的基因」所以性必须对群体和个体都有益处。📜 [生命的跃升](https://www.dropbox.com/s/gydyuec0oj08cgu/%E7%94%9F%E5%91%BD%E7%9A%84%E8%B7%83%E5%8D%87%E2%80%94%E2%80%9440%E4%BA%BF%E5%B9%B4%E6%BC%94%E5%8C%96%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%8D%81%E5%A4%A7%E5%8F%91%E6%98%8E.pdf?dl=0)。
@@ -453,6 +457,10 @@ layout: default
 > 把我们卷入其中！……
 
 <mark>**ΚΛΛ**</mark>. 认知充实。世界太有规律了，看上去可以被认知。
+
+> 诗
+>
+> 时序中的相似对象，所构成的同一对象，相对时序的变化非常平稳。
 
 <mark>**ΤΨΥ**</mark>. 自主充实。感觉上我们有自主性，但也可能是不断自我合理化自己被动行为，所带来的错觉。
 
@@ -687,13 +695,13 @@ layout: default
 >
 > ![洛伦兹吸引子](imgs/timg的副本.jpeg)
 
-<mark>**ΗΠΦ**</mark>. 冷凝和层次。混元流淌着，在上层还保持着变化，在下层却可能凝结为晶体。上层称为下层的生态，下层称为上层的结晶。每增加一个层次，展开的命题空间更大，能判断的命题更多（神谕机）。
+<mark>**ΗΠΦ**</mark>. 冷凝和层次。混元流淌着，在上层还保持着变化，在下层却可能凝结为晶体。上层称为下层的生态，下层称为上层的结晶。每增加一个层次，展开的命题空间更大，能判断的命题更多（神谕机）。📜[多者异也](https://www.dropbox.com/s/m1tze0x70vyzupv/%E5%A4%9A%E8%80%85%E5%BC%82%E4%B9%9F.pdf?dl=0)
 
 > 诗8.1
 >
 > 大数定律的例子。有一枚正面计1、反面计0，概率各1/2的硬币，累计抛N次，求平均计数。N趋于无穷大时，随机性趋于消失。平均计数的结果1/2称为结晶，抛N次正反概率1/2的硬币称为生态。
 
-<mark>**ΥΖΩ**</mark>. 有机世界的生长方式称为「天演」。混元在一个小范围内分化出一些相近形态，理性组合出结果。存在之链的上游对这些分化作出判定，一些不返回混元，一些形态就近继续分化，再交给理性，等待结果。每一轮「分化——收到结果」都称为一次递归。天演的两个要素「增，在相空间附近产生多样性」、「减，有方向的消除多样性」。
+<mark>**ΥΖΩ**</mark>. 有机世界的生长方式称为「天演」。混元在一个小范围内分化出一些相近形态，理性组合出结果。存在之链的上游对这些分化作出判定，一些不返回混元，一些形态就近继续分化，再交给理性，等待结果。每一轮「分化——收到结果」都称为一次递归。天演的两个要素「增，在相空间附近产生多样性」、「减，有方向的消除多样性」。📜[最小作用量原理](https://www.dropbox.com/s/zi3b3upoi0jrrkp/%E6%9C%80%E5%B0%8F%E4%BD%9C%E7%94%A8%E9%87%8F%E5%8E%9F%E7%90%86.pdf?dl=0)
 
 > 诗9.1
 >

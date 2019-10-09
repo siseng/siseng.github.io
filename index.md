@@ -63,14 +63,6 @@ layout: default
 >
 > "The theme of this book is that a universe comes into being when a space is severed or taken apart. The act is itself already remembered, even if unconsciously, as our first attempt to distinguish different things in a world where, in the first place, the boundaries can be drawn anywhere we please. At this stage the universe cannot be distinguished from how we act upon it, and the world may seem like shifting sand beneath our feet.”
 
-<mark>**ΔΚΓ**</mark>. 同一对象。时序上出现相似对象，视为同一对象。
-
-> 诗
->
-> ![WX20191007-221516@2x](imgs/WX20191007-221516@2x.png)
->
-> 如果没有这个假设，则「人不能两次踏进同一条河流。——赫拉克利特」
-
 <mark>**ΓΛΝ**</mark>. 余光路由和看门人。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
 
 > 诗1
@@ -87,6 +79,14 @@ layout: default
 >
 > ——《Out of sight, but still in mind》Mark Williams
 
+<mark>**ΔΚΓ**</mark>. 同一对象。时序上出现相似对象，视为同一对象。
+
+> 诗
+>
+> ![WX20191007-221516@2x](imgs/WX20191007-221516@2x.png)
+>
+> 如果没有这个假设，则「人不能两次踏进同一条河流。——赫拉克利特」
+
 <mark>**ΦΔΗ**</mark>. 私人指称。也叫索引，用一个信号指称一个事物或现象。
 
 > 诗
@@ -94,8 +94,7 @@ layout: default
 > ![物星](imgs/物星.png)
 >
 > 事物是一颗星，中间是指称（索引），四周的光芒是事物的特征或属性。
->
-> 原子现象如尘埃，是铸成它们的血肉，光芒从黑暗中散发出来，遮掩了它们永远神秘的核心。
+>原子现象如尘埃，是铸成它们的血肉，光芒从黑暗中散发出来，遮掩了它们永远神秘的核心。
 
 <mark>**ΔΦΗ**</mark>. 世界。将所有的现象称为世界。
 
@@ -133,11 +132,17 @@ layout: default
 >
 > 随着认知的加工，对象越来越少。
 
-<mark>**ΛΔΣ**</mark>. 具体。由一个抽象指称，加上特殊限定，指称更小范围的事物或现象。
+<mark>**ΛΔΣ**</mark>. 具体。由一个抽象指称，加上特殊限定而回到实例化的对象。
 
-<mark>**ΚΣΣ**</mark>. 现象用对象间的相互作用描述。相互作用不直接作用于对象，而作用于对象的属性。
+<mark>**ΔΝΓ**</mark>. 运动。基于「**同一对象**」，将同一对象在时间上的变化，用运动描述。
 
-<mark>**ΜΨΦ**</mark>. 用词项指称对象。用谓词指称相互作用，用命题指称现象。
+> 诗
+>
+> ![tenor](imgs/tenor.gif)
+>
+> 飞矢不动——一支飞行的箭是静止的。由于每一时刻这支箭都有其确定的位置因而是静止的，因此箭就不能处于运动状态。——芝诺
+
+<mark>**ΜΨΦ**</mark>. 语言结构。词项指称对象，谓词指称运动，命题指称现象。
 
 <mark>**ΓΩΩ**</mark>. 归纳法。用归纳法组织统计关联，这是一个增加信息的过程。
 
@@ -153,21 +158,7 @@ layout: default
 >
 > ——罗素《神秘主义与逻辑》
 
-<mark>**ΡΩΛ**</mark>. 常相、可控相、随机相分离。常相恒稳不变化，可控相受随机相有规律扰动，随机相没有规律的波动。把现象中的常相归因于客体。把一部分可控相归因于主体的时间、空间变化。这里的客体、主体不是形而上的。没有实体意味。
-
-> 诗1
->
-> 现象生成论有三种模型
->
-> 1⃣️主体+客体—>现象
->
-> 2⃣️主体—>现象
->
-> 3⃣️现象自生。
->
-> 选择1⃣️的原因是现象的共相太明显了，殊相也是有规律的。
-
-<mark>**ΗΡΣ**</mark>. 客体永存(object permanence,object constancy)。 亦称“客体永恒性”，“永久性客体”。系瑞士儿童心理学家J·皮亚杰研究儿童心理发展时使用的一个概念。是指儿童脱离了对物体的感知而仍然相信该物体持续存在的意识。如和乳儿做“藏猫儿”游戏时，你藏起来，不见了，他还用眼睛到处寻找。儿童大约在9～12个月获得客体永久性。
+<mark>**ΗΡΣ**</mark>. 客体永存(object permanence,object constancy)。 亦称“客体永恒性”，“永久性客体”。系瑞士儿童心理学家J·皮亚杰研究儿童心理发展时使用的一个概念。是指儿童脱离了对物体的感知而仍然相信该物体持续存在的意识。如和幼儿做“藏猫儿”游戏时，你藏起来，不见了，他还用眼睛到处寻找。儿童大约在9～12个月获得客体永久性。
 
 > 诗1
 >
@@ -192,6 +183,13 @@ layout: default
 > 诗
 >
 > 在利用身体错觉现象考察自我身体感知的研究中，前人发现我们对身体的感知并非一成不变。在特定条件下，大脑也会将外界物体感知成自身身体的一部分，或者失去对自己身体部位的感知。为了在神经元和大脑环路水平上探究自我身体表征的机制，研究人员利用自主设计搭建的、能诱导手臂感知错觉的虚拟现实呈现系统（图B），通过目标点指向任务（图C），开展了让猕猴汇报自身手臂位置而推理其身体幻觉强度的研究。在行为学任务中，被试通过伸手指向视觉目标点来确认自己手臂的位置。当被试在视频反馈系统中所见的视觉手臂和真实手臂发生偏差时，被试因为身体错觉而导致其确认的手臂位置（目标点）与实际手臂位置间产生不同程度的偏差，即本体感觉偏移（图F）。对人和猕猴行为结果的分析显示，当视觉－本体感觉偏差较小时，本体感觉偏移基本上由视觉信息主导，即被试认为视觉手臂为自己的手臂；而当偏差逐渐增大时，本体感觉偏移却不再增大或甚至减小，表明了被试更多地利用了本体感觉手臂而忽略视觉手臂信息，即失去了对视觉手臂的拥有感。![F1.large](imgs/F1.large.jpg)
+
+<mark>**ΡΩΛ**</mark>. 常相、可控相、随机相分离。常相恒稳不变化，可控相受随机相有规律扰动，随机相没有规律的波动。把现象中的常相归因于客体。把一部分可控相归因于主体的时间、空间变化。这里的客体、主体不是形而上的。没有实体意味。
+
+> 诗1
+>
+> 归因理论（Attribution theory），在日常的社会交往中，人们为了有效地控制和适应环境，往往对发生于周围环境中的各种社会行为有意识或无意识地做出一定的解释，即认知整体在认知过程中，根据他人某种特定的人格特征或某种行为特点推论出其他未知的特点，以寻求各种特点之间的因果关系。
+> 归因理论由社会心理学家海德于1958年提出。归因是指人们对自己或他人的行为进行分析，推论出这些行为的原因的过程。归因方式影响到以后的行为方式和动机的强弱。
 
 <mark>**ΦΣΠ**</mark>. 因果关系。
 
@@ -283,6 +281,8 @@ layout: default
 <mark>**ΠΞΩ**</mark>. 叠加原理。若 ψ1，ψ2… ψn 为某一微观体系的可能状态，由它们线性组合所得的ψ = c1ψ1 + c2ψ2 + … + cnψn 也是该体系可能的状态。
 
 <mark>**ΨΡΨ**</mark>. Pauli 原理。描述多电子体系空间运动和自旋运动的全波函数，交换任两个电子的全部坐标（空间坐标和自旋坐标），必然得到反对称的波函数。
+
+<mark>**ΘΧΥ**</mark>. 用相互作用和涨落描述运动。
 
 <mark>**ΒΡΗ**</mark>. 爱因斯坦相对性原理。物理规律在所有惯性系中都具有相同的形式。
 
@@ -433,28 +433,17 @@ layout: default
 > 《致歌德》尼采
 >
 > 永不消逝者
->
-> 只是你的比喻！
->
+>只是你的比喻！
 > 上帝这个诱惑者，
->
-> 是诗人的骗局……
->
+>是诗人的骗局……
 > 转动着的世界之轮
->
-> 掠过一个个目标；
->
+>掠过一个个目标；
 > 怀恨者称之为灾难，
->
-> 傻瓜称之为游戏。
->
+>傻瓜称之为游戏。
 > 支配性的世界游戏
->
-> 混合着存在与假相——
->
+>混合着存在与假相——
 > 这种永恒的愚弄
->
-> 把我们卷入其中！……
+>把我们卷入其中！……
 
 <mark>**ΚΛΛ**</mark>. 认知充实。世界太有规律了，看上去可以被认知。
 
@@ -530,36 +519,21 @@ layout: default
 > 诗7.1
 >
 > Our puppet strings are hard to see,
->
-> So we perceive ourselves as free,
->
+>So we perceive ourselves as free,
 > Convinced that no mere objects could
->
-> Behave in terms of bad and good.
->
+>Behave in terms of bad and good.
 > To you, we mannikins seem less than live,
->
-> because our consciousness is that of dummies,
->
+>because our consciousness is that of dummies,
 > made to sit on laps of gods and mouth their wit;
->
-> Are you, our transcendental gods,
->
+>Are you, our transcendental gods,
 > likewise dangled from your rods,
->
-> and need, to show spontaneous charm,
->
+>and need, to show spontaneous charm,
 > some higher god’s inserted arm?
->
-> We seem to form a nested set
->
+>We seem to form a nested set
 > with each the next one’s marionette,
->
-> who, if you asked him, would insist
->
+>who, if you asked him, would insist
 > that he’s the last ventriloquist.
->
-> ——Ted Melnechuk
+>——Ted Melnechuk
 
 <mark>**ΛΜΜ**</mark>. 真理虚空。现象中只有原子现象，无法满足人不断抽象、抽象到完整图景的需要。
 
@@ -645,6 +619,14 @@ layout: default
 
 <mark>**ΓΩΖ**</mark>. 形而上学。故事的正剧开始了，游戏地图加载中。
 
+> 诗
+>
+> 现象生成论有三种模型
+> 1⃣️主体+客体—>现象
+> 2⃣️主体—>现象
+> 3⃣️现象自生。
+> 选择1⃣️的原因是现象的共相太明显了，殊相也是有规律的。
+
 <mark>**ΖΖΖ**</mark>. 混元。初始，有一团东西，分化无数又消灭无数，变幻莫测，遍历一切可能，每一个形态都稍纵即逝。称为混元。这是存在之链的源头，万物将从它出。
 
 > 诗1.1
@@ -674,8 +656,7 @@ layout: default
 > 诗4.1
 >
 > 无机世界：魔方世界、机械世界；
->
-> 有机世界：热力学的世界、量子的世界。
+>有机世界：热力学的世界、量子的世界。
 
 <mark>**ΩΦΜ**</mark>. 无机世界的存在：若A存在于S世界中，A可由S世界中的感性由理性组合出来，也即，A在S中为真。有机世界的由于混元的作用，存在更加复杂，在一些特殊情况下，一个有机世界的存在问题可以转化为一个无机世界的极值问题，该有机世界也就可以模拟该无机世界。
 
@@ -787,8 +768,7 @@ layout: default
 > 诗15.1
 >
 > 物理材料组成的人在思考物理规律；
->
-> 人创造的电脑在模拟一滴水溅入水面。
+>人创造的电脑在模拟一滴水溅入水面。
 
 > 诗15.2
 >

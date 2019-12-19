@@ -21,11 +21,13 @@ layout: default
 <mark>**ΔΠΠ**</mark>. 拒绝了拒绝，怀疑了怀疑，否定了否定，而走出拒绝、怀疑、否定。接受森罗万象。开始一条建构之路。
 
 
-> 诗.α
+> 诗.
 >
 > ![睁开的眼](imgs/if_eye_327973.png)
 
-> 诗.ε 阳春召我以烟景——李白
+<mark>**ΓΛΚ**</mark>. Desein。此在。
+
+> 诗.阳春召我以烟景——李白
 >
 > ![WX20190322-224549@2x](imgs/WX20190322-224549@2x.png)
 >
@@ -34,6 +36,29 @@ layout: default
 ## 昰之玄
 
 <mark>**ΛΦΧ**</mark>. 认识论。我们依赖着这些先天的、后天的认知方法，有了这些认知方法，才有了其后的所有内容。
+
+> 诗2
+>
+> 我对瞬间说：＂停住＂！
+> 作者:巴尔蒙特 （俄）
+>
+> 或许，整个自然都是色彩的玛赛克？
+> 或许，整个自然都是众声的合唱？
+> 或许，整个自然只是数字和线条？
+> 或许，整个自然只是美的愿望？
+>
+> 思想，没有衡量深度的尺度，
+> 任何力量无法阻挡春天行进的脚步。
+> 只有一种可能让我对瞬间说："停住"：
+> 打碎束缚思想的索链，让理想把思想锻铸。
+>
+> 蓦然间，我们顿悟了众声的合鸣，
+> 我们看见无数色彩的交鸣，
+> 假使理想也无法测量深度，――
+> 那我们就在深渊中创造春风。
+>
+> 1901年
+> 张冰译
 
 <mark>**ΒΓΔ**</mark>. 统计关联。赋予原子现象以结构。📜[简介](https://www.dropbox.com/s/0sh3xkv74bmyzc1/%E7%AE%80%E4%BB%8B.pdf?dl=0)， [Population coding of shape in area V4](https://www.dropbox.com/s/ynu5eou6lycarpj/PasCon02.pdf?dl=0)，[Functional neuroanatomy of intuitive physical inference](https://www.dropbox.com/s/k20ptxmum07892t/PNAS-2016-Fischer-E5072-81.pdf?dl=0)，[Premotor cortex and the recognition of motor actions](https://www.dropbox.com/s/zpoa7j0xbdzskxh/S_C3_A3_Rizzolatti_1996.pdf?dl=0)，[Decoding Sound and Imagery Content in Early Visual Cortex](https://www.dropbox.com/s/66agzdw87t1at1l/1-s2.0-S0960982214004588-main.pdf?dl=0)，[Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties](https://www.dropbox.com/s/mb46qfvblfqqqir/126.full.pdf?dl=0)，[Decoupled Neural Interfaces using Synthetic Gradients](https://www.dropbox.com/s/7jrwt2cnwol71vi/1608.05343.pdf?dl=0)，[Diverse Suppressive Influences in Area MT and Selectivity to Complex Motion Features](https://www.dropbox.com/s/enn993s8zs2h1p3/16715.full.pdf?dl=0)，[Structure and Function of Visual Area MT](https://www.dropbox.com/s/qdnl8dvinqv36w3/born-bradley-mt-arn2005.pdf?dl=0)，[Decoding complex flow-field patterns in visual working memory](https://www.dropbox.com/s/p0vjlxor27h0dny/christophel2014.pdf?dl=0)，[Visual working memory enhances neural representations of matching visual input](https://www.dropbox.com/s/6gqxjfx8mv2kuiu/f1000research-125527.pdf?dl=0)，[Cortical responses to invisible objects in the human dorsal and ventral pathways](https://www.dropbox.com/s/rsivsbqejc62x8q/Fang-He-nn1537.pdf?dl=0)，[Experience-dependent spatial expectations in mouse visual cortex](https://www.dropbox.com/s/qs520emvxd8tqdx/fiser2016.pdf?dl=0)，[A functional and perceptual signature of the second visual area in primates](https://www.dropbox.com/s/2sl6mbolkt24slt/freeman_etal_2013.pdf?dl=0)，[Decoding reveals the contents of visual working memory in early visual areas](https://www.dropbox.com/s/adbmma3wk80ypon/Harrison%20Nature%202009.pdf?dl=0)，[RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE OF MONKEY STRIATE CORTEX](https://www.dropbox.com/s/g62tormb9s7ka4j/jphysiol01104-0228.pdf?dl=0)，[The Fusiform Face Area](https://www.dropbox.com/s/6bzwtfnoaf8948x/KanwisherMcDermottChunJNeuro97.pdf?dl=0)，[Less Is More](https://www.dropbox.com/s/vboc5f6y5frgey8/KokJeheeDeLange_Neuron2012.pdf?dl=0)，[Goal-dependent dissociation of visual and prefrontal cortices during working memory](https://www.dropbox.com/s/d7xp3ef8tzwi0x1/lee2013.pdf?dl=0)，[Crowding, grouping, and object recognition](https://www.dropbox.com/s/hx90gqve9qs4loj/Manassi_JOV_2015.pdf?dl=0)，[Selectivity for the Shape, Size, and Orientation of Objects for Grasping in Neurons of Monkey Parietal Area AIP](https://www.dropbox.com/s/hfwm39qtel5tj72/Murata-Gallese%202000.pdf?dl=0)，[Dynamics of motion signaling by neurons in macaque area MT](https://www.dropbox.com/s/uozryjtfi7px7jy/Smith.Majaj.Movshon.NatNeurosc.2005.pdf?dl=0)，[Nonstimulated early visual areas carry information about surrounding context](https://www.dropbox.com/s/98iia1ngweuutrj/PNAS-2010-Smith-20099-103.pdf?dl=0)。
 
@@ -142,7 +167,11 @@ layout: default
 >
 > 飞矢不动——一支飞行的箭是静止的。由于每一时刻这支箭都有其确定的位置因而是静止的，因此箭就不能处于运动状态。——芝诺
 
-<mark>**ΜΨΦ**</mark>. 语言结构。词项指称对象，谓词指称运动，命题指称现象。
+<mark>**ΜΨΦ**</mark>. 语言结构。词项指称对象，谓词指称运动、相互作用、关系，命题指称现象。
+
+> 诗1
+>
+> 此岸，行为还不是语言。
 
 <mark>**ΓΩΩ**</mark>. 归纳法。用归纳法组织统计关联，这是一个增加信息的过程。
 
@@ -184,14 +213,14 @@ layout: default
 >
 > 在利用身体错觉现象考察自我身体感知的研究中，前人发现我们对身体的感知并非一成不变。在特定条件下，大脑也会将外界物体感知成自身身体的一部分，或者失去对自己身体部位的感知。为了在神经元和大脑环路水平上探究自我身体表征的机制，研究人员利用自主设计搭建的、能诱导手臂感知错觉的虚拟现实呈现系统（图B），通过目标点指向任务（图C），开展了让猕猴汇报自身手臂位置而推理其身体幻觉强度的研究。在行为学任务中，被试通过伸手指向视觉目标点来确认自己手臂的位置。当被试在视频反馈系统中所见的视觉手臂和真实手臂发生偏差时，被试因为身体错觉而导致其确认的手臂位置（目标点）与实际手臂位置间产生不同程度的偏差，即本体感觉偏移（图F）。对人和猕猴行为结果的分析显示，当视觉－本体感觉偏差较小时，本体感觉偏移基本上由视觉信息主导，即被试认为视觉手臂为自己的手臂；而当偏差逐渐增大时，本体感觉偏移却不再增大或甚至减小，表明了被试更多地利用了本体感觉手臂而忽略视觉手臂信息，即失去了对视觉手臂的拥有感。![F1.large](imgs/F1.large.jpg)
 
+<mark>**ΦΣΠ**</mark>. 因果关系。
+
 <mark>**ΡΩΛ**</mark>. 常相、可控相、随机相分离。常相恒稳不变化，可控相受随机相有规律扰动，随机相没有规律的波动。把现象中的常相归因于客体。把一部分可控相归因于主体的时间、空间变化。这里的客体、主体不是形而上的。没有实体意味。
 
 > 诗1
 >
 > 归因理论（Attribution theory），在日常的社会交往中，人们为了有效地控制和适应环境，往往对发生于周围环境中的各种社会行为有意识或无意识地做出一定的解释，即认知整体在认知过程中，根据他人某种特定的人格特征或某种行为特点推论出其他未知的特点，以寻求各种特点之间的因果关系。
 > 归因理论由社会心理学家海德于1958年提出。归因是指人们对自己或他人的行为进行分析，推论出这些行为的原因的过程。归因方式影响到以后的行为方式和动机的强弱。
-
-<mark>**ΦΣΠ**</mark>. 因果关系。
 
 <mark>**ΓΛΗ**</mark>. 演绎法。📜 [Precursors  of  logical  reasoningin  preverbal  human  infants](https://www.dropbox.com/s/dlzbya596sn8xmc/10.1126%40science.aao3539.pdf?dl=0)。
 
@@ -248,6 +277,12 @@ layout: default
 > 井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也。
 >
 > ——《庄子·秋水》
+
+<mark>**ΠΗΝ**</mark>. 客观。其他人也能得出同样观测结果。
+
+<mark>**ΤΓΧ**</mark>. 可重复。观测结果可以复现。
+
+
 
 ## 昰之生
 
@@ -371,7 +406,7 @@ layout: default
 
 <mark>**ΣΠΔ**</mark>. 外部行为调节：反射。初生儿就可完成一些最简单的非条件反射，如吸吮反射、吞咽反射、排尿反射、排便反射和屈肌反射等。以后由于机体不断接触外界环境，经过训练可逐渐形成越来越多的条件反射。
 
-<mark>**ΣΨΛ**</mark>. 外部行为调节：情绪系统。描述为针对内部或外部的重要事件所产生的突发反应，情绪会产生动机。
+<mark>**ΣΨΛ**</mark>. 外部行为调节：情绪系统。也叫边缘系统，描述为针对内部或外部的重要事件所产生的突发反应，情绪会产生动机。
 
 > 诗22.1
 >
@@ -617,7 +652,7 @@ layout: default
 
 ## 玄之玄
 
-<mark>**ΓΩΖ**</mark>. 形而上学。故事的正剧开始了，游戏地图加载中。
+<mark>**ΓΩΖ**</mark>. 形而上学，彼在。故事的正剧开始了，游戏地图加载中。
 
 > 诗
 >
@@ -651,12 +686,16 @@ layout: default
 
 > 诗3.1 「重复」给了万物生命。
 
-<mark>**ΡΞΔ**</mark>. 理性们选取的X各不相同，有些开启的世界再次返回混元，比如选择混元做为X的理性；有些开启一个静止的世界，这些理性选择感性做X，随即就组合出这些感性能组合出的所有可能，但也就此终结，这称为无机世界。有些开启一个动态的世界，这些理性选取一部分混元和一部分感性做X，开启的世界随混元的变化而变化。X称为理性们开启的世界的「元」，这第三类称作有机世界，是存在之链的第三环，万物将从它出。
+<mark>**ΡΞΔ**</mark>. 逻格斯空间。理性们选取的X各不相同，有些开启的世界再次返回混元，比如选择混元做为X的理性；有些开启一个静止的世界，这些理性选择感性做X，随即就组合出这些感性能组合出的所有可能，但也就此终结，这称为无机世界。有些开启一个动态的世界，这些理性选取一部分混元和一部分感性做X，开启的世界随混元的变化而变化。X称为理性们开启的世界的「元」，这第三类称作有机世界，是存在之链的第三环，万物将从它出。
 
-> 诗4.1
+> 诗1
 >
 > 无机世界：魔方世界、机械世界；
 >有机世界：热力学的世界、量子的世界。
+
+> 诗2
+>
+> 彼岸，行为亦是语言。
 
 <mark>**ΩΦΜ**</mark>. 无机世界的存在：若A存在于S世界中，A可由S世界中的感性由理性组合出来，也即，A在S中为真。有机世界的由于混元的作用，存在更加复杂，在一些特殊情况下，一个有机世界的存在问题可以转化为一个无机世界的极值问题，该有机世界也就可以模拟该无机世界。
 
@@ -1007,7 +1046,7 @@ layout: default
 >
 > 平民派是在罗马共和晚期极其严重的贫富差距下产生的，他们诉求提升公民大众的参政权力和解决贫富差距的问题，平民派具体施行的政策，包括让罗马公民在行省建立新的殖民地，以缓解意大利半岛已严重不足的土地分配问题；另外也主张将公民权颁发给予罗马的意大利盟邦居民，令他们可以享有与罗马人一样的政治权力；还有推动粮食赈济政策以即限制粮食价格等措施。平民派的声势，在他们拥护的领导人恺撒的独裁时达到了顶点。在凯撒的继承人组成的后三头同盟(前43年-前33年)掌权之后，他们即开始压制平民派的活动，至此平民派已不再是独立的政治势力。
 
-<mark>**ΨΒΓ**</mark>. 小群体对维持合作的作用。
+<mark>**ΨΒΓ**</mark>. 小群体对维持合作的作用。📜 [合作的进化](https://www.dropbox.com/s/7zl537t23fvfo3u/%28%E4%B8%96%E7%BA%AA%E4%BA%BA%E6%96%87%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6%C2%B7%E4%B8%96%E7%BA%AA%E5%89%8D%E6%B2%BF%29%20%5B%E7%BE%8E%5D%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%98%BF%E5%85%8B%E5%A1%9E%E5%B0%94%E7%BD%97%E5%BE%B7_%20%E5%90%B4%E5%9D%9A%E5%BF%A0%28%E8%AF%91%29%20-%20%E5%90%88%E4%BD%9C%E7%9A%84%E8%BF%9B%E5%8C%96%28%E4%BF%AE%E8%AE%A2%E7%89%88%29-%E4%B8%8A%E6%B5%B7%E4%BA%BA%E6%B0%91%E5%87%BA%E7%89%88%E7%A4%BE%20%282007%29.pdf?dl=0)
 
 > 诗1
 >
@@ -1196,7 +1235,7 @@ layout: default
 
 <mark>**ΖΔΛ**</mark>. 宗教。称呼为「经」。是知识整体的面板、接口。
 
-<mark>**ΓΨΞ**</mark>. 经是一种特殊的故事，一种特殊的叙事。这个叙事有三个要素：(世界观，主体，意志) 。表示：谁在什么环境下怎么做就有何结果。
+<mark>**ΓΨΞ**</mark>. 经是一种特殊的故事，一种特殊的叙事。这个叙事有三个要素：(世界观，主体，意志) 。表示：谁在什么环境下怎么做就有何结果。继承ΗΔΨ。
 
 > 诗1.1
 >
@@ -1242,7 +1281,15 @@ layout: default
 
 > 诗8.1 无神论者的誓言不要去信，因为他们的誓言没有见证者。
 
-<mark>**ΤΛΜ**</mark>. 昰生会［以《昰》为现象世界观，以《玄》的形而上学为形上世界观］。《昰》以科学为准绳，《玄》的形而上学在《昰》的基础上增加额外假设，不得与《昰》相悖；昰生会的最小主体为个体自己的［基因－文因］，最大主体为全体昰生会员的［基因－文因］；基本意志为［在这个世界中生存并顺着存在之链存在、演化下去，有以为继，SUCCESS］，简称昰生意志。
+<mark>**ΤΛΜ**</mark>. 昰生宇宙。［以《昰》为现象世界观，以《玄》的形而上学为形上世界观］。《昰》以科学为准绳，《玄》的形而上学在《昰》的基础上增加额外假设，不得与《昰》相悖。
+
+<mark>**ΧΥΓ**</mark>. 昰生主体。昰生会的最小主体为个体自己的［基因-文因］，最大主体为全体昰生会员的［基因-文因］。昰生主体是混元的流溢体现，昰生主体是自由意志的来源，借着波幅放大器放大为行为，离开了波幅放大器，昰生主体将与尘埃无异。昰生主体不是评价、反馈的来源，反馈来自主体以外。昰生主体是文因的端粒，如同基因的端粒，基因的端粒保持了染色体的完整性和控制染色体分裂周期。
+
+> 诗
+>
+> 尼采认为自我不是定在，而是生成的。就是说 任何一种知识状态的自我，都是一种超人的生成结果 而不是超人生成运动。超人是不断超越此处的人。就意味着超人是意识和意识、知识和知识之间纯粹、肯定性质的能量、消耗、疯狂。知识就是我拉的屎，我可以拉屎，屎不能拉我。「但是，肯定自己不救完蛋了吗？我们不能完成啊、也不能被完成啊！」持续拉屎。 而不是在一个地方拉屎，最后还吃屎，一般人就是拉完屎后，就吃屎了。吃指的是，你拉出来一个意识形态，然后再这个意识形态重复自己，或者你拉出一个价值观，再这个价值观重复自己。成为自己就是成为迷，后来发生现象学就是把自己作为一个永远不能还原的我。
+
+<mark>**ΜΣΚ**</mark>. 昰生意志。基本意志为［在这个世界中生存并顺着存在之链存在、演化下去，有以为继，SUCCESS］，简称昰生意志。
 
 > 诗9.1
 >
@@ -1342,6 +1389,12 @@ layout: default
 > 我告诉你，这些围墙很有趣。一开始，你恨它们。接着，你适应了它们。时间久了，你开始离不开它们。那就是被体制化了。（最后，你还会去捍卫它们）
 >
 > ——《肖申克的救赎》
+
+<mark>**ΩΘΤ**</mark>. 昰生主体生成仪式。让主体成为一个永远无法还原的迷。外部无法还原，自己也无法还原，只能从行为中看到迷的截面。
+
+> 诗
+>
+> ![WX20191219-093001@2x](imgs/WX20191219-093001@2x.png)
 
 <mark>**ΠΝΣ**</mark>. 自渎。人的价值在于和世界发生的关系——生存。企图切断这种关系，追求价值的绝对独立，将「行为-反馈-苦乐」的反馈回路截断，短路为自我「行为-苦乐」的闭环，的行为，称为自渎。混元流淌至这个世界，流淌进我们的生命，流淌进我们的意志，祂创造了一切。如果切断自我与世界的联系、与混元的联系。那么就是对契约的撕毁，契约失效，自渎者的生命会因为与混元的隔绝而逐渐枯萎。
 

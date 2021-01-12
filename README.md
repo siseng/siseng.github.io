@@ -37,8 +37,6 @@ Jekyll主题是从[这个主题](http://pages-themes.github.io/modernist)改过�
 
 欢迎邮件联系：lixvow@foxmail.com
 
-或加入QQ群：230905405
-
 ## Usage
 
 To use the Modernist theme:

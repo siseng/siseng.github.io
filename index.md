@@ -47,7 +47,7 @@ layout: default
 > 1901年
 > 张冰译
 
-<mark>**ΒΓΔ**</mark>. 统计关联。赋予原子现象以结构。📜[简介](https://www.dropbox.com/s/0sh3xkv74bmyzc1/%E7%AE%80%E4%BB%8B.pdf?dl=0)， [Population coding of shape in area V4](https://www.dropbox.com/s/ynu5eou6lycarpj/PasCon02.pdf?dl=0)，[Functional neuroanatomy of intuitive physical inference](https://www.dropbox.com/s/k20ptxmum07892t/PNAS-2016-Fischer-E5072-81.pdf?dl=0)，[Premotor cortex and the recognition of motor actions](https://www.dropbox.com/s/zpoa7j0xbdzskxh/S_C3_A3_Rizzolatti_1996.pdf?dl=0)，[Decoding Sound and Imagery Content in Early Visual Cortex](https://www.dropbox.com/s/66agzdw87t1at1l/1-s2.0-S0960982214004588-main.pdf?dl=0)，[Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties](https://www.dropbox.com/s/mb46qfvblfqqqir/126.full.pdf?dl=0)，[Decoupled Neural Interfaces using Synthetic Gradients](https://www.dropbox.com/s/7jrwt2cnwol71vi/1608.05343.pdf?dl=0)，[Diverse Suppressive Influences in Area MT and Selectivity to Complex Motion Features](https://www.dropbox.com/s/enn993s8zs2h1p3/16715.full.pdf?dl=0)，[Structure and Function of Visual Area MT](https://www.dropbox.com/s/qdnl8dvinqv36w3/born-bradley-mt-arn2005.pdf?dl=0)，[Decoding complex flow-field patterns in visual working memory](https://www.dropbox.com/s/p0vjlxor27h0dny/christophel2014.pdf?dl=0)，[Visual working memory enhances neural representations of matching visual input](https://www.dropbox.com/s/6gqxjfx8mv2kuiu/f1000research-125527.pdf?dl=0)，[Cortical responses to invisible objects in the human dorsal and ventral pathways](https://www.dropbox.com/s/rsivsbqejc62x8q/Fang-He-nn1537.pdf?dl=0)，[Experience-dependent spatial expectations in mouse visual cortex](https://www.dropbox.com/s/qs520emvxd8tqdx/fiser2016.pdf?dl=0)，[A functional and perceptual signature of the second visual area in primates](https://www.dropbox.com/s/2sl6mbolkt24slt/freeman_etal_2013.pdf?dl=0)，[Decoding reveals the contents of visual working memory in early visual areas](https://www.dropbox.com/s/adbmma3wk80ypon/Harrison%20Nature%202009.pdf?dl=0)，[RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE OF MONKEY STRIATE CORTEX](https://www.dropbox.com/s/g62tormb9s7ka4j/jphysiol01104-0228.pdf?dl=0)，[The Fusiform Face Area](https://www.dropbox.com/s/6bzwtfnoaf8948x/KanwisherMcDermottChunJNeuro97.pdf?dl=0)，[Less Is More](https://www.dropbox.com/s/vboc5f6y5frgey8/KokJeheeDeLange_Neuron2012.pdf?dl=0)，[Goal-dependent dissociation of visual and prefrontal cortices during working memory](https://www.dropbox.com/s/d7xp3ef8tzwi0x1/lee2013.pdf?dl=0)，[Crowding, grouping, and object recognition](https://www.dropbox.com/s/hx90gqve9qs4loj/Manassi_JOV_2015.pdf?dl=0)，[Selectivity for the Shape, Size, and Orientation of Objects for Grasping in Neurons of Monkey Parietal Area AIP](https://www.dropbox.com/s/hfwm39qtel5tj72/Murata-Gallese%202000.pdf?dl=0)，[Dynamics of motion signaling by neurons in macaque area MT](https://www.dropbox.com/s/uozryjtfi7px7jy/Smith.Majaj.Movshon.NatNeurosc.2005.pdf?dl=0)，[Nonstimulated early visual areas carry information about surrounding context](https://www.dropbox.com/s/98iia1ngweuutrj/PNAS-2010-Smith-20099-103.pdf?dl=0)。
+<mark>**ΒΓΔ**</mark>. 统计。赋予原子现象以结构。📜[简介](https://www.dropbox.com/s/0sh3xkv74bmyzc1/%E7%AE%80%E4%BB%8B.pdf?dl=0)， [Population coding of shape in area V4](https://www.dropbox.com/s/ynu5eou6lycarpj/PasCon02.pdf?dl=0)，[Functional neuroanatomy of intuitive physical inference](https://www.dropbox.com/s/k20ptxmum07892t/PNAS-2016-Fischer-E5072-81.pdf?dl=0)，[Premotor cortex and the recognition of motor actions](https://www.dropbox.com/s/zpoa7j0xbdzskxh/S_C3_A3_Rizzolatti_1996.pdf?dl=0)，[Decoding Sound and Imagery Content in Early Visual Cortex](https://www.dropbox.com/s/66agzdw87t1at1l/1-s2.0-S0960982214004588-main.pdf?dl=0)，[Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties](https://www.dropbox.com/s/mb46qfvblfqqqir/126.full.pdf?dl=0)，[Decoupled Neural Interfaces using Synthetic Gradients](https://www.dropbox.com/s/7jrwt2cnwol71vi/1608.05343.pdf?dl=0)，[Diverse Suppressive Influences in Area MT and Selectivity to Complex Motion Features](https://www.dropbox.com/s/enn993s8zs2h1p3/16715.full.pdf?dl=0)，[Structure and Function of Visual Area MT](https://www.dropbox.com/s/qdnl8dvinqv36w3/born-bradley-mt-arn2005.pdf?dl=0)，[Decoding complex flow-field patterns in visual working memory](https://www.dropbox.com/s/p0vjlxor27h0dny/christophel2014.pdf?dl=0)，[Visual working memory enhances neural representations of matching visual input](https://www.dropbox.com/s/6gqxjfx8mv2kuiu/f1000research-125527.pdf?dl=0)，[Cortical responses to invisible objects in the human dorsal and ventral pathways](https://www.dropbox.com/s/rsivsbqejc62x8q/Fang-He-nn1537.pdf?dl=0)，[Experience-dependent spatial expectations in mouse visual cortex](https://www.dropbox.com/s/qs520emvxd8tqdx/fiser2016.pdf?dl=0)，[A functional and perceptual signature of the second visual area in primates](https://www.dropbox.com/s/2sl6mbolkt24slt/freeman_etal_2013.pdf?dl=0)，[Decoding reveals the contents of visual working memory in early visual areas](https://www.dropbox.com/s/adbmma3wk80ypon/Harrison%20Nature%202009.pdf?dl=0)，[RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE OF MONKEY STRIATE CORTEX](https://www.dropbox.com/s/g62tormb9s7ka4j/jphysiol01104-0228.pdf?dl=0)，[The Fusiform Face Area](https://www.dropbox.com/s/6bzwtfnoaf8948x/KanwisherMcDermottChunJNeuro97.pdf?dl=0)，[Less Is More](https://www.dropbox.com/s/vboc5f6y5frgey8/KokJeheeDeLange_Neuron2012.pdf?dl=0)，[Goal-dependent dissociation of visual and prefrontal cortices during working memory](https://www.dropbox.com/s/d7xp3ef8tzwi0x1/lee2013.pdf?dl=0)，[Crowding, grouping, and object recognition](https://www.dropbox.com/s/hx90gqve9qs4loj/Manassi_JOV_2015.pdf?dl=0)，[Selectivity for the Shape, Size, and Orientation of Objects for Grasping in Neurons of Monkey Parietal Area AIP](https://www.dropbox.com/s/hfwm39qtel5tj72/Murata-Gallese%202000.pdf?dl=0)，[Dynamics of motion signaling by neurons in macaque area MT](https://www.dropbox.com/s/uozryjtfi7px7jy/Smith.Majaj.Movshon.NatNeurosc.2005.pdf?dl=0)，[Nonstimulated early visual areas carry information about surrounding context](https://www.dropbox.com/s/98iia1ngweuutrj/PNAS-2010-Smith-20099-103.pdf?dl=0)。
 
 > 诗1.1 眼见耳闻的现象显然不是随机的，有一种美在召唤着我们去注视。
 
@@ -71,11 +71,11 @@ layout: default
 
 <mark>**ΜΡΣ**</mark>. 对象。将现象进行统计，提取出对象的特征构成对象的属性，对象是一个N元组，即笛卡尔积。
 
-> 诗2.1
+> 诗
 >
 > "The theme of this book is that a universe comes into being when a space is severed or taken apart. The act is itself already remembered, even if unconsciously, as our first attempt to distinguish different things in a world where, in the first place, the boundaries can be drawn anywhere we please. At this stage the universe cannot be distinguished from how we act upon it, and the world may seem like shifting sand beneath our feet.”
 
-<mark>**ΓΛΝ**</mark>. 余光路由和看门人。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
+<mark>**ΓΛΝ**</mark>. 余光。每一层的处理都得到更少的原始信息，分流的信息交给世界、身体、本能、反射、余光、无意识、下意识以及他人去处理，看门人会在必要时刻唤醒意识，去处理那里的原始信息。这种路由结构是为了兼顾信息处理的深度和广度。
 
 > 诗1
 >
@@ -91,7 +91,19 @@ layout: default
 >
 > ——《Out of sight, but still in mind》Mark Williams
 
-<mark>**ΔΚΓ**</mark>. 同一对象。时序上出现相似对象，视为同一对象。
+<mark>**ΠΒΛ**</mark>. 抽象。定义某个函数F，一块现象s和现象s'，有F(s) = F(s')，于是s, s'放入集合S。有一块现象t和现象t'，有F(t) = F(t')，于是t,t'放入集合T。T是对t,t'的抽象。不同的抽象方法有不同的F。
+
+> 诗
+>
+> 简并（degeneracy，但英文degeneracy具有多种含义），在物理学、生物学等领域有不同解释。例如在量子力学中，原子中的电子，由其能量确定的同一能级状态，可以有两种不同自旋量子数的状态，该能级状态是两种不同的自旋状态的简并态。生物学上，简并是指遗传密码子的简并性，即同一种氨基酸具有两个或更多个密码子的现象。
+
+>  诗
+>
+> ![group](imgs/group.jpeg)
+>
+> 通过互反性、传递性、对称性的等价关系，对不变子群做商，得到陪集。
+
+<mark>**ΔΚΓ**</mark>. 同一对象。时序上出现相似对象，视为同一对象。同一是抽象的一个实例。
 
 > 诗
 >
@@ -122,7 +134,7 @@ layout: default
 >
 > 利用早期视觉皮层中与视野右下象限区域拓扑对应体素进行mvpa解码，也可以发现非常显著的结果，这种活动的模式是与真正呈现视觉刺激相关联的。表明即使“缺少”一部分刺激，在大脑中也可以“自动的”帮我们“补全”这一部分丢掉的信息。
 
-<mark>**ΠΧΖ**</mark>. 抽象。将不同看为残缺，用想象补全为同一的完整。由一个信号指称多个事物或现象。
+<mark>**ΠΧΖ**</mark>. Form(柏拉图)。将不同看为残缺，用想象补全为Form。由一个信号指称多个事物或现象。Form是抽象的一个实例。
 
 > 诗7.1
 >
@@ -158,7 +170,7 @@ layout: default
 >
 > ![泛化记忆](/Users/isrion/Documents/blog/imgs/泛化记忆.PNG)
 
-<mark>**ΛΔΣ**</mark>. 具体。由一个抽象指称，加上特殊限定而回到实例化的对象。
+<mark>**ΛΔΣ**</mark>. 具体。对一个抽象，加上特殊限定而回到实例化的对象。
 
 <mark>**ΔΝΓ**</mark>. 运动。基于「**同一对象**」，将同一对象在时间上的变化，用运动描述。
 
@@ -168,7 +180,7 @@ layout: default
 >
 > 飞矢不动——一支飞行的箭是静止的。由于每一时刻这支箭都有其确定的位置因而是静止的，因此箭就不能处于运动状态。——芝诺
 
-<mark>**ΜΨΦ**</mark>. 语言结构。词项指称对象，谓词指称运动、相互作用、关系，命题指称现象。
+<mark>**ΜΨΦ**</mark>. 语言结构。词项指称对象，谓词指称运动、相互作用、关系，命题指称现象。（TODO补充目光跟随>以手指物>联合注意>意图读取>场景分离
 
 > 诗1
 >
@@ -695,6 +707,10 @@ layout: default
 >
 > ——荣格（C.G.Jung）《红书》
 
+> 诗
+>
+> 大家都是从现象开始拆分，拆分成一个现象的发射源，一个现象的感受器，来解释现象的生成，又接着拆分发射源为n个元素的组合，又将感受器拆分为M个范畴或识，拆到拆不动了或拆厌了，就停留在先天、物自体、混元、提亚马特、缘起、阿赖耶识。但实际上怎么拆都可以，如果没有约束条件的话。
+
 
 
 
@@ -994,13 +1010,8 @@ layout: default
 > 诗  心の壁
 >
 > ![AbsoluteTerrorField](imgs/AbsoluteTerrorField.jpeg)
->
 
-<mark>**ΧΤΖ**</mark>. 自由的原因。人的层次仍然继承天演游戏的分布式迷宫样非凸优化。分布式规律是，个体体量与数量呈一定分布，达到迷宫寻优最佳效率。大个体少，小个体多。较多的小个体可在小利益反馈下寻优，逐渐发展为大个体，克服“梯度消失”。
 
-> 诗
->
-> 大公司病 = instance(梯度消失)
 
 <mark>**ΓΣΒ**</mark>. 混元诅咒——路径依赖。存在的递归演进总是被之前的存在形式影响着，这是因为尝试解总是临近已存解。接近的程度称为寻优半径。有时人类理性的寻优半径大于自然理性，部分情况自然理性的寻优半径大于人类理性。
 
@@ -1053,6 +1064,28 @@ layout: default
 > 柏拉图的洞穴。
 >
 > ![Platon_Cave_Sanraedam_1604](imgs/Platon_Cave_Sanraedam_1604.jpg)
+
+<mark>**ΒΞΠ**</mark>. 新认识论。数据驱动，经验主义。理性主义认为人有**先天**/**先验**/直觉之类的能力（如康德的范畴表）来加工经验，使得人可能从已经经历过的事物“推演”出关于未曾经历过的事物的知识。经验主义人为只有经验就足够了。但是进化论之后，人体人脑也是被天演算法用数据驱动“**学习**”来的。所以人体是更大经验的结果。在“生存验证”的角度下，综合命题都变成了经验主义、数据驱动。【ΛΦΧ. 认识论】
+
+> 诗
+>
+> 康德范畴表
+>
+> 判断的量：1全称的，2特称的，3单称的
+> 判断的质：4肯定的，5否定的，6无限的
+> 判断的关系：7定言的，8假言的，9选言的
+> 判断的模态：10或然的，11实然的，12必然的
+>
+> 量的范畴：1单一性，2复多性，3全体性
+> 质的范畴：4实在性，5否定性，6限定性
+> 关系的范畴：7依存性与自存性，8因果性与隶属性，9共联性
+> 样式的范畴：10可能性与不可能性，11存在与不存在，12必然性与偶然性
+
+> 诗
+>
+> 亚里士多德范畴
+>
+> 实体(如“人”或“马”)，数量(如“二尺长”或“三尺长”)，性质(如“白色的”)，关系(如“二倍”、“一半”、“大于”)，地点(如“在市场上”、“在吕克昂”)，时间(如“昨天”、“去年”)，姿态(如“坐着”、“躺着”)，状态(如“穿鞋的”、“武装的”)，动作(如“切割”、“烧灼”)，遭受(如“被刺”、“被烧灼”)
 
 <mark>**ΥΠΧ**</mark>. 无意识到意识的倒影。无意识以分型为形式、混元为奇点，投射在人的意识中。这个投射不完全。
 
@@ -1207,6 +1240,20 @@ layout: default
 - 可以分工、专业化；
 - 生产出于交换目的的物品，允许市场出现；
 - 由专业化产生的复杂知识，大型社会可以储存。
+
+<mark>**ΛΒΣ**</mark>. Zipf分布。众多基础元素n，一部分可以聚集为一个较大元素M，元素便具有了size属性。元素size的分布由于某种最优化约束，使得呈现为Zipf分布。
+
+<mark>**ΡΛΧ**</mark>. 章鱼组织。小个体凭数量尝试芽，大个体作为桩，在芽成功后输送资源。人的层次仍然继承天演游戏的分布式迷宫样非凸优化。分布式规律是，个体体量与数量呈一定分布（可能是Zipf分布），达到迷宫寻优最佳效率。大个体少，小个体多。较多的小个体可在小利益反馈下寻优，逐渐发展为大个体，克服“梯度消失”。ΓΠΚ, ΛΒΣ
+
+> 诗
+>
+> 大体量施乐公司看不上的图形界面操作系统，被乔布斯偷走了。
+
+> 诗
+>
+> 大明看不上或玩不转的海洋贸易，改变了15世纪后的世界。加纳采金的上林人，不断成长，遇到大公司打压，官办没跟上。
+
+
 
 <mark>**ΩΧΒ**</mark>. 轴心的三重等效假设。假设我们处于存在之树、昰生川的主干上，这使得知识（参考**ΣΓΔ**）具有以下等效性：
 
@@ -1386,7 +1433,7 @@ layout: default
 >
 > - 对官制度：回避制度，流官制；
 > - 对民制度：编户齐民，连坐制，保甲制；
-> - 对边制度：朝贡制，羁縻制度，土司制，盟旗制，改土归流。
+> - 对外制度：朝贡制，羁縻制度，土司制，盟旗制，改土归流。
 
 > 诗52.2
 >
@@ -1401,6 +1448,12 @@ layout: default
 > 简言之，维系一统体制的两个核心组织机制，一是官僚制度，二是观念制度。前者涉及中央政府及其下属各级政府机构间的等级结构；后者则表现为国家与个人（官员、公民）之间在社会心理、文化观念上的认同，体现在政府内外、全国上下的共享价值上。这两个制度提供了一统体制的组织基础。
 >
 > ——周雪光《中国国家治理的制度逻辑》
+
+> 诗
+>
+> 问：六经者，先王之治具，而后世之取法也。《书》载上古，《春秋》纪事，《诗》以微言感刺，《易》道隐而深矣，其切于世者《礼》与《乐》也。自秦之焚书，六经尽矣。至汉而出者，皆其残脱颠倒，或传之老师昏耄之说，或取之冢墓屋壁之间，是以学者不明，异说纷起。况乎《周礼》，其出最后，然其为书备矣。其天地万物之统，制礼作乐，建国君民，养生事死，禁非道善，所以为治之法皆有条理。三代之政美矣，而周之治迹所以比二代而尤详见于后世者，《周礼》著之故也。然汉武以为渎乱不验之书，何休亦云六国阴谋之说，何也？然今考之，实有可疑者。夫内设公卿、大夫、士，下至府史、胥徒，以相副贰；外分九服、建五等、差尊卑以相统理，此《周礼》之大略也。而六官之属略见于经者五万余人，而里闾县鄙之长、军师卒伍之徒不与焉。王畿千里之地，为田几井，容民几家？王官、王族之国邑几数？民之贡赋几何？而又容五万人者于其间，其人耕而赋乎？如其不耕而赋，则何以给之？夫为治者，故若是之烦乎？此其一可疑者也。秦既诽古，尽去古制。自汉以后，帝王称号，官府制度，皆袭秦故，以至于今虽有因有革，然大抵皆秦制也。未尝有意于《周礼》者，岂其体大而难行乎，其果不可行乎？夫立法垂制，将以遗后也，使难行而万世莫能行，与不可行等尔。然则反秦制之不若也，脱有行者，亦莫能兴，或因以取乱，王莽后周是也，则其不可用决矣。此又可疑也。然其祭祀、衣服、车旗似有可采者，岂所谓郁郁之文乎？三代之治，其要如何？《周礼》之经，其失安在？宜于今者，其理安从？其悉陈无隐。
+>
+> —— 欧阳修 《文忠集》居士集卷四十八，策问十二道，问进士策三首
 
 <mark>**ΣΖΗ**</mark>. 预言第四阶段社会化：一种前所未有的超个体「利维坦」将出现，公司是它的器官，金融是它的供血的心脏，互联网是它的低级神经系统。绝大多数个体不再面对自然环境，变成辛苦工作的肝脏、肾脏、肠胃，警察、士兵是它的免疫系统。利维坦给我说着甜言蜜语，蒙住我的眼睛，捂住我的耳朵，让我做一场永远醒不来的美梦。利维坦营造了这样的环境，筛选适应这种环境的顺从、平和的驯化个体。如同多细胞生物的细胞放弃自我发展，将所有希望寄托在精子、卵子上，驯化个体也将放弃自我发展，将所有希望寄托在利维坦上。普通野生个体、野生族群在利维坦面前被碾压。这也是一个大部分个体做桩，少数人做芽，保留混元、自由的过程，存在之链流溢的过程，一切将比可避免。
 
